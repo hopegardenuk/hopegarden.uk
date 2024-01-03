@@ -31,7 +31,7 @@ export default defineConfig({
       {
         name: "post",
         label: "Posts",
-        path: "content/posts",
+        path: "content/english/blog",
         fields: [
           {
             type: "string",
@@ -41,9 +41,90 @@ export default defineConfig({
             required: true,
           },
           {
+            type: "string",
+            name: "description",
+            label: "Description",
+            required: true,
+          },
+          {
+            type: "datetime",
+            name: "date",
+            label: "Date",
+            required: true,
+          },
+          {
+            type: "string",
+            name: "author",
+            label: "Author",
+            list: true,
+            required: true,
+          },
+          {
+            type: "string",
+            name: "tags",
+            label: "Tags",
+            list: true,
+          },
+          {
+            type: "string",
+            name: "categories",
+            label: "Categories",
+            list: true,
+          },
+          {
             type: "rich-text",
             name: "body",
             label: "Body",
+            isBody: true,
+          },
+        ],
+      },
+      {
+        name: "erthygl",
+        label: "Erthyglau",
+        path: "content/cymraeg/blog",
+        fields: [
+          {
+            type: "string",
+            name: "title",
+            label: "Teitl",
+            isTitle: true,
+            required: true,
+          },
+          {
+            type: "string",
+            name: "description",
+            label: "Disgrifiad",
+            required: true,
+          },
+          {
+            type: "datetime",
+            name: "date",
+            label: "Dyddiad",
+            required: true,
+          },
+          {
+            type: "string",
+            name: "author",
+            label: "Awdur",
+            list: true,
+          },
+          {
+            type: "string",
+            name: "tags",
+            label: "Tagiau",
+            list: true,
+          },
+          {
+            type: "string",
+            name: "categories",
+            label: "Categorïau",
+            list: true,
+          },
+          {
+            type: "rich-text",
+            name: "body",
+            label: "Testun",
             isBody: true,
           },
         ],
