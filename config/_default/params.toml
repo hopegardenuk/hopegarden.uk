@@ -9,7 +9,7 @@ logo_width = "208px"
 # if logo_webp set false, will not generate WEBP version of logo | default is true
 logo_webp = true
 # logo text will only show when logo is missing.
-logo_text = "Bookworm"
+logo_text = "Hope Garden"
 # purgeCSS
 purge_css = true
 
@@ -30,7 +30,7 @@ theme_copyright = true
 copyright = "Copyright by your company"
 
 # google tag manager, see https://developers.google.com/tag-manager/
-google_tag_manager = "" # example: G-XXXXXXXXXX
+# google_tag_manager = "" # example: G-XXXXXXXXXX
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>"
 custom_script= ""
 
