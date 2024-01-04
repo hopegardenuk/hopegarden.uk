@@ -60,6 +60,12 @@ export default defineConfig({
             required: true,
           },
           {
+            type: "rich-text",
+            name: "body",
+            label: "Body",
+            isBody: true,
+          },
+          {
             type: "string",
             name: "tags",
             label: "Tags",
@@ -72,10 +78,22 @@ export default defineConfig({
             list: true,
           },
           {
-            type: "rich-text",
-            name: "body",
-            label: "Body",
-            isBody: true,
+            type: "string",
+            name: "images",
+            label: "Images",
+            list: true,
+          },
+          {
+            type: "string",
+            name: "captions",
+            label: "Captions",
+            list: true
+          },
+          {
+            type: "string",
+            name: "alttext",
+            label: "AltText",
+            list: true
           },
         ],
       },
@@ -110,6 +128,12 @@ export default defineConfig({
             list: true,
           },
           {
+            type: "rich-text",
+            name: "body",
+            label: "Testun",
+            isBody: true,
+          },
+          {
             type: "string",
             name: "tags",
             label: "Tagiau",
@@ -122,10 +146,22 @@ export default defineConfig({
             list: true,
           },
           {
-            type: "rich-text",
-            name: "body",
-            label: "Testun",
-            isBody: true,
+            type: "string",
+            name: "images",
+            label: "Delweddau",
+            list: true,
+          },
+          {
+            type: "string",
+            name: "captions",
+            label: "Capsiynau",
+            list: true
+          },
+          {
+            type: "string",
+            name: "alttext",
+            label: "AltText",
+            list: true
           },
         ],
       },
