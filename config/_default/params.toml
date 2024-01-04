@@ -136,21 +136,16 @@ button = "I Accept"
 
 ############################# Social site ########################
 [[social]]
-title = "facebook"
+title = "Newsletter"
 icon = "fab fa-facebook"  # fontawesome icon pack : https://fontawesome.com/icons/
 link = "#"
 
 [[social]]
-title = "twitter"
+title = "Mastodon"
 icon = "fab fa-twitter"  # fontawesome icon pack : https://fontawesome.com/icons/
 link = "#"
 
 [[social]]
-title = "instagram"
+title = "Ko-fi"
 icon = "fab fa-instagram" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
-
-[[social]]
-title = "linkedin"
-icon = "fab fa-linkedin" # fontawesome icon pack : https://fontawesome.com/icons/
 link = "#"
