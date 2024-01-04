@@ -20,14 +20,14 @@ mainSections = ["blog"]
 # Post layout
 post_layout = "list" # Post-Layout value ("grid" or "list")
 # Blog-details page sidebar
-sidebar = "false" # Sidebar value ("left", "right" or false)
+sidebar = "true" # Sidebar value ("left", "right" or false)
 
 # image gallery shortcode
 image_gallery = true
 
 # copyright
-theme_copyright = true
-copyright = "Copyright by your company"
+theme_copyright = false
+copyright = "Website licensed under [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/), embedded work may have other licenses."
 
 # google tag manager, see https://developers.google.com/tag-manager/
 # google_tag_manager = "" # example: G-XXXXXXXXXX
@@ -79,7 +79,7 @@ crisp_website_id = "75ea92c2-a135-4f5c-8b44-54f9ddc30745" # replace this code wi
 
 # Valine Comment
 [valine_comment]
-enable = true
+enable = false
 appId = "" # replace this code with yours [ex: QGzwQXOqs5JOhN4RGPOkR2mR-MdYXbMMI]
 appKey = "" # replace this code with yours [ex: WBmoGyJtbqUswvfLh6L8iEBr]
 # language = "change language translation from `i18n`"
@@ -94,9 +94,9 @@ enableQQ = false # https://valine.js.org/en/configuration.html#enableQQ
 
 # seo meta data for OpenGraph / Twitter Card
 [metadata]
-keywords = ["Boilerplate", "Hugo", "Themefisher", "GetHugoThemes"]
-description = "This is meta description"
-author = "Themefisher"
+keywords = ["Forest Garden", "Wildlife Garden", "Hope Garden", "Food Forest", "Community Assembly", "Peoples Assembly"]
+description = "A wildlife forest garden with a Community Assembly at its heart 💚"
+author = "Jake Rayson"
 image = "images/favicon.png" # this image will be used as fallback if a page has no image of its own
 
 # matomo tracking: see https://matomo.org/
@@ -121,20 +121,20 @@ enable = false
 username = "" # your username
 
 # site verifications
-[site_verification]
-google = "" # Your verification code
-bing = "" # Your verification code
-baidu = "" # Your verification code
-facebook = "" # Your verification code
+# [site_verification]
+# google = "" # Your verification code
+# bing = "" # Your verification code
+# baidu = "" # Your verification code
+# facebook = "" # Your verification code
 
 # cookies
 [cookies]
-enable = true
+enable = false
 expire_days = 2
 content = "This site uses cookies. By continuing to use this website, you agree to their use."
 button = "I Accept"
 
-############################# social site ########################
+############################# Social site ########################
 [[social]]
 title = "facebook"
 icon = "fab fa-facebook"  # fontawesome icon pack : https://fontawesome.com/icons/
