@@ -117,8 +117,8 @@ domain = "" # yourdomain.com
 
 # counter analytics: see https://counter.dev/setup.html
 [counter]
-enable = false
-username = "" # your username
+enable = true
+username = "natureworks" # your username
 
 # site verifications
 # [site_verification]
