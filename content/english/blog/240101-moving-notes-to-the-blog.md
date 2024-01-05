@@ -1,8 +1,6 @@
 ---
 title: Moving notes to the blog
-description: >-
-  From now on, I will be adding Hope Garden notes to the blog page rather than
-  the project page
+description: From now on, I will be adding Hope Garden notes to the blog page rather than the project page
 date: 2024-01-01T00:00:00.000Z
 author:
   - Jake Rayson
@@ -12,8 +10,7 @@ tags:
 categories:
   - Website
 images:
-  - >-
-    https://res.cloudinary.com/growdigital/image/upload/v1704490304/hope/240105-new-blog-screenshot.jpg
+  - https://res.cloudinary.com/growdigital/image/upload/v1704490304/hope/240105-new-blog-screenshot.jpg
 captions:
   - 'The new blog website, with mostly boilerplate content!'
 alttext:
