@@ -167,4 +167,12 @@ export default defineConfig({
       },
     ],
   },
+  search: {
+    tina: {
+      indexerToken: 'e65d4bae40c44fb21a54ed4b55ccff8089986ad6',
+      stopwordLanguages: ['eng'],
+    },
+    indexBatchSize: 100,
+    maxSearchIndexFieldLength: 100,
+  },
 });
