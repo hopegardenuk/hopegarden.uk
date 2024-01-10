@@ -1,10 +1,18 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
+title: {{ replace .TranslationBaseName "-" " " | title }}
+description: 
 date: {{ .Date }}
-# meta keywords
-keywords: []
-# meta description
-description: "This is meta description"
-# save as draft
+author:
+-
+tags: 
+- 
+categories:
+- 
+images: 
+- 
+captions:
+- 
+alttext:
+- 
 draft: false
 ---
