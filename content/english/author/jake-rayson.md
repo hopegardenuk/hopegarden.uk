@@ -7,8 +7,6 @@ draft: false
 social:
 - icon: "fab fa-mastodon" # https://fontawesome.com/
   link: "https://mas.to/@natureworks"
-- icon: "fab fa-house" # https://fontawesome.com/
-  link: "https://www.natureworks.org.uk"
 ---
 
 Jake is a wildlife forest garden designer, with a keen interest in politics
