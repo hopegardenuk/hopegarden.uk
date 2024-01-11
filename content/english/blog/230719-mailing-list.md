@@ -22,6 +22,6 @@ draft: false
 Mailing list alternatives to Substack (Nazi) and MailChimp (Nasty):
 
 * [listmonk](https://listmonk.app/), free, self-hosted
-* [PikaPods](https://www.pikapods.com/apps) hosting $2 per month
-* [Railway](https://railway.app/pricing) hosting $5 per month
+  * [PikaPods](https://www.pikapods.com/apps) hosting $2 per month
+  * [Railway](https://railway.app/pricing) hosting $5 per month
 * [Buttondown](https://buttondown.email/) $9 per month
