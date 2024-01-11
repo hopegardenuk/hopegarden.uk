@@ -97,23 +97,7 @@ enableQQ = false # https://valine.js.org/en/configuration.html#enableQQ
 keywords = ["Forest Garden", "Wildlife Garden", "Hope Garden", "Food Forest", "Community Assembly", "Peoples Assembly"]
 description = "A wildlife forest garden with a Community Assembly at its heart 💚"
 author = "Jake Rayson"
-image = "images/favicon.png" # this image will be used as fallback if a page has no image of its own
-
-# matomo tracking: see https://matomo.org/
-[matomo]
-enable = false
-url = "" # your matomo url
-id = "" # your matomo id
-
-# baidu analytics: see https://tongji.baidu.com/
-[baidu]
-enable = false
-analytics_id = "" # Your ID
-
-# plausible analytics: see https://plausible.io/
-[plausible]
-enable = false
-domain = "" # yourdomain.com
+image = "https://res.cloudinary.com/growdigital/image/upload/w_800/v1689077853/hope/garden-sketch-230711.jpg" # this image will be used as fallback if a page has no image of its own
 
 # counter analytics: see https://counter.dev/setup.html
 [counter]

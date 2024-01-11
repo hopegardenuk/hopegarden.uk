@@ -67,7 +67,6 @@ maxAge = "720h"
 dir = ":resourceDir/_gen"
 maxAge = "720h"
 
-
 ############################# Markup ###############################
 [markup]
 [markup.goldmark.renderer]
@@ -75,7 +74,6 @@ unsafe= true
 
 [markup.highlight]
 style = 'monokai' # see https://xyproto.github.io/splash/docs/all.html
-
 
 ############################ Media types ############################
 [mediaTypes]
