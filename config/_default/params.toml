@@ -104,13 +104,6 @@ image = "https://res.cloudinary.com/growdigital/image/upload/w_800/v1689077853/h
 enable = true
 username = "natureworks" # your username
 
-# site verifications
-# [site_verification]
-# google = "" # Your verification code
-# bing = "" # Your verification code
-# baidu = "" # Your verification code
-# facebook = "" # Your verification code
-
 # cookies
 [cookies]
 enable = false
