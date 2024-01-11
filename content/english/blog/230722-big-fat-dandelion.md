@@ -2,8 +2,7 @@
 title: Big fat dandelion
 description: Idea for native wildflower display
 date: 2023-07-23T14:05:34Z
-author:
-- Jake Rayson
+author: "Jake Rayson"
 tags: 
 - WildFlower
 - NativePlants

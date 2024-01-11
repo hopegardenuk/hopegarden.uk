@@ -2,8 +2,7 @@
 title: Blogged
 description: The CMS is in place, for English and Welsh blog posts, with multiple authors. Woot.
 date: 2024-01-10T21:34:37Z
-author:
-- Jake Rayson
+author: "Jake Rayson"
 tags: 
 - website
 categories:

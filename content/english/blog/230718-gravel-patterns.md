@@ -2,8 +2,7 @@
 title: Gravel patterns
 description: A method for creating patterned gravel?
 date: 2023-07-18T14:16:40Z
-author:
-- Jake Rayson
+author: "Jake Rayson"
 tags: 
 - gravel
 - design

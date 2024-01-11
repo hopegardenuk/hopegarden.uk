@@ -2,8 +2,7 @@
 title: Benjamin Vogt quote
 description: Quote from native plant book ‘A New Garden Ethic’
 date: 2023-07-23T14:02:55Z
-author:
-- Jake Rayson
+author: "Jake Rayson"
 tags: 
 - Quote
 - Inspiration

@@ -2,8 +2,7 @@
 title: Website ideas
 description: Themes and possible layouts for Hope Garden website
 date: 2023-07-11T14:35:06Z
-author:
-- Jake Rayson
+author: "Jake Rayson"
 tags: 
 - Website
 - Admin

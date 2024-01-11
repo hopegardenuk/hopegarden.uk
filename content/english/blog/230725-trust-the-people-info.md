@@ -2,8 +2,7 @@
 title: Trust the People info
 description: Email with links from TTP on 21 July
 date: 2023-07-25T13:59:48Z
-author:
-- Jake Rayson
+author: "Jake Rayson"
 tags: 
 - TrustThePeople
 - CommunityAssembly

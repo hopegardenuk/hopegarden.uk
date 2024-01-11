@@ -2,8 +2,7 @@
 title: Prototype partners
 description: Possible partners for the Prototype Hope Garden. Plus flowers.
 date: 2023-07-17T14:27:53Z
-author:
-- Jake Rayson
+author: "Jake Rayson"
 tags: 
 - Prototype
 - Partners

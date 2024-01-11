@@ -2,8 +2,7 @@
 title: Footpath widths
 description: Hope needs to be accessible
 date: 2023-07-23T14:32:30Z
-author:
-- Jake Rayson
+author: "Jake Rayson"
 tags: 
 - Landscaping
 - Design

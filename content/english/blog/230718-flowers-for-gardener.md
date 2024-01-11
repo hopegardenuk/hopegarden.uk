@@ -2,8 +2,7 @@
 title: Flowers for gardener
 description: Wild flowers and their Welsh names for Denise the XR Gardener
 date: 2023-07-18T16:18:45Z
-author:
-- Jake Rayson
+author: "Jake Rayson"
 tags: 
 - NativePlants
 - WildFlower

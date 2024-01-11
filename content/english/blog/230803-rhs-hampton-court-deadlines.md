@@ -2,8 +2,7 @@
 title: RHS Hampton Court deadlines
 description: Key dates for applications 
 date: 2023-08-03T13:55:27Z
-author:
-- Jake Rayson
+author: "Jake Rayson"
 tags: 
 - admin
 - HamptonCourt

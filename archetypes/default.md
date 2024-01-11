@@ -2,8 +2,7 @@
 title: {{ replace .TranslationBaseName "-" " " | title }}
 description: 
 date: {{ .Date }}
-author:
--
+author: 
 tags: 
 - 
 categories:

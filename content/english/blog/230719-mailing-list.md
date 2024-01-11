@@ -2,8 +2,7 @@
 title: Mailing list
 description: 
 date: 2023-07-19T14:08:08Z
-author:
-- Jake Rayson
+author: "Jake Rayson"
 tags: 
 - Admin
 - Mailing

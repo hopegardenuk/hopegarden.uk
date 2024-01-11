@@ -2,8 +2,7 @@
 title: Yr Ardd visit
 description: Visit to Yr Ardd community garden in Llandysul to see if possible collaboration
 date: 2023-07-24T14:01:09Z
-author:
-- Jake Rayson
+author: "Jake Rayson"
 tags: 
 - YrArdd
 categories:
