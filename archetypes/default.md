@@ -1,16 +1,12 @@
 ---
 title: {{ replace .TranslationBaseName "-" " " | title }}
-date: {{ .Date }}
 description: 
+date: {{ .Date }}
+author: 
 tags: 
-- 
 categories:
--
 images: 
-- 
-alttext:
-- 
 captions:
-- 
+alttext:
 draft: false
 ---

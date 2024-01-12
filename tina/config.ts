@@ -9,7 +9,6 @@ const branch =
 
 export default defineConfig({
   branch,
-
   // Get this from tina.io
   clientId: process.env.NEXT_PUBLIC_TINA_CLIENT_ID,
   // Get this from tina.io
@@ -25,7 +24,7 @@ export default defineConfig({
       publicFolder: "static",
     },
   },
-  // See docs on content modeling for more info on how to setup new content models: https://tina.io/docs/schema/
+  // See docs on  content modeling for more info on how to setup new content models: https://tina.io/docs/schema/
   schema: {
     collections: [
       {
@@ -56,7 +55,6 @@ export default defineConfig({
             type: "string",
             name: "author",
             label: "Author",
-            list: true,
             required: true,
           },
           {

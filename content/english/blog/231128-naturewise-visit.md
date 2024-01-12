@@ -11,12 +11,14 @@ tags:
 categories:
   - Notes
 images:
-  - >-
-    https://res.cloudinary.com/growdigital/image/upload/v1702981699/parcteifi/231128-bench.jpg
+  - https://res.cloudinary.com/growdigital/image/upload/v1702981699/parcteifi/231128-bench.jpg
+  - https://res.cloudinary.com/growdigital/image/upload/v1705007716/parcteifi/231128-fwymtv-169.jpg
 captions:
   - Hand made bench at Naturewise
+  - Naturewise roundhouse, possible site in foreground
 alttext:
   - Photo of bench
+  - Photo of roundhouse with patch of woodchip covered ground & paths in front
 ---
 
 * Met Raphaelle at [Naturewise forest garden](https://naturewise.org.uk/forest-garden/) in Parc Teifi, Cardigan.
