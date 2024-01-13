@@ -9,8 +9,7 @@ tags:
 categories:
   - Prototype
 images:
-  - >-
-    https://res.cloudinary.com/growdigital/image/upload/v1696183846/hope/farmyard-bench-231001.jpg
+  - https://res.cloudinary.com/growdigital/image/upload/v1696183846/hope/farmyard-bench-231001.jpg
 captions:
   - Local wooden bench made from Larch for less money
 alttext:

@@ -10,11 +10,8 @@ tags:
 categories:
 - HamptonCourt
 images: 
-- 
 captions:
-- 
 alttext:
-- 
 draft: false
 ---
 

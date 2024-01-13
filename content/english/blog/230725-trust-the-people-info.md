@@ -10,11 +10,8 @@ tags:
 categories:
 - CommunityAssembly
 images: 
-- 
 captions:
-- 
 alttext:
-- 
 draft: false
 ---
 

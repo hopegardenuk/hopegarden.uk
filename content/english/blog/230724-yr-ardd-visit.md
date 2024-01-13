@@ -8,11 +8,8 @@ tags:
 categories:
 - Prototype
 images: 
-- 
 captions:
-- 
 alttext:
-- 
 draft: false
 ---
 

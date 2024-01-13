@@ -12,11 +12,8 @@ tags:
 categories:
 - Design
 images: 
-- 
 captions:
-- 
 alttext:
-- 
 draft: false
 ---
 

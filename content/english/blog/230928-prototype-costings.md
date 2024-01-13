@@ -11,8 +11,7 @@ tags:
 categories:
   - Prototype
 images:
-  - >-
-    https://res.cloudinary.com/growdigital/image/upload/w_1200/v1695908862/hope/cube-bench-recycled-plastic-second-life.jpg
+  - https://res.cloudinary.com/growdigital/image/upload/w_1200/v1695908862/hope/cube-bench-recycled-plastic-second-life.jpg
 captions:
   - Plastic benches made from recycled silage covers
 alttext:
