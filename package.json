@@ -1,7 +1,7 @@
 {
   "name": "bookworm-hugo",
   "version": "3.3.0",
-  "license": "LICENSED!",
+  "license": "UNLICENSED",
   "author": "gethugothemes",
   "scripts": {
     "dev": "tinacms dev -c \"hugo server -D\"",
