@@ -123,7 +123,6 @@ export default defineConfig({
             type: "string",
             name: "author",
             label: "Awdur",
-            list: true,
           },
           {
             type: "rich-text",
