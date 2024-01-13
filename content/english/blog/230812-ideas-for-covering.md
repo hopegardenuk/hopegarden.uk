@@ -2,8 +2,7 @@
 title: Ideas for covering
 description: Keep it simple
 date: 2023-08-11T23:00:00.000Z
-author:
-  - Jake Rayson
+author: Jake Rayson
 tags:
   - Design
   - Ideas

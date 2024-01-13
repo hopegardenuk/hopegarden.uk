@@ -4,9 +4,9 @@ description:
 date: {{ .Date }}
 author: 
 tags: 
-categories:
+categories: 
 images: 
-captions:
-alttext:
+captions: 
+alttext: 
 draft: false
 ---

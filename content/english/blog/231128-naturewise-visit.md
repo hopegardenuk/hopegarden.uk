@@ -2,8 +2,7 @@
 title: Naturewise visit
 description: A visit to Naturewise community forest garden to discuss prototype Hope Garden
 date: 2023-11-28T00:00:00.000Z
-author:
-  - Jake Rayson
+author: Jake Rayson
 tags:
   - Aberteifi
   - Prototype

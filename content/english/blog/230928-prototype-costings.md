@@ -2,8 +2,7 @@
 title: Prototype costings
 description: Rough costings for the prototype Hope Garden
 date: 2023-09-27T23:00:00.000Z
-author:
-  - Jake Rayson
+author: Jake Rayson
 tags:
   - prototype
   - price

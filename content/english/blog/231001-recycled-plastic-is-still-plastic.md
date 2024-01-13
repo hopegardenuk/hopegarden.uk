@@ -2,10 +2,11 @@
 title: Recycled plastic is still plastic
 description: Is it okay to use recycled plastic in a wilidlife garden?
 date: 2023-09-30T23:00:00.000Z
-author:
-  - Jake Rayson
+author: Jake Rayson
 tags:
   - Furniture
+  - Design
+  - Ethics
 categories:
   - Prototype
 images:

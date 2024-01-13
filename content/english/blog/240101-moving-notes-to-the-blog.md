@@ -2,8 +2,7 @@
 title: Moving notes to the blog
 description: From now on, I will be adding Hope Garden notes to the blog page rather than the project page
 date: 2024-01-01T00:00:00.000Z
-author:
-  - Jake Rayson
+author: Jake Rayson
 tags:
   - admin
   - blog
