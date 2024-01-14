@@ -1,6 +1,6 @@
 [build]
 publish = "public"
-command = "yarn project-setup && yarn install && yarn build"
+command = "npm project-setup && npm install && npm build"
 
 [build.environment]
 HUGO_VERSION = "0.115.1"
