@@ -18,7 +18,7 @@ alttext:
   - Big blue sky and wide field and polytunnel just visible
 ---
 
-Well, I have \*\*just \*\*about finished the basic functionality of the website, meaning blog posts can be written using a web browser rather than a too-technical text editor.
+Well, I have \*\*just\*\* about finished the basic functionality of the website, meaning blog posts can be written using a web browser rather than a too-technical text editor.
 
 And I took a visit to the potential site of the Prototype Hope Garden in my local village, by the allotment. I even made a little video.
 
