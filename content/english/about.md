@@ -1,29 +1,29 @@
 ---
 title: "About"
 layout: "about"
-image: "images/about.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/v1705606219/190720-hazel-fuscorubra.jpg"
 draft: false
 
 #caption
 caption:
   enable: true
-  title: "I’m Henara Colii, A content writer based in LDN, currently at Bookworm."
+  title: "A wildlife forest garden with a Community Assembly at its heart 💚"
 
 # social
 social:
   enable: true
   social_links:
-  - link: "https://www.facebook.com/"
-    icon: "fab fa-facebook-f"
+  - link: "https://buttondown.email/hopegarden"
+    icon: "fa-solid fa-newspaper"
 
-  - link: "https://www.twitter.com/"
-    icon: "fab fa-twitter"
+  - link: "https://climatejustice.social/@hopegarden"
+    icon: "fab fa-mastodon"
     
-  - link: "https://www.linkedin.com/"
-    icon: "fab fa-instagram"
+  - link: "https://ko-fi.com/hopegarden"
+    icon: "fa-solid fa-mug-hot"
     
-  - link: "https://www.github.com/"
-    icon: "fab fa-linkedin-in"
+  - link: "https://www.codeberg.com/natureworks/hopegarden"
+    icon: "fa-solid fa-code-branch"
 
 # what_i_do
 what_i_do:

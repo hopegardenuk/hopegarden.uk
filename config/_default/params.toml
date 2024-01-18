@@ -127,3 +127,8 @@ title = "Ko-fi"
 icon = "fa-solid fa-mug-hot" # fontawesome icon pack : https://fontawesome.com/icons/
 link = "https://ko-fi.com/hopegarden"
 
+[[social]]
+title = "Codeberg"
+icon = "fa-solid fa-code-branch" # fontawesome icon pack : https://fontawesome.com/icons/
+link = "https://codeberg.org/natureworks/hopegarden"
+
