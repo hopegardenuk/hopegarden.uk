@@ -3,7 +3,6 @@
   "version": "3.3.0",
   "license": "UNLICENSED",
   "author": "gethugothemes",
-  "packageManager": "yarn@4.0.2",
   "scripts": {
     "dev": "tinacms dev -c \"hugo server -D\"",
     "build": "tinacms build && hugo --gc --minify --templateMetrics --templateMetricsHints --buildDrafts --buildExpired --buildFuture --forceSyncStatic",
