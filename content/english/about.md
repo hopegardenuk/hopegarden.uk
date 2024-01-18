@@ -22,27 +22,30 @@ social:
   - link: "https://ko-fi.com/hopegarden"
     icon: "fa-solid fa-mug-hot"
     
-  - link: "https://www.codeberg.com/natureworks/hopegarden"
+  - link: "https://codeberg.org/gardenwild/hope"
     icon: "fa-solid fa-code-branch"
 
 # what_i_do
 what_i_do:
-  title: "What I Do"
+  title: "What we do"
   enable: true
   item:
-  - title: "Content Writing"
-    icon: "fas fa-pen-nib"
-    description: "Purus eget ipsum elementum venenatis, quis rutrum mi semper nonpurus eget ipsum elementum venenatis."
+  - title: "Wildlife"
+    icon: "fa-solid fa-locust"
+    description: "All gardens can be wildlife havens by creating habitat and growing native plants as food for invertebrates."
     
-  - title: "Photography"
-    icon: "fas fa-camera"
-    description: "Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis."
+  - title: "Forest Garden"
+    icon: "fa-solid fa-tree"
+    description: "Grow edible crops with nature by emulating woodland edge, layering edible perennials and creating self-sustaining nutrients & pest control."
     
-  - title: "Web Research"
-    icon: "fas fa-snowflake"
-    description: "Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis."
- 
----
-A content writer with over 12 years experience working across brand identity, publishing and digital products. Maecenas sit amet purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget.
+  - title: "Community Assembly"
+    icon: "fa-regular fa-comments"
+    description: "Reboot democracy to rekindle hope, by involving citizens directly in decision making by using Community Assemblies."
 
-Purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis.
+---
+
+In a world portrayed as riven by division, we need hope and inspiration to celebrate and capitalise upon our diversity. Bring the people together in nature, to have the conversations required to prepare for a more equitable future.
+
+The Hope Garden is a shining example of a participatory democratic space and culture at the heart of a wildlife forest garden, filled with nature and edible crops. 
+
+All the plans are available for free for you to create your own Hope Garden.
