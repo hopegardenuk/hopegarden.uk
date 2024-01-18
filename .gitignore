@@ -14,5 +14,4 @@ resources
 jsconfig.json
 hugo_stats.json
 go.sum
-yarn.lock
 .env
