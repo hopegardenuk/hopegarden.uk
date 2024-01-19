@@ -31,10 +31,17 @@ To make my life easier, I created an [online checklist of my application process
 
 ## 1.1 Tell us about your organisation's main purpose and activities*
 
-<small>* all answers maximum of 500 words unless otherwise stated</small>
+<small>* All answers maximum of 500 words unless otherwise stated</small>
 
 The organisation I am using to make the application is a [Community Interest Company](https://en.wikipedia.org/wiki/Community_interest_company) I set up called [Garden Wild Plants CIC](https://gardenwild.org.uk/). A couple of colleagues are co-directors, Martin Hayes (orchardist) and Daniel Richards (well-being), and they have helped with previous grant applications.
 
 Really, the CIC is a vehicle to make grant applications to promote community wildlife forest gardening and, just as importantly, to bring like-minded people together. There are 6 collaborators on the Hope Garden: Alex (garden designer), Audley (ex-gardener, therapist & climate activist), Beth (gardener and public relations), Denise (democracy advocate & community activist), Lindy (fundraiser). Garden Wild is a way to bring people together and make the grant application.
 
-> Garden Wild Plants is a Community Interest Company whose main purpose is to promote wildlife forest gardening in the context of community climate resilience. The CIC is a vehicle for accessing funding, coordinating collaborators and working with partner organisations.
+## Answer
+
+Garden Wild Plants is a Community Interest Company whose main purpose is to promote wildlife forest gardening in the context of community climate resilience. The CIC is a vehicle for accessing funding, coordinating collaborators and working with partner organisations.
+
+A forest garden works with nature to grow edible crops by emulating woodland edge, with self-sustaining nutrients and pest control and layers of mostly perennial plants.
+
+
+social, health, wildlife and economic benefits -- access is key
