@@ -5,7 +5,7 @@
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-md-8">
-        <form action="{{.}}">
+        <form class="mb-4" action="https://airform.io/hello@hopegarden.uk" method="post">
           <div class="mb-4">
             <label for="name" class="form-label">{{ i18n "name" }}</label>
             <input type="text" class="form-control rounded" id="name" required>
@@ -25,6 +25,17 @@
 
           <button type="submit" class="btn btn-primary rounded" aria-label="Send message">{{ i18n "send_message"}}</button>
         </form>
+        <hr>
+        <h4>Email us</h4>
+        <h6><a href="mailto:hello@hopegarden.uk">hello@hopegarden.uk</a></h6>
+        <hr>
+        <h4>Snail mail 🐌</h4>
+        <p>London House<br>
+          High Street<br>
+          Cilgerran<br>
+          Pembrokeshire<br>
+          SA43 2SQ
+        </p>
       </div>
     </div>
   </div>
@@ -32,3 +43,4 @@
 {{end}}
 
 {{ end }}
+

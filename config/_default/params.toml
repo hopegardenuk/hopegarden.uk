@@ -95,7 +95,7 @@ enableQQ = false # https://valine.js.org/en/configuration.html#enableQQ
 # seo meta data for OpenGraph / Twitter Card
 [metadata]
 keywords = ["Forest Garden", "Wildlife Garden", "Hope Garden", "Food Forest", "Community Assembly", "Peoples Assembly"]
-description = "A wildlife forest garden with a Community Assembly at its heart 💚"
+description = "A Community Assembly at the heart of a wildlife forest garden 💚"
 author = "Jake Rayson"
 image = "images/sketch.jpg" # this image will be used as fallback if a page has no image of its own
 
