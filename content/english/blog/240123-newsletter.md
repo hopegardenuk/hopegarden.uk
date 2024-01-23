@@ -21,4 +21,6 @@ draft: false
 
 Finally, it’s up and running. I was considering using [Beehiiv](https://beehiiv.com) as the newsletter platform but they don’t have a configurable subscribe form and they also don’t have the ‘RSS (ie blog posts) to automatic newsletter’ feature. So, [Buttondown](https://buttondown.email) it is.
 
+Scroll to the bottom of the page and enter your email address!
+
 Yes, there will be plants soon…
