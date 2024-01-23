@@ -65,9 +65,8 @@ access_token = "IGQVJYeUk4YWNIY1h4OWZANeS1wRHZARdjJ5QmdueXN2RFR6NF9iYUtfcGp1Nmpx
 # Subscription
 [subscription]
 enable = true
-# mailchimp subsciption
-mailchimp_form_action = "https://buttondown.email/api/emails/embed-subscribe/hopegarden" # replace this url with yours
-mailchimp_form_name = "bd-email" # replace this code with yours
+# Newsletter subsciption
+newsletter_form_action = "https://buttondown.email/api/emails/embed-subscribe/hopegarden" # replace this url with yours
 title = "Subscribe to our monthly newsletter."
 input_placeholder = "Enter your email"
 

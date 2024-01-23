@@ -37,5 +37,3 @@ The organisation I am using to make the application is a [Community Interest Com
 
 Really, the CIC is a vehicle to make grant applications to promote community wildlife forest gardening and, just as importantly, to bring like-minded people together. There are 6 collaborators on the Hope Garden: Alex (garden designer), Audley (ex-gardener, therapist & climate activist), Beth (gardener and public relations), Denise (democracy advocate & community activist), Lindy (fundraiser). Garden Wild is a way to bring people together and make the grant application.
 
-#### Answer
-
