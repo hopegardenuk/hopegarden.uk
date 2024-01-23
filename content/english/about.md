@@ -7,7 +7,7 @@ draft: false
 #caption
 caption:
   enable: true
-  title: "A wildlife forest garden with a Community Assembly at its heart 💚"
+  title: "A Community Assembly at the heart of a wildlife forest garden 💚"
 
 # social
 social:
