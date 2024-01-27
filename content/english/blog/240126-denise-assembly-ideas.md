@@ -30,7 +30,7 @@ These are my highlighted notes from the meeting.
 * Denise will start editing work on Tuesday 6th February. Deadline for application 12th March.
 * Be aware of **number of beneficiaries**, a key metric. It is in the application. Actually surprised at how big a local impact the Hope Garden could make.
 * Possible tie-ins with local primary school, using Hope Garden as outdoor learning space for horticulture, wildlife and well-being. Be nice to introduce principles of Community Assembly to this learning space. Signage? Like stone tables of the 3 Pillars (1. Radical inclusivity 2. Active listening 3. Trust) 😂 Denise came across school in Neath where similar practices to Community Assembly, not sure if part of curriculum already? **todo Jake** to check with teacher.
-* **todo Jake** Check Pembrokeshire index of deprivation. [Welsh Index of Multiple Deprivation](https://statswales.gov.wales/Catalogue/Community-Safety-and-Social-Inclusion/Welsh-Index-of-Multiple-Deprivation/WIMD-maps-2019)
+* Check Pembrokeshire index of deprivation. [Welsh Index of Multiple Deprivation](https://statswales.gov.wales/Catalogue/Community-Safety-and-Social-Inclusion/Welsh-Index-of-Multiple-Deprivation/WIMD-maps-2019)
 
 {{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1706356913/hope/cardigan-deprivation-key.png" alt="Deprivation map west wales and key" caption="Cardigan in most 10% deprived" >}}
 
