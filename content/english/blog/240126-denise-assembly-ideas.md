@@ -30,13 +30,19 @@ These are my highlighted notes from the meeting.
 * Denise will start editing work on Tuesday 6th February. Deadline for application 12th March.
 * Be aware of **number of beneficiaries**, a key metric. It is in the application. Actually surprised at how big a local impact the Hope Garden could make.
 * Possible tie-ins with local primary school, using Hope Garden as outdoor learning space for horticulture, wildlife and well-being. Be nice to introduce principles of Community Assembly to this learning space. Signage? Like stone tables of the 3 Pillars (1. Radical inclusivity 2. Active listening 3. Trust) 😂 Denise came across school in Neath where similar practices to Community Assembly, not sure if part of curriculum already? **todo Jake** to check with teacher.
-* **todo Jake** Check Pembrokeshire index of deprivation. I did this, will dig up URL. 
-* Offer Hope Garden as space for other schools in the area? Check with allotments, gauge feeling. Possibly BlueGreenCymru have more conacts, **todo Jake** check with Phil 
-* **todo Jake** get in touch with 'council for voluntary organisations' in Pembrokeshire (equivalent in Ceredigion was CAVO), can get help with funding too.
-* Possibly local woodland can supply wood for free for benches etc? **todo Jake** check Coedmor National Nature Reserve, listed under NRW. Also, **todo Jake** get in touch with David Hunter from The Coppice Plot, enquire about workshops for creating wooden artefacts and structures.
+* **todo Jake** Check Pembrokeshire index of deprivation. [Welsh Index of Multiple Deprivation](https://statswales.gov.wales/Catalogue/Community-Safety-and-Social-Inclusion/Welsh-Index-of-Multiple-Deprivation/WIMD-maps-2019)
+
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1706356913/hope/cardigan-deprivation-key.png" alt="Deprivation map west wales and key" caption="Cardigan in most 10% deprived" >}}
+
+* Offer Hope Garden as space for other schools in the area? Check with allotments, gauge feeling. Possibly BlueGreenCymru have more contacts, **todo Jake** check with Phil
+* **todo Jake** get in touch with 'council for voluntary organisations' in Pembrokeshire (equivalent in Ceredigion was CAVO), can get help with funding too. [Pembrokeshire Association of Voluntary Services](https://www.pavs.org.uk/)
+* Possibly local woodland can supply wood for free for benches etc? check Coedmor National Nature Reserve, listed under NRW. Also, **todo Jake** get in touch with David Hunter from The Coppice Plot, enquire about workshops for creating wooden artefacts and structures.
 * Denise asked about possible walls for Assembly area, rather than just canvas. Possible problems with planning permission, **much** easier to stick with canvas. Not to say that walls can’t be added at later date. Also, can use _temporary_ walls eg made out of hazel hurdles (see photo of hazel hurdles by [Brandon Thatchers](https://www.brandonthatchers.co.uk/products/rustic-timbers-wood/full-hazel-hurdle/)).
-* Denise question: where can canvas be securely stored in case of gales, and where can it be dried? Also, where can benches be stored securely? And tools? Time for some timber framed structures! Log store / airing cupboard / tool shed See photo below of childrens’ den by David Hunter. **todo Jake** Add to costs.
-* Scope for David to work with apprentice? **todo Jake** Add to economic benefits. Supporting small businesses.
 
 {{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1694003709/undergrove/gabion-den-verbascum-steps-230905.jpg" alt="Gabion, den and steps in a lovely little garden" caption="Children’s den by David Hunter" >}}
+
+* Denise question: where can canvas be securely stored in case of gales, and where can it be dried? Also, where can benches be stored securely? And tools? Time for some timber framed structures! Log store / airing cupboard / tool shed See photo below of childrens’ den by David Hunter. Added to costs £6,000. 
+* Scope for David to work with apprentice? **todo Jake** Add to economic benefits. Supporting small businesses.
+
+
 
