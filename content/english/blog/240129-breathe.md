@@ -10,7 +10,7 @@ tags:
   - Admin
   - Presentation
 categories: 
-  - Admin
+  - Newsletter
 images: 
   - https://res.cloudinary.com/growdigital/image/upload/v1706297220/240125-moss-branches.jpg
 captions: 
