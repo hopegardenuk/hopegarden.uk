@@ -13,16 +13,11 @@ name = "About"
   
 [[main]]
 weight = 4
-url = "plans/"
-name = "Plans"
-
-[[main]]
-weight = 5
 url = "contact/"
 name = "Contact"
 
 [[main]]
-weight = 6
+weight = 5
 url = "#"
 name = "Pages"
 hasChildren = true
