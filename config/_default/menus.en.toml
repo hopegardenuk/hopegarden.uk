@@ -7,10 +7,15 @@ url = ""
 name = "Home"
 
 [[main]]
-weight = 3
+weight = 2
 url = "about/"
 name = "About"
-  
+
+[[main]]
+weight = 3
+url = "newsletter/"
+name = "Newsletter"
+
 [[main]]
 weight = 4
 url = "plans/"
