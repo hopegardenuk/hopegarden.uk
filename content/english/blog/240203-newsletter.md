@@ -1,7 +1,7 @@
 ---
 title: Hope Garden Newsletter — Wed 31 Jan
 description: A Community Assembly at the heart of a wildlife forest garden 💚 — Green light for a new job and for the Hope Garden
-date: 2024-01-31T19:00:48Z
+date: 2024-02-03T19:00:48Z
 author: Jake Rayson 
 tags: 
   - News
