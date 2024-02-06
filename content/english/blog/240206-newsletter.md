@@ -1,7 +1,7 @@
 ---
-title: Hope Garden Newsletter — Wed 31 Jan
+title: Hope Garden Newsletter — Tue 06 Feb
 description: A Community Assembly at the heart of a wildlife forest garden 💚 — Green light for a new job and for the Hope Garden
-date: 2024-02-03T19:00:48Z
+date: 2024-02-06T09:00:48Z
 author: Jake Rayson 
 tags: 
   - News
@@ -59,7 +59,7 @@ _Jake Rayson_
 
 ## 2. Links
 
-* [How to Write a Press Release for a Community Assembly](https://actionnetwork.org/events/how-to-write-a-press-release-for-a-community-assembly) — Mon 5 Feb, 7pm GMT, online workshop by Extinction Rebellion
+* [How to Write a Press Release for a Community Assembly](https://actionnetwork.org/events/how-to-write-a-press-release-for-a-community-assembly) — Mon 5 Feb, 7pm GMT, online workshop by Extinction Rebellion. The date has passed but there will be more.
 * [Buzzclub ](https://www.thebuzzclub.uk/projects) — setup by [Dave Goulson](https://profiles.sussex.ac.uk/p126217-dave-goulson), this is the UK website for wildlife gardening science, and they have an [amazing page of projects](https://www.thebuzzclub.uk/projects) which you can join in with your school or community.
 * Keiron Derek Brown appears to have single-handedly wrangled a whole [series of webinars](https://www.eventbrite.co.uk/cc/entolive-webinars-74679) at the [Biological Research Centre](https://www.brc.ac.uk/). Some very good stuff.
 * [BRC’s YouTube channel](https://www.youtube.com/channel/UCbeFlKCmJl3h05j4dc9bu1Q)
