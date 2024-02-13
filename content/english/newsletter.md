@@ -12,11 +12,8 @@ draft: false
     src="https://buttondown.email/hopegarden?as_embed=true"
 ></iframe>
 
-
 ### Archives
 
-You can view the newsletter archives on:
-
-* the website: [hopegarden.uk/categories/newsletter](/categories/newsletter) 
-* our newsletter provider [buttondown.email/hopegarden](https://buttondown.email/hopegarden)
+* Website: [hopegarden.uk/categories/newsletter](/categories/newsletter) 
+* Newsletter provider [buttondown.email/hopegarden](https://buttondown.email/hopegarden)
 
