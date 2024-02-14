@@ -4,7 +4,7 @@ description: "Sign up for our weekly newsletter here"
 draft: false
 ---
 
-### Subscribe to our weekly newsletter
+### Subscribe to our weekly, hopeful newsletter
 
 <iframe
     scrolling="no"
