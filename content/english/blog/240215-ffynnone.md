@@ -1,7 +1,7 @@
 ---
 title: Ffynnone Resilience
 description: I’ve been asked by Ffynnone Resilience to write a guest blog post about the Hope Garden, which hopefully will be sited at Pen Y Foidr allotments in Cilgerran, funding willing
-date: 2024-02-08T14:36:56Z
+date: 2024-02-15T14:36:56Z
 author: Jake Rayson
 tags: 
   - PenYFoidr
