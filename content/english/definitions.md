@@ -6,7 +6,7 @@ draft: false
 
 ## Community Assembly
 
-Community Assemblies are an effective and empowering way to build real participatory democracy into local decision making, through structured processes. A Community Assembly  brings communities of interest, or geographically based people, together in inclusive decision making. This process provides a safe and equitable space for decision making with radical inclusivity, active listening and trust in the process at its foundations. Trained facilitators and note-takers support participants in coming to consensus on shared goals.
+A Community Assemblies is an effective and empowering way to build real participatory democracy into local decision making through a structured process. It  brings communities of interest together in inclusive decision making. The process provides a safe and equitable space for decision making with radical inclusivity, active listening and trust in the process at its foundations. Trained facilitators and note-takers support participants in coming to consensus on shared goals.
 
 ### Three stage process
 
@@ -28,3 +28,7 @@ Every garden has the potential to be a wildlife garden. The two key elements are
 
 Forest gardening works with nature to grow edible crops, by emulating a woodland edge, with layered trees, shrubs and herbaceous perennials, such that the area provides its own nutrients, with nitrogen and potassium rich plants, and natural, ecological pest control through developing a diverse, balanced and resilient ecosystem.
 
+---
+
+1. Elevator pitch
+2. Café pitch
