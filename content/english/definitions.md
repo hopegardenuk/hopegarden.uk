@@ -6,13 +6,13 @@ draft: false
 
 ## Community Assembly
 
-A Community Assemblies is an effective and empowering way to build real participatory democracy into local decision making through a structured process. It  brings communities of interest together in inclusive decision making. The process provides a safe and equitable space for decision making with radical inclusivity, active listening and trust in the process at its foundations. Trained facilitators and note-takers support participants in coming to consensus on shared goals.
+A Community Assembly is an effective and empowering way to build real participatory democracy into local decision making through a structured process. It  brings communities of interest together in inclusive decision making. The process provides a safe and equitable space for decision making with radical inclusivity, active listening and trust in the process at its foundations. Trained facilitators and note-takers support participants in coming to consensus on shared goals.
 
-### Three stage process
+### 3 stage process
 
-1. Input - The first stage of a Community Assembly is the Setup. This is where the process is explained, with hand signals used, followed by the framing of the main question of the assembly is framed. This can be supplemented with an explanation/presentation by a practitioner from that specific field in focus. There is also an assembly facilitator and note-taker.
-2. Deliberation - The second stage is the Deliberation, where the assembly is split up into breakout groups of about 6. The community space of the Hope Garden is visually divided into three sections and there are light wooden benches to accomodate the groups. Each group has its own facilitator and note-taker, who then guide and note the ensuing conversation about the main question.
-3. Integration - The final stage is the Integration, where the outcomes from the groups are collated and synthesised, and the key points of the assembly are drawn out. Also, it is made clear _where_ this information will be used.
+1. **Input** — This is where the Community Assembly process is explained, with hand signals used, followed by the framing of the main question. This can be supplemented with a presentation by a practitioner from the field in question. There is also a trained assembly facilitator and note-taker.
+2. Deliberation — The assembly is split up into breakout groups of about 6. The community space of the Hope Garden is visually divided into three sections and there are light wooden benches to accomodate the groups. Each group has its own facilitator and note-taker, who then guide and note the ensuing conversation about the main question.
+3. Integration - The assembly is brought back together so that the outcomes from the groups are collated and synthesised, and the key points of the assembly are drawn out. It is also made clear _where_ this information will be used.
 
 ### Three pillars
 
