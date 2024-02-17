@@ -4,6 +4,10 @@ description: "Definitions of a Community Assembly, forest garden and wildlife ga
 draft: false
 ---
 
+1. [Community Assembly](#community-assembly)
+2. [Wildlife gardening](#wildlife-gardening)
+3. [Forest garden](#forest-garden)
+
 ## Community Assembly
 
 A Community Assembly is an effective and empowering way to build real participatory democracy into local decision making through a structured process. It  brings communities of interest together in inclusive decision making. The process provides a safe and equitable space with radical inclusivity, active listening and trust in the process at its foundations. Trained facilitators and note-takers support participants in coming to consensus on shared goals.
@@ -20,11 +24,11 @@ A Community Assembly is an effective and empowering way to build real participat
 2. **Active listening** — a focus on hearing someone all the way through before developing responses, Community Assemblies are spaces which recognise that no one person or group holds all the answers, and that it is through the wisdom of the crowds that we gain powerful intelligence about the issues being discussed.
 3. **Trust in the process** — it is essential that all participants trust the process, trust the facilitators and trust the various working groups involved. Community Assemblies can only be effective if people trust that those involved have come together in humility, to work towards decisions and actions that are best for all.
 
-## Wildlife garden
+## 2. Wildlife gardening
 
 Every garden has the potential to be a wildlife garden. The two key elements are habitat and food.
 
-## Forest garden
+## 3. Forest garden
 
 Forest gardening works with nature to grow edible crops, by emulating a woodland edge, with layered trees, shrubs and herbaceous perennials, such that the area provides its own nutrients, with nitrogen and potassium rich plants, and natural, ecological pest control through developing a diverse, balanced and resilient ecosystem.
 
