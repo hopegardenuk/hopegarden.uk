@@ -4,9 +4,9 @@ description: "Definitions of a Community Assembly, forest garden and wildlife ga
 draft: false
 ---
 
-1. [Community Assembly](#community-assembly)
-2. [Wildlife gardening](#wildlife-gardening)
-3. [Forest garden](#forest-garden)
+1. [Community Assembly](#1-community-assembly)
+2. [Wildlife gardening](#2-wildlife-gardening)
+3. [Forest garden](#3-forest-garden)
 
 ## 1. Community Assembly
 
