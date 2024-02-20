@@ -11,6 +11,6 @@ social:
   link: "https://www.natureworks.org.uk/"
 ---
 
-Jake is a wildlife forest garden designer, working where people intersect with edible, ornamental and wildlife gardening. He runs a garden design business [Nature Works](https://www.natureworks.org.uk/) in West Wales, and is involved in numerous community projects.
+Jake is a wildlife forest garden designer, working where the realms of edible, ornamental and wildlife gardening collude with people. He runs a garden design business [Nature Works](https://www.natureworks.org.uk/) in West Wales, and is involved in numerous community projects.
 
 His interest in forest gardens came through a desire to engage with the Ecological and Climate Emergency,after reading Martin Crawford’s [Creating a Forest Garden](https://www.agroforestry.co.uk/product/creating-a-forest-garden-2/) in 2012.
