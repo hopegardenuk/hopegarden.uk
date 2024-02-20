@@ -1,5 +1,5 @@
 ---
-title: Hope Garden Newsletter — Tue 06 Feb
+title: Hope Garden Newsletter — Tue 06 Feb 🌿
 description: A Community Assembly at the heart of a wildlife forest garden 💚 — Green light for a new job and for the Hope Garden
 date: 2024-02-06T09:00:48Z
 author: Jake Rayson 

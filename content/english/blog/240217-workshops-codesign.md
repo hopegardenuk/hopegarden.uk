@@ -40,13 +40,13 @@ Here are the ideas for workshops:
 
 1. Site survey (baseline) Yusef? Plan for follow-ups
 2. **Co-design**, 3 workshops. Invite Pemb ecology & education as participants. Invite for inputs:
-  1. Wildlife Trust - biodiversity foundation
-  2. Keep Wales Tidy - Pob, for practical considerations of creating garden
-  3. BlueGreenCymru - Phil, hands-on running outdoor workshops & meeting area
+    1. Wildlife Trust - biodiversity foundation
+    2. Keep Wales Tidy - Pob, for practical considerations of creating garden
+    3. BlueGreenCymru - Phil, hands-on running outdoor workshops & meeting area
 2. Landscaping
-  1. Ophelia? Hard landscaping
-  2. Planting & pruning - Martin?
-  3. Benches - David Hunter
+    1. Ophelia? Hard landscaping
+    2. Planting & pruning - Martin?
+    3. Benches - David Hunter
 
 Also, what are the standard rates for running workshops? Will ask Martin.
 

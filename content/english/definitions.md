@@ -10,7 +10,9 @@ draft: false
 
 ## 1. Community Assembly
 
-A Community Assembly is an effective and empowering way to build real participatory democracy into local decision making through a structured process. It  brings communities of interest together in inclusive decision making. The process provides a safe and equitable space with radical inclusivity, active listening and trust in the process at its foundations. Trained facilitators and note-takers support participants in coming to consensus on shared goals.
+A Community Assembly is an effective and empowering way to build real participatory democracy into local decision making through a structured process, bringing communities of interest together in inclusive decision making. 
+
+The process provides a safe and equitable space with radical inclusivity, active listening and trust in the process at its foundations. Trained facilitators and note-takers support participants in coming to consensus on shared goals.
 
 ### 3 stage process
 
