@@ -35,8 +35,8 @@ hasChildren = true
   [[main]]
   parent = "Pages"
   weight = 1
-  url = "author/"
-  name = "Author"
+  url = "crew/"
+  name = "Crew"
   
   [[main]]
   parent = "Pages"
