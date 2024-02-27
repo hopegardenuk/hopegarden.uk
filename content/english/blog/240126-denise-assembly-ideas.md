@@ -44,5 +44,23 @@ These are my highlighted notes from the meeting.
 * Denise question: where can canvas be securely stored in case of gales, and where can it be dried? Also, where can benches be stored securely? And tools? Time for some timber framed structures! Log store / airing cupboard / tool shed See photo below of childrens’ den by David Hunter. Added to costs £6,000. 
 * Scope for David to work with apprentice? **todo Jake** Add to economic benefits. Supporting small businesses.
 
+## Workshops
 
+* Co-design
+    * Pen Y Foidr allotment 
+    * Cilgerran primary school - walking, hi-vis jackets, teachers. Participants.
+    * Consultancy BlueGreenCymru
+    * Invite Wildlife Trust (contact from Ysgol y Ddwylan) & Keep Wales Tidy (ditto) to speak as input for first of 3? co-desgign assemblies
+    * Invite Pembs. council. education - equivalent of Carmarthenshire outdoor learning lead,  ecology - Local Places for nature equivalent. As **inputs** not participants.
 
+The actual design workshops?
+    1. workshop 1 - wildlife trust. Also 10 minutes intro Denise. 
+    2. workshop 2 - keep wales tidy
+    3. workshop 3 - bluegreencymru
+
+Bunch of bullet points, what is covered  in 10 minutes. Sticking to parameters. For local councillors. Local councillors -- invite as a participant, not a councillor. For council officers - limited time. Like speed dating, if breakout group has question, council officer can ask it.
+Very important to have councillors & officers experiencing the community assembly process, as well as contributing.
+
+Site survey, workshop, habitat.
+
+Connectivity & cohesion between programmes - ecology, education, community group, food growing 
