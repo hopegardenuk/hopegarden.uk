@@ -40,8 +40,6 @@ The core idea of the Hope Garden is simple: provide an inspirational meeting pla
 
 But it’s a lot of words, a lot of budgeting, estimates, considerations. By next week’s newsletter, the budgets will be done, and the final draft will be ready for picking over one last time!
 
-_Jake Rayson_
-
 ### Wildlife features
 
 I had a lovely meeting with Marianne Jones, who is the conservationist and landscape designer onboard with the Hope Garden. We discussed a whole range of topics, centred around the idea of the Hope Garden.
