@@ -24,9 +24,7 @@ _[View newsletter online](https://hopegarden.uk/blog/240227-newsletter)_
 
 [News](#1-news) • [Links](#2-links) • [Photos](#3-photos) • [Hope](#4-hope-links)
 
-{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1709055398/240227-saxifrage.jpg" alt="Rounded yellow hued green leaves with small yellow flowers" caption="Opposite-leaved Golden Saxifrage, a UK native wild flower and forest garden plant" >}}
-
-Welcome to the fourth issue of the weekly Hope Garden newsletter. The deadline for the grant application is in two weeks, contacts are being made across a diverse range of gardening and community practitioners, and the outline for the propopsed workshops are starting to take shape.
+Welcome to the fourth issue of the weekly Hope Garden newsletter. The deadline for the grant application is in two weeks, contacts are being made across a diverse range of gardening and community practitioners, and the outline for the proposed workshops are starting to take shape.
 
 If you have any questions you’d like answered about Community Assemblies, forest gardens or wildlife gardening, just let me know via email <hello@hopegarden.uk>
 
@@ -48,7 +46,7 @@ _Jake Rayson_
 
 I had a lovely meeting with Marianne Jones, who is the conservationist and landscape designer onboard with the Hope Garden. We discussed a whole range of topics, centred around the idea of the Hope Garden.
 
-I don’t have any formal ecological training, so Marianne will be providing a much-needed sounding board for the ecological aspects of the Hope Garden. I asked the hypothetical question “How much wildlife diversity can you fit into one small garden?” and I’ve drawn up a list of [potential wildlife features](https://natureworks.org.uk/wildlife-features) on my own website.
+I don’t have any formal ecological training, so Marianne will be providing much-needed experience and expertise for the ecological aspects of the Hope Garden. I asked the hypothetical question “How much wildlife diversity can you fit into one small garden?” and I’ve drawn up a list of [potential wildlife features](https://natureworks.org.uk/wildlife-features) on my own website.
 
 ### Wild flowers in vogue
 
