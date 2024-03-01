@@ -1,6 +1,6 @@
 ---
-title: Hope Garden Newsletter — Tue 27th Feb 🌸
-description: In this week’s newsletter, deadline looming for grant application, wildlife features, WoodlandsTV and wild flowers in vogue
+title: Hope Garden Newsletter — Tue 5th Mar 🌸
+description: In this week’s newsletter, 
 date: 2024-02-27T16:34:05+00:00
 author: Jake Rayson 
 tags: 
@@ -16,7 +16,7 @@ captions:
   - Opposite-leaved Golden Saxifrage, a UK native wild flower and forest garden plant
 alttext: 
   - Rounded yellow hued green leaves with small yellow flowers
-draft: false
+draft: true
 ---
 
 A Community Assembly at the heart of a wildlife forest garden 💚<br>
