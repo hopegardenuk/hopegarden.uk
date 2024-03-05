@@ -1,7 +1,7 @@
 ---
-title: Hope Garden Newsletter — Tue 5th Mar 🌸
+title: Hope Garden Newsletter — Tue 5th Mar 🤸🏽
 description: In this week’s newsletter, 
-date: 2024-03-05T16:34:05+00:00
+date: 2024-03-02T16:34:05+00:00
 author: Jake Rayson 
 tags: 
   - News
@@ -39,11 +39,19 @@ _Jake Rayson_
 
 ### Play
 
-### Gabions
+{{< youtube eolSc-MEUBo >}}
+
+swallows. dolphins.
+
+### Gabions 
 
 ### Hoverfly Lagoon
 
+{{< youtube 2Gf1-OswVio <}}
+
 ### Standing Dead
+
+
 
 ## 2. Links
 
@@ -53,7 +61,7 @@ _Jake Rayson_
 
 ## 4. Hope
 
->  <br><br>_~ Author_
+> Once they won direct control of the land, free peasants were able to maintain a more reciprocal relationship with nature: they managed pastures and commons collectively, through democratic assemblies, with careful rules that regulated tillage, grazing and forest use. <br><br>_~ Jason Hickel, pp44 Less is More_
 
 
 
