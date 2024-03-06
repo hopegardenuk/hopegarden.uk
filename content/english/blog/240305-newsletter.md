@@ -25,8 +25,6 @@ _[View newsletter online](https://hopegarden.uk/blog/240227-newsletter)_
 
 [News](#1-news) • [Links](#2-links) • [Photos](#3-photos) • [Hope](#4-hope-links)
 
-{{< figure src="https://res.cloudinary.com/growdigital/image/upload/w_640/v1709499330/240301-willow-sculpture-hare-snow.jpg" alt="Oversized willow sculpture of hare, with snow on its head" caption="Willow sculpture of a hare by Michelle Cain at Rhosygilwen Mansion, Pembrokeshire" >}}
-
 Welcome to the fifth issue of the weekly Hope Garden newsletter. I have just started a new job part-time job as a Biodiversity Assistant at Ceredigion County Council, so time is now more precious than it ever was before. I will try to keep this newsletter weekly.
 
 Sign up for the newsletter here [hopegarden.uk/newsletter](https://hopegarden.uk/newsletter/). And if you’d like to make any contributions or suggest any content, please email me at <hello@hopegarden.uk>
