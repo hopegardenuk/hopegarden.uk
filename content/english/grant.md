@@ -6,6 +6,8 @@ draft: false
 
 This is the slightly redacted grant application, made in March 2024. The grant was awarded Monday 3 June 2024.
 
+_Last udpated: Sat 8 Jun 2024_
+
 ## 1. About your project
 
 ### What your organisation would like to achieve through your project
