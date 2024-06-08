@@ -119,3 +119,11 @@ The key challenges will be organising and co-ordinating the diverse range of wor
 |                         | **Subtotal**                                                                                                                                                                                                                                                                                                                                 | **£37,606** |
 |                         | *Contingency 10%* TBC                                                                                                                                                                                                                                                                                                                        |             |
 |                         | **TOTAL** TBC                                                                                                                                                                                                                                                                                                                                |             |
+
+![Aerial photo of developing field](https://res.cloudinary.com/growdigital/image/upload/w_800/v1709055398/hope/240224-aerial-wide.jpg)
+
+![Sketch of canvas covering](https://res.cloudinary.com/growdigital/image/upload/w_800/v1691869566/hope/canvas-sketch-230812.png)
+
+![Workshop under canvas](https://res.cloudinary.com/growdigital/image/upload/w_800/v1691869842/hope/bluegreencymru-canvas.jpg)
+
+![Colour sketch of Hope Garden](https://res.cloudinary.com/growdigital/image/upload/w_800/v1689077853/hope/garden-sketch-230711.jpg)
