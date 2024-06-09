@@ -1,5 +1,5 @@
 ---
-title: "Grant"
+title: "Grant application"
 description: "The original Heritage Fund grant application for Gardd Gobaith Cilgerran Hope Garden "
 draft: false
 ---
