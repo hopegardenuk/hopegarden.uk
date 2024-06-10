@@ -4,8 +4,8 @@ description: "This is the original project plan, already out of date! Rewriting 
 draft: false
 ---
 
-| When            | What&nbsp;is&nbsp;the&nbsp;task                                                                      | Audience                          | Assigned                          | Where                             | Cost   |
-| --------------- | ---------------------------------------------------------------------------------------------------- | --------------------------------- | --------------------------------- | --------------------------------- | ------ |
+| When            | What | Audience                          | Assigned                          | Where                             | Cost   |
+| --------------- | -----| --------------------------------- | --------------------------------- | --------------------------------- | ------ |
 | 1 Jun 2024      | Prepare Initial Design co-design workshop. Line-up other co-design workshop leads. Book landscapers. | Hope Garden crew members          | Jake Rayson                       | Remotely                          | 2 days |
 | 1 Jun 2024      | Set up video project plan                                                                            | Public                            | Alex Valk                         | Remotely                          | 1 day  |
 | 1 Jun 2024      | Set up newsletter                                                                                    | Public                            | Beth Otway                        | Remotely                          | 1 day  |
