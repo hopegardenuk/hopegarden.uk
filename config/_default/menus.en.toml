@@ -40,6 +40,12 @@ hasChildren = true
   
   [[main]]
   parent = "Pages"
+  weight = 1
+  url = "grant/"
+  name = "Grant"
+
+  [[main]]
+  parent = "Pages"
   weight = 2
   url = "tags/"
   name = "Tags"
