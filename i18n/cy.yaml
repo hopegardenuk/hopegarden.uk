@@ -1,77 +1,68 @@
-- id: search_placeholder
-  translation: Cliquez pour rechercher...
-
-- id: our_instagram
-  translation: Notre Instagram
-
-- id: name
-  translation: Votre Nom
-
-- id: email 
-  translation: Adresse E-mail
-
-- id: subject
-  translation: Sujette
-
-- id: message
-  translation: Votre Message Ici
-
-- id: send_message
-  translation: Envoyer Maintenant
-
-- id: search_result_for
-  translation: Résultats de recherche pour
-
-- id: you_may_also_like
-  translation: Tu Pourrais Aussi Aimer
-
-- id: most_recent_post
-  translation: Notre Article le plus récent
-
-- id: written_by
-  translation: Écrit par
-
 - id: read_more
-  translation: Lire la suite
+  translation: Read More
+  
+- id: address
+  translation: Our Address
 
-- id: read_article
-  translation: Lire l'article
+- id: phone
+  translation: Phone Number
 
-- id: showing_posts_from
-  translation: Affichage des messages de
+- id: email
+  translation: Message Us
 
-- id: home
-  translation: Maison
+- id: contact_form
+  translation: Contact Form
 
-- id: search
-  translation: Chercher
+- id: send
+  translation: send message
 
-- id: categories
-  translation: Catégories
+- id: follow
+  translation: FOLLOW US ON
+
+- id: services
+  translation: Services
+
+- id: contact_info
+  translation: Contact Info
+
+- id: subscribe_newsletter
+  translation: Subscribe Newsletter
+
+- id: subscribe
+  translation: Subscribe
+
+- id: connect_with_us
+  translation: Connect With Us
+
+- id: call_now
+  translation: Call Now
+
+- id: search_placeholder
+  translation: Type & Hit Enter...
+
+- id: quick_contact
+  translation: Quick Contact
+
+- id: latest_article
+  translation: Latest Article
+
+- id: category
+  translation: Category
 
 - id: tags
-  translation: Mots Clés
+  translation: Tags
 
-- id: social
-  translation: Sociale
+- id: all
+  translation: ALL
 
-- id: copyright-text
-  translation: Conçu et Développé Par
+- id: client
+  translation: client
 
-- id: search_input_placeholder
-  translation: Recherche Logbook ..
+- id: date
+  translation: date
 
-- id: no_results_for
-  translation: Aucun résultat pour
-
-- id: empty_search_results_placeholder
-  translation: Tapez quelque chose à rechercher..
-
-- id: search_input_placeholder
-  translation: Recherche Bookworm..
-
-- id: no_results_for
-  translation: Aucun résultat pour
-
-- id: empty_search_results_placeholder
-  translation: Tapez quelque chose à rechercher..
+- id: status
+  translation: status
+  
+- id: our_services
+  translation: Our Services

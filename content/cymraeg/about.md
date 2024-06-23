@@ -1,48 +1,55 @@
 ---
 title: "About"
 layout: "about"
-image: "images/about.jpg"
-draft: false
+# meta description
+description: "this is meta description"
+# page title background image
+bg_image_webp: "images/backgrounds/page-title.webp"
+bg_image: "images/backgrounds/page-title.jpg"
 
-#caption
-caption:
-  enable: true
-  title: "I’m Henara Colii, A content writer based in LDN, currently at Bookworm."
 
-# social
-social:
-  enable: true
-  social_links:
-  - link: "https://www.facebook.com/"
-    icon: "fab fa-facebook-f"
+################################### philosophy ###########################
+philosophy:
+  enable : true
+  philosophy_item:
+    # philosophy item loop
+    - title : "Our Mission"
+      content : "Lorem ipsum dolor sit amet consectetur adip isicing elit sed do eiusmod tempor incididunt ut labore."
+      bullet_point:
+        - "Quality Services"
+        - "Clients Satisfaction"
+        
+    # philosophy item loop
+    - title : "Our Approach"
+      content : "Lorem ipsum dolor sit amet consectetur adip isicing elit sed do eiusmod tempor incididunt ut labore."
+      bullet_point:
+        - "Quality Services"
+        - "Clients Satisfaction"
+        
+    # philosophy item loop
+    - title : "Our Philosophy"
+      content : "Lorem ipsum dolor sit amet consectetur adip isicing elit sed do eiusmod tempor incididunt ut labore."
+      bullet_point:
+        - "Quality Services"
+        - "Clients Satisfaction"
 
-  - link: "https://www.twitter.com/"
-    icon: "fab fa-twitter"
-    
-  - link: "https://www.linkedin.com/"
-    icon: "fab fa-instagram"
-    
-  - link: "https://www.github.com/"
-    icon: "fab fa-linkedin-in"
+################################### about ###########################
+about:
+  enable : true
+  # about content comes from `content/*/_index.md` file
 
-# what_i_do
-what_i_do:
-  title: "What I Do"
-  enable: true
-  item:
-  - title: "Content Writing"
-    icon: "fas fa-pen-nib"
-    description: "Purus eget ipsum elementum venenatis, quis rutrum mi semper nonpurus eget ipsum elementum venenatis."
-    
-  - title: "Photography"
-    icon: "fas fa-camera"
-    description: "Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis."
-    
-  - title: "Web Research"
-    icon: "fas fa-snowflake"
-    description: "Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis."
- 
+################################### service ###########################
+service:
+  enable : true
+  section: "service"
+  show_item: 3
+  # service item comes from `content/*/service` folder
+
+################################### team ###########################
+team: 
+  enable : true
+  section: "team"
+  show_item: 3
+  # team member comes from `content/*/team` folder
 ---
-A content writer with over 12 years experience working across brand identity, publishing and digital products. Maecenas sit amet purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget.
 
-Purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis.

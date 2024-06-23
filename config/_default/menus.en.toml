@@ -2,73 +2,50 @@
 
 # main menu
 [[main]]
-weight = 1
-url = ""
-name = "Home"
-
-[[main]]
-weight = 2
-url = "about/"
-name = "About"
-
-[[main]]
-weight = 3
-url = "newsletter/"
 name = "Newsletter"
+url = "newsletter/"
+weight = 1
 
 [[main]]
+name = "Blog"
+url = "blog/"
+weight = 2
+
+[[main]]
+name = "Contact"
+url = "contact/"
 weight = 4
-url = "plans/"
-name = "Plans"
 
 [[main]]
 weight = 5
-url = "contact/"
-name = "Contact"
-
-[[main]]
-weight = 6
-url = "#"
 name = "Pages"
 hasChildren = true
 
   [[main]]
   parent = "Pages"
+  name = "Projects"
+  url = "project/"
   weight = 1
-  url = "crew/"
-  name = "Crew"
-  
-  [[main]]
-  parent = "Pages"
-  weight = 1
-  url = "grant/"
-  name = "Grant"
 
   [[main]]
   parent = "Pages"
+  name = "About"
+  url = "about/"
   weight = 2
-  url = "tags/"
-  name = "Tags"
-  
+
   [[main]]
   parent = "Pages"
-  weight = 4
-  url = "categories/"
-  name = "Category"
-  
+  name = "Team"
+  url = "team/"
+  weight = 3
 
-############################# Footer Menu ########################
+# footer menu
 [[footer]]
+name = "Terms of Service"
+url = "terms/"
 weight = 1
-url = "about/"
-name = "About"
 
 [[footer]]
+name = "Privacy Policy"
+url = "privacy-policy/"
 weight = 2
-url = "author/"
-name = "Authors"
-
-[[footer]]
-weight = 3
-url = "conduct/"
-name = "Code of Conduct"

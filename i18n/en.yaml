@@ -1,68 +1,68 @@
-- id: search_placeholder
-  translation: Click to search…
+- id: read_more
+  translation: Read More
+  
+- id: address
+  translation: Our Address
 
-- id: our_instagram
-  translation: Our Instagram
-
-- id: name
-  translation: Your name
+- id: phone
+  translation: Phone Number
 
 - id: email
-  translation: Email address
+  translation: Message Us
 
-- id: subject
-  translation: Subject
+- id: contact_form
+  translation: Contact Form
 
-- id: message
-  translation: Your message here
+- id: send
+  translation: send message
 
-- id: send_message
-  translation: Send message
+- id: follow
+  translation: Hope is here
 
-- id: search_result_for
-  translation: Search results for
+- id: services
+  translation: Services
 
-- id: you_may_also_like
-  translation: You may also like
+- id: contact_info
+  translation: Contact Info
 
-- id: most_recent_post
-  translation: Our most recent post
+- id: subscribe_newsletter
+  translation: Subscribe Newsletter
 
-- id: written_by
-  translation: Written by
+- id: subscribe
+  translation: Subscribe
 
-- id: read_more
-  translation: Read more
-  
-- id: read_article
-  translation: Read article
+- id: connect_with_us
+  translation: Socials
 
-- id: showing_posts_from
-  translation: Showing posts from
+- id: call_now
+  translation: Call Now
 
-- id: home
-  translation: Home
+- id: search_placeholder
+  translation: Type & Hit Enter...
 
-- id: search
-  translation: Search
+- id: quick_contact
+  translation: Quick Contact
 
-- id: categories
-  translation: Categories
+- id: latest_article
+  translation: Latest Article
+
+- id: category
+  translation: Category
 
 - id: tags
   translation: Tags
 
-- id: social
-  translation: Social
+- id: all
+  translation: ALL
 
-- id: copyright-text
-  translation: Designed & developed by
+- id: client
+  translation: client
 
-- id: search_input_placeholder
-  translation: Search hopefully…
+- id: date
+  translation: date
 
-- id: no_results_for
-  translation: No results for
-
-- id: empty_search_results_placeholder
-  translation: Type something to search…
+- id: status
+  translation: status
+  
+- id: our_services
+  translation: Our Services
