@@ -1,29 +1,22 @@
 ---
-title: "Alex Monatinmo"
+title: "Jake Rayson"
 date: 2019-02-07T10:47:55+06:00
 # meta description
 description: "this is meta description"
 # page title background image
-bg_image_webp: "images/backgrounds/page-title.webp"
 bg_image: "images/backgrounds/page-title.jpg"
 # portrait
 image_webp: "images/team/team-2.webp"
 image: "images/team/team-2.jpg"
 # designation
-designation: "Designer"
+designation: "Project organiser"
 social:
-  - icon : "fab fa-facebook" # font-awesome 5 : https://fontawesome.com/icons/
-    link : "#"
-    
-  - icon : "fab fa-twitter" # font-awesome 5 : https://fontawesome.com/icons/
+  - icon : "fab fa-mastodon" # font-awesome 5 : https://fontawesome.com/icons/
     link : "#"
     
   - icon : "fab fa-linkedin" # font-awesome 5 : https://fontawesome.com/icons/
     link : "#"
-    
-  - icon : "fab fa-pinterest" # font-awesome 5 : https://fontawesome.com/icons/
-    link : "#"
-
+ 
 # skill
 skill_title: Skills
 skill:

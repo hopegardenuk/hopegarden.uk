@@ -9,8 +9,8 @@ top_header = true
 description = "Community Assembly at the heart of a wildlife forest garden"
 author = "Garden Wild Plants CIC"
 # contact info
-address = "Pen Y Foidr, Cilgerran, Sir Benfro SA43 2TF"
-mobile = ""
+address = "Parc y Delyn, Cilgerran, Pembrokeshire SA43 2TF"
+mobile = "07802 535 321"
 email = "hello@hopegarden.uk"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
@@ -43,13 +43,13 @@ mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463e
 mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
 
 # google map
-# [gmap]
-# enable = true
-# gmap_api = "AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU"
-# map_latitude = "51.5223477"
-# map_longitude = "-0.1622023"
+[gmap]
+enable = true
+gmap_api = "AIzaSyBQjTCvNi9cY3bY_qh_prLRb-si6qr8mOI"
+map_latitude = "52.05221122856925"
+map_longitude = "-4.633375693549827"
 # map_marker = "images/marker.png"
-# map_marker_name = "Bexer"
+map_marker_name = "Bexer"
 
 ########################### social icon ############################
 [[social]]

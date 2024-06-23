@@ -7,10 +7,7 @@
   <div class="hero-slider">
     {{ range .slider_item }}
     {{ "<!-- slider item -->" | safeHTML }}
-    <div class="hero-slider-item bg-cover hero-section" style="background-image: url('{{ .bg_image_webp | absURL }}');">
-      <!-- this image is for trigger this section fallback background image -->
-      <img class="d-none" src="{{ .bg_image_webp | absURL }}"
-        onerror="this.onerror=null;this.parentElement.style.backgroundImage= 'url({{ .bg_image | absURL }})'">
+    <div class="hero-slider-item bg-cover hero-section" style="background-image: url('{{ .bg_image | absURL }}');">
       <div class="container">
         <div class="row">
           <div class="col-lg-6" data-duration-in=".3" data-animation-in="{{ .animation }}" data-delay-in=".1">
@@ -66,6 +63,39 @@
 </section>
 {{ "<!-- /about us -->" | safeHTML }}
 {{ end }}
+
+
+{{ "<!-- blog -->" | safeHTML }}
+{{$show_item:= .Params.service.show_item}}
+{{ if .Params.blog.enable }}
+{{ with site.GetPage (string .Params.blog.section) }}
+<section class="section bg-gray-white position-relative">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 text-center">
+        <div class="section-title-border mx-auto"></div>
+        <h4 class="section-title-sm">{{ .Params.subtitle | markdownify }}</h4>
+        <h2 class="section-title">{{ .Params.title }}</h2>
+      </div>
+    </div>
+    <div class="row">
+      {{ "<!-- blog post -->" | safeHTML }}
+      {{ range first ($show_item | default 3) .Data.Pages }}
+      <article class="col-lg-4 col-sm-6 mb-lg-0 mb-4 zindex-1">
+        {{ .Render "post" }}
+      </article>
+      {{ end }}
+    </div>
+  </div>
+  {{ "<!-- background shapes -->" | safeHTML }}
+  <img loading="lazy" class="img-fluid blog-shape-left" src="{{`images/backgrounds/blog-bg-left.webp` | relURL }}"
+    alt="" onerror="this.src='{{`images/backgrounds/blog-bg-left.png` | relURL }}'">
+  <img loading="lazy" class="img-fluid blog-shape-right" src="{{`images/backgrounds/blog-bg-right.webp` | relURL }}"
+    alt="" onerror="this.src='{{`images/backgrounds/blog-bg-right.png` | relURL }}'">
+</section>
+{{ end }}
+{{ end }}
+{{ "<!-- /blog -->" | safeHTML }}
 
 {{ with .Params.funfacts }}
 {{ if .enable }}
@@ -206,36 +236,5 @@
 {{ end }}
 {{ end }}
 
-{{ "<!-- blog -->" | safeHTML }}
-{{$show_item:= .Params.service.show_item}}
-{{ if .Params.blog.enable }}
-{{ with site.GetPage (string .Params.blog.section) }}
-<section class="section bg-gray-white position-relative">
-  <div class="container">
-    <div class="row">
-      <div class="col-12 text-center">
-        <div class="section-title-border mx-auto"></div>
-        <h4 class="section-title-sm">{{ .Params.subtitle | markdownify }}</h4>
-        <h2 class="section-title">{{ .Params.title }}</h2>
-      </div>
-    </div>
-    <div class="row">
-      {{ "<!-- blog post -->" | safeHTML }}
-      {{ range first ($show_item | default 3) .Data.Pages }}
-      <article class="col-lg-4 col-sm-6 mb-lg-0 mb-4 zindex-1">
-        {{ .Render "post" }}
-      </article>
-      {{ end }}
-    </div>
-  </div>
-  {{ "<!-- background shapes -->" | safeHTML }}
-  <img loading="lazy" class="img-fluid blog-shape-left" src="{{`images/backgrounds/blog-bg-left.webp` | relURL }}"
-    alt="" onerror="this.src='{{`images/backgrounds/blog-bg-left.png` | relURL }}'">
-  <img loading="lazy" class="img-fluid blog-shape-right" src="{{`images/backgrounds/blog-bg-right.webp` | relURL }}"
-    alt="" onerror="this.src='{{`images/backgrounds/blog-bg-right.png` | relURL }}'">
-</section>
-{{ end }}
-{{ end }}
-{{ "<!-- /blog -->" | safeHTML }}
 
 {{ end }}
