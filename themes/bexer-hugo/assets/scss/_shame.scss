@@ -19,6 +19,26 @@
   font-size: 2.5rem;
 }
 
+// Hero section
+
+.hero-section h1 {
+  line-height: 1;
+}
+
+.hero-section p.mb-5 {
+  color: #333;
+}
+
+// Add white background at smaller sizes
+@media (max-width: 992px) {
+  .hero-section h1 span,
+  .hero-section p span {
+    background: rgba(255, 255, 255, 0.7);
+  }
+}
+
+// Section
+
 .section {
   padding: 2rem 0 0 0 !important;
 }
