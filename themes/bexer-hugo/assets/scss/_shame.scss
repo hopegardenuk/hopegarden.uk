@@ -6,6 +6,10 @@
   display: flex;
 }
 
+.navbar-brand:hover {
+  opacity: 0.7;
+}
+
 .navbar-brand img {
   margin-right: 12px;
 }
@@ -21,4 +25,8 @@
 
 main section:last-child {
   padding-bottom: 4rem !important;
+}
+
+.content img {
+  max-width: 100%;
 }

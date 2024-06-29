@@ -6,9 +6,9 @@ hero_slider:
   slider_item:
     # slider item
     - subtitle : "At the heart of a wildlife forest garden"
-      title : "Community Assembly at the heart of a wildlife forest garden 💚"
+      title : "Community Assembly at the heart of a wildlife forest garden"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-      bg_image : "https://res.cloudinary.com/growdigital/image/upload/f_auto/v1719180071/treeline-5376229E-3114.jpg"
+      bg_image : "https://res.cloudinary.com/growdigital/image/upload/v1719695332/elephant-garlic-flower-168.jpg"
       animation : "fadeInUp" # animation select from : https://daneden.github.io/animate.css/
       button:
         enable : true
