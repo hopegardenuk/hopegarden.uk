@@ -1,6 +1,6 @@
 ---
-title : "Our Team"
-subtitle : "We Are Dynamic Team"
+title : "The Crew"
+subtitle : "We are all crew"
 # meta description
 description: "this is meta description"
 # page title background image

@@ -6,7 +6,7 @@ hero_slider:
   slider_item:
     # slider item
     - subtitle : "At the heart of a wildlife forest garden"
-      title : "Community Assembly"
+      title : "Community Assembly at the heart of a wildlife forest garden 💚"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
       bg_image : "https://res.cloudinary.com/growdigital/image/upload/f_auto/v1719180071/treeline-5376229E-3114.jpg"
       animation : "fadeInUp" # animation select from : https://daneden.github.io/animate.css/
@@ -24,17 +24,17 @@ banner_feature:
   feature_item:
     # banner feature item loop
     - name : "Community Assembly"
-      icon : "far fa-comments" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "Lorem ipsum dolor sit amet constur adipelit sed."
+      icon : "fa fa-fist-raised" # font-awesome 5 : https://fontawesome.com/icons/
+      content : "Direct democracy in local decision making"
       
     # banner feature item loop
     - name : "Wildlife"
-      icon : "fa fa-spider" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "Lorem ipsum dolor sit amet constur adipelit sed."
+      icon : "fa fa-frog" # font-awesome 5 : https://fontawesome.com/icons/
+      content : "Native plants for insects & habitat for everyone"
       
     # banner feature item loop
     - name : "Forest garden"
-      icon : "fa fa-tree" # font-awesome 5 : https://fontawesome.com/icons/
+      icon : "fab fa-pagelines" # font-awesome 5 : https://fontawesome.com/icons/
       content : "Lorem ipsum dolor sit amet constur adipelit sed."
 
 

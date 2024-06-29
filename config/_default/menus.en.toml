@@ -23,21 +23,39 @@ hasChildren = true
 
   [[main]]
   parent = "Pages"
-  name = "Projects"
+  name = "Project"
   url = "project/"
   weight = 1
 
   [[main]]
   parent = "Pages"
-  name = "About"
-  url = "about/"
+  name = "Toolkit"
+  url = "toolkit/"
+  weight = 1
+
+  [[main]]
+  parent = "Pages"
+  name = "Service"
+  url = "service/"
   weight = 2
 
   [[main]]
   parent = "Pages"
-  name = "Team"
-  url = "team/"
+  name = "Partners"
+  url = "partners/"
+  weight = 2
+
+  [[main]]
+  parent = "Pages"
+  name = "About"
+  url = "about/"
   weight = 3
+
+  [[main]]
+  parent = "Pages"
+  name = "Crew"
+  url = "crew/"
+  weight = 4
 
 # footer menu
 [[footer]]

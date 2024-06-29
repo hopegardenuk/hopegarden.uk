@@ -1,10 +1,10 @@
 ---
-title : "Projects"
-subtitle : "Bexar Case Studies"
-# meta description
+title: "Service We Provide"
+subtitle: "Best Service"
 description: "this is meta description"
-# page title background image
 bg_image_webp: "images/backgrounds/page-title.webp"
 bg_image: "images/backgrounds/page-title.jpg"
+type: service
+draft: false
 ---
 

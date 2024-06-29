@@ -18,3 +18,7 @@
 .section {
   padding: 2rem 0 0 0 !important;
 }
+
+main section:last-child {
+  padding-bottom: 4rem !important;
+}
