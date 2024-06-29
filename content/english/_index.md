@@ -35,7 +35,7 @@ banner_feature:
     # banner feature item loop
     - name : "Forest garden"
       icon : "fab fa-pagelines" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "Lorem ipsum dolor sit amet constur adipelit sed."
+      content : "Fruit & nut trees, edible shrubs & perennial veg"
 
 
 
