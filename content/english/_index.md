@@ -12,7 +12,7 @@ hero_slider:
       animation : "fadeInUp" # animation select from : https://daneden.github.io/animate.css/
       button:
         enable : true
-        label : "more details"
+        label : "About the project"
         link : "about/"
         animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
         
@@ -45,15 +45,15 @@ banner_feature:
 ################################## about ####################################
 about:
   enable : true
-  subtitle : "About us"
-  title : "Enabling direct democracy & nature recovery"
-  content : "Excepteur sint occaecat cupidatat non proident sunt iculpa qui officia deserunt mollit anim est. laborum sed perspiciatis unde omnis natus error sit voluptatem accusantium."
+  subtitle : "Enabling direct democracy & nature recovery"
+  title : "Working with communities"
+  content : "Our partners are local communities and organisations, working together to build not just a community garden but also a toolkit for everyone that wants to create their own space for direct democracy and nature recovery."
   bg_image : ""
   image : "https://res.cloudinary.com/dyamadx71/image/upload/v1719698841/231012-red-apple_lmimid.jpg"
   button:
     enable : true;
-    label : "Get involved"
-    link : "service/"
+    label : "Local partners"
+    link : "partners/"
 
 ################################## Fun facts ###############################
 funfacts :

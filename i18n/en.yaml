@@ -8,10 +8,10 @@
   translation: Phone Number
 
 - id: email
-  translation: Message Us
+  translation: Message us
 
 - id: contact_form
-  translation: Contact Form
+  translation: Contact form
 
 - id: send
   translation: send message
@@ -19,14 +19,14 @@
 - id: follow
   translation: Hope is here
 
-- id: services
-  translation: Services
+- id: partners
+  translation: Partners
 
 - id: contact_info
-  translation: Contact Info
+  translation: Contact info
 
 - id: subscribe_newsletter
-  translation: Subscribe Newsletter
+  translation: Subscribe to the newsletter
 
 - id: subscribe
   translation: Subscribe
@@ -35,13 +35,13 @@
   translation: Socials
 
 - id: call_now
-  translation: Call Now
+  translation: Call now
 
 - id: search_placeholder
-  translation: Type & Hit Enter...
+  translation: Type & press enter…
 
 - id: quick_contact
-  translation: Quick Contact
+  translation: Quick contact
 
 - id: latest_article
   translation: Latest Article

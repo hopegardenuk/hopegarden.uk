@@ -19,8 +19,8 @@
 - id: follow
   translation: FOLLOW US ON
 
-- id: services
-  translation: Services
+- id: partners
+  translation: Partners
 
 - id: contact_info
   translation: Contact Info

@@ -1,15 +1,12 @@
 ---
-title: "Business Consulting"
-# meta description
+title: "Pen y Foidr"
 description: "this is meta description for service page."
-# page title background image
 bg_image_webp: "images/backgrounds/page-title.webp"
 bg_image: "images/backgrounds/page-title.jpg"
-# service image
-image_webp: "images/service/service-6.webp"
-image: "images/service/service-6.jpg"
-# service icon
+image_webp: "images/service/service-2.webp"
+image: "images/service/service-2.jpg"
 icon: "fas fa-chart-bar" # font-awesome 5 : https://fontawesome.com/icons/
+
 ---
 
 Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
