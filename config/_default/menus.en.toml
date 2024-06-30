@@ -23,21 +23,9 @@ hasChildren = true
 
   [[main]]
   parent = "Pages"
-  name = "Project"
-  url = "project/"
-  weight = 1
-
-  [[main]]
-  parent = "Pages"
   name = "Toolkit"
   url = "toolkit/"
   weight = 1
-
-  [[main]]
-  parent = "Pages"
-  name = "Service"
-  url = "service/"
-  weight = 2
 
   [[main]]
   parent = "Pages"
