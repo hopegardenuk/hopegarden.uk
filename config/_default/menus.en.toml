@@ -47,11 +47,11 @@ hasChildren = true
 
 # footer menu
 [[footer]]
-name = "Terms of Service"
-url = "terms/"
+name = "Licensing"
+url = "licensing/"
 weight = 1
 
 [[footer]]
-name = "Privacy Policy"
-url = "privacy-policy/"
+name = "Privacy policy"
+url = "privacy/"
 weight = 2

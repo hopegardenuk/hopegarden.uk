@@ -47,13 +47,13 @@ about:
   enable : true
   subtitle : "Enabling direct democracy & nature recovery"
   title : "Working with communities"
-  content : "Our partners are local communities and organisations, working together to build not just a community garden but also a toolkit for everyone that wants to create their own space for direct democracy and nature recovery."
+  content : "Our partners are local communities and organisations, working together to build not just a community garden but also a toolkit for everyone that wants to create their own space for direct democracy and nature recovery.<br>This is a work-in-progress, sign up to our newsletter to be kept updated."
   bg_image : ""
   image : "https://res.cloudinary.com/dyamadx71/image/upload/v1719698841/231012-red-apple_lmimid.jpg"
   button:
     enable : true;
-    label : "Local partners"
-    link : "partners/"
+    label : "Subscribe newsletter"
+    link : "newsletter/"
 
 ################################## Fun facts ###############################
 funfacts :
