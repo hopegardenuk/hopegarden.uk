@@ -1,10 +1,10 @@
 ---
 title: "Newsletter"
-description: "Sign up for our weekly newsletter here"
+description: "Sign up for our monthly newsletter here"
 draft: false
 ---
 
-### Subscribe to our weekly, hopeful newsletter
+### Subscribe to our monthly, hopeful newsletter
 
 <iframe
     scrolling="no"
