@@ -1,27 +1,19 @@
 ---
-title: "Kobert Wonkomoli"
-# meta description
-description: "this is meta description"
+title: "Martin Hayes"
+description: "Orchardist to the stars"
 # page title background image
 bg_image_webp: "images/backgrounds/page-title.webp"
 bg_image: "images/backgrounds/page-title.jpg"
 # portrait
-image_webp: "images/team/team-6.webp"
-image: "images/team/team-6.jpg"
+image_webp: "https://res.cloudinary.com/dyamadx71/image/upload/v1719699236/martin-hayes-orchardist_r6ayvz.webp"
+image: "https://res.cloudinary.com/dyamadx71/image/upload/v1719699236/martin-hayes-orchardist_r6ayvz.jpg"
 # designation
-designation: "CEO"
+designation: "Orchardist"
 social:
-  - icon : "fab fa-facebook" # font-awesome 5 : https://fontawesome.com/icons/
-    link : "#"
-    
-  - icon : "fab fa-twitter" # font-awesome 5 : https://fontawesome.com/icons/
-    link : "#"
-    
-  - icon : "fab fa-linkedin" # font-awesome 5 : https://fontawesome.com/icons/
-    link : "#"
-    
-  - icon : "fab fa-pinterest" # font-awesome 5 : https://fontawesome.com/icons/
-    link : "#"
+  - icon : "fa fa-globe" # font-awesome 5 : https://fontawesome.com/icons/
+    link : "https://www.theapplemancan.uk/"
+  - icon : "fa fa-at" # font-awesome 5 : https://fontawesome.com/icons/
+    link : "hello@theapplemancan.uk"
 
 # skill
 skill_title: Skills

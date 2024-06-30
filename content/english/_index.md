@@ -7,7 +7,7 @@ hero_slider:
     # slider item
     - subtitle : "Something hopeful this way comes"
       title : "Community Assembly at the heart of a wildlife forest garden"
-      content : "An experimental toolkit for creating a community meeting space surrounded by a thriving, productive wildlife garden. Situated in north Pembrokeshire, West Wales, UK."
+      content : "Providing an experimental toolkit to create a community meeting space surrounded by a thriving, productive wildlife garden. Prototype located in north Pembrokeshire, West Wales, UK."
       bg_image : "https://res.cloudinary.com/growdigital/image/upload/v1719695332/elephant-garlic-flower-168.jpg"
       animation : "fadeInUp" # animation select from : https://daneden.github.io/animate.css/
       button:
@@ -26,16 +26,19 @@ banner_feature:
     - name : "Community Assembly"
       icon : "fa fa-fist-raised" # font-awesome 5 : https://fontawesome.com/icons/
       content : "Direct democracy in local decision making"
+      link: /about#community-assembly
       
     # banner feature item loop
     - name : "Wildlife"
       icon : "fa fa-frog" # font-awesome 5 : https://fontawesome.com/icons/
       content : "Native plants for insects & habitat for everyone"
+      link: /about#wildlife
       
     # banner feature item loop
     - name : "Forest garden"
       icon : "fab fa-pagelines" # font-awesome 5 : https://fontawesome.com/icons/
       content : "Fruit & nut trees, edible shrubs & perennial veg"
+      link: /about#forest-garden
 
 
 
@@ -45,8 +48,8 @@ about:
   subtitle : "About us"
   title : "Enabling direct democracy & nature recovery"
   content : "Excepteur sint occaecat cupidatat non proident sunt iculpa qui officia deserunt mollit anim est. laborum sed perspiciatis unde omnis natus error sit voluptatem accusantium."
-  bg_image : "images/backgrounds/about-us-bg.png"
-  image : "images/about/about-us.png"
+  bg_image : ""
+  image : "https://res.cloudinary.com/dyamadx71/image/upload/v1719698841/231012-red-apple_lmimid.jpg"
   button:
     enable : true;
     label : "Get involved"

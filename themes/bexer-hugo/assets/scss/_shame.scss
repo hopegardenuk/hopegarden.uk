@@ -47,6 +47,26 @@ main section:last-child {
   padding-bottom: 4rem !important;
 }
 
+// Stop images stretching out in content body
 .content img {
   max-width: 100%;
+}
+
+// Footer stuff
+
+footer .container img:hover {
+  opacity: 0.8;
+}
+
+footer .section {
+  padding-bottom: 2rem !important;
+}
+
+footer .text-light a {
+  color: #ddd !important;
+}
+
+footer .text-light a:hover {
+  color: #86c33a!important;
+  text-decoration: underline !important;
 }

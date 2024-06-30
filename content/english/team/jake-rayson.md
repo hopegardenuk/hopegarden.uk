@@ -6,8 +6,8 @@ description: "this is meta description"
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # portrait
-image_webp: "images/team/team-2.webp"
-image: "images/team/team-2.jpg"
+image_webp: "https://res.cloudinary.com/dyamadx71/image/upload/v1719698971/jake-askance_c97qqu.webp"
+image: "https://res.cloudinary.com/dyamadx71/image/upload/v1719698971/jake-askance_c97qqu.jpg"
 # designation
 designation: "Wildlife forest garden designer"
 social:

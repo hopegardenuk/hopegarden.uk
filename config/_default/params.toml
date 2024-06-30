@@ -1,7 +1,7 @@
 ########################### Default parameters ######################
 logo = "images/logo.svg"
 logo_width = "60px"
-logo_footer = "images/logo-alt.png"
+logo_footer = "images/logotype-wo.png"
 favicon = "images/favicon.png"
 # top header
 top_header = true
