@@ -2,11 +2,11 @@
 title: "Martin Hayes"
 description: "Orchardist to the stars"
 # page title background image
-bg_image_webp: "images/backgrounds/page-title.webp"
-bg_image: "images/backgrounds/page-title.jpg"
+bg_image_webp: "images/backgrounds/poppy-title.jpg"
+bg_image: "images/backgrounds/poppy-title.jpg"
 # portrait
-image_webp: "https://res.cloudinary.com/dyamadx71/image/upload/v1719699236/martin-hayes-orchardist_r6ayvz.webp"
-image: "https://res.cloudinary.com/dyamadx71/image/upload/v1719699236/martin-hayes-orchardist_r6ayvz.jpg"
+image_webp: "https://res.cloudinary.com/hopegarden/image/upload/v1719874616/martin-hayes-orchardist.webp"
+image: "https://res.cloudinary.com/hopegarden/image/upload/v1719874616/martin-hayes-orchardist.jpg"
 # designation
 designation: "Orchardist"
 social:

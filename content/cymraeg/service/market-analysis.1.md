@@ -4,7 +4,7 @@ title: "Market Analysis"
 description: "this is meta description for service page."
 # page title background image
 bg_image_webp: "images/backgrounds/page-title.webp"
-bg_image: "images/backgrounds/page-title.jpg"
+bg_image: "images/backgrounds/poppy-title.jpg"
 # service image
 image_webp: "images/service/service-4.webp"
 image: "images/service/service-4.jpg"

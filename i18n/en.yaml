@@ -1,14 +1,14 @@
 - id: read_more
-  translation: Read More
+  translation: Read more
   
 - id: address
-  translation: Our Address
+  translation: Our address
 
 - id: phone
-  translation: Phone Number
+  translation: Phone number
 
 - id: email
-  translation: Message us
+  translation: Email us
 
 - id: contact_form
   translation: Contact form

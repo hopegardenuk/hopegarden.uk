@@ -4,7 +4,7 @@ title: "Brendan Alestico"
 description: "this is meta description"
 # page title background image
 bg_image_webp: "images/backgrounds/page-title.webp"
-bg_image: "images/backgrounds/page-title.jpg"
+bg_image: "images/backgrounds/poppy-title.jpg"
 # portrait
 image_webp: "images/team/team-4.webp"
 image: "images/team/team-4.jpg"

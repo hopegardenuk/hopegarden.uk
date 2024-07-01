@@ -2,7 +2,7 @@
 title: "Naturewise"
 description: "this is meta description for service page."
 bg_image_webp: "images/backgrounds/page-title.webp"
-bg_image: "images/backgrounds/page-title.jpg"
+bg_image: "images/backgrounds/poppy-title.jpg"
 image_webp: "images/service/service-1.webp"
 image: "images/service/service-1.jpg"
 icon: "far fa-handshake" # font-awesome 5 : https://fontawesome.com/icons/

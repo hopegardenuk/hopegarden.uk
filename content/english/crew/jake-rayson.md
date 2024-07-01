@@ -4,10 +4,10 @@ date: 2019-02-07T10:47:55+06:00
 # meta description
 description: "this is meta description"
 # page title background image
-bg_image: "images/backgrounds/page-title.jpg"
+bg_image: "images/backgrounds/poppy-title.jpg"
 # portrait
-image_webp: "https://res.cloudinary.com/dyamadx71/image/upload/v1719698971/jake-askance_c97qqu.webp"
-image: "https://res.cloudinary.com/dyamadx71/image/upload/v1719698971/jake-askance_c97qqu.jpg"
+image_webp: "https://res.cloudinary.com/hopegarden/image/upload/v1719874596/jake-askance.jpg"
+image: "https://res.cloudinary.com/hopegarden/image/upload/v1719874596/jake-askance.jpg"
 # designation
 designation: "Wildlife forest garden designer"
 social:

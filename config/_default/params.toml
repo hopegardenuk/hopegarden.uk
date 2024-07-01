@@ -14,8 +14,8 @@ mobile = "07802 535 321"
 email = "hello@hopegarden.uk"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
-# Google Analitycs
-google_analitycs_id = "" # your id
+# Google Analytics
+# google_analitycs_id = "" # your id
 # page sidebar quick contact form
 quick_contact = true
 # search

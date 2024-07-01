@@ -8,7 +8,7 @@ hero_slider:
     - subtitle : "Something hopeful this way comes"
       title : "Community Assembly at the heart of a wildlife forest garden"
       content : "Providing an experimental toolkit to create a community meeting space surrounded by a thriving, productive wildlife garden. Prototype located in north Pembrokeshire, West Wales, UK."
-      bg_image : "https://res.cloudinary.com/growdigital/image/upload/v1719695332/elephant-garlic-flower-168.jpg"
+      bg_image : "https://res.cloudinary.com/hopegarden/image/upload/v1719872235/elephant-garlic-flower-169.jpg"
       animation : "fadeInUp" # animation select from : https://daneden.github.io/animate.css/
       button:
         enable : true
@@ -49,10 +49,10 @@ about:
   title : "Working with communities"
   content : "Our partners are local communities and organisations, working together to build not just a community garden but also a toolkit for everyone that wants to create their own space for direct democracy and nature recovery.<br>This is a work-in-progress, sign up to our newsletter to be kept updated."
   bg_image : ""
-  image : "https://res.cloudinary.com/dyamadx71/image/upload/v1719698841/231012-red-apple_lmimid.jpg"
+  image : "https://res.cloudinary.com/hopegarden/image/upload/v1719873215/231012-red-apple.jpg"
   button:
     enable : true;
-    label : "Subscribe newsletter"
+    label : "Subscribe to newsletter"
     link : "newsletter/"
 
 ################################## Fun facts ###############################

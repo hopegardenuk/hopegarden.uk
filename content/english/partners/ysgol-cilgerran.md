@@ -2,7 +2,7 @@
 title: "Ysgol Cilgerran"
 description: "this is meta description for service page."
 bg_image_webp: "images/backgrounds/page-title.webp"
-bg_image: "images/backgrounds/page-title.jpg"
+bg_image: "images/backgrounds/poppy-title.jpg"
 image_webp: "images/service/service-5.webp"
 image: "images/service/service-5.jpg"
 icon: "fas fa-briefcase" # font-awesome 5 : https://fontawesome.com/icons/
