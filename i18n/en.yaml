@@ -66,3 +66,6 @@
   
 - id: our_services
   translation: Our Services
+
+- id: website
+  translation: Website

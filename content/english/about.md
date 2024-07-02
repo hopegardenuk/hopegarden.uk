@@ -8,30 +8,30 @@ bg_image_webp: "https://res.cloudinary.com/hopegarden/image/upload/v1719952740/t
 bg_image: "https://res.cloudinary.com/hopegarden/image/upload/v1719952740/title-poppy.webp"
 
 
-################################### philosophy ###########################
+################################### Philosophy ###########################
 philosophy:
   enable : true
   philosophy_item:
-    # philosophy item loop
-    - title : "Our Mission"
-      content : "Lorem ipsum dolor sit amet consectetur adip isicing elit sed do eiusmod tempor incididunt ut labore."
+    # Philosophy item loop
+    - title : "Democracy"
+      content : "We need more engagement & voices heard in tackling the nature and climate emergency, through direct democracy such as Community Assemblies."
       bullet_point:
-        - "Quality Services"
-        - "Clients Satisfaction"
+        - "Community Assembly"
+        - "Co-design"
         
-    # philosophy item loop
-    - title : "Our Approach"
-      content : "Lorem ipsum dolor sit amet consectetur adip isicing elit sed do eiusmod tempor incididunt ut labore."
+    # Philosophy item loop
+    - title : "Native plants"
+      content : "Grow native plants _where possible_ because they have co-evolved with wildlife & provide food for invertebrates, the foundation of any ecosystem."
       bullet_point:
-        - "Quality Services"
-        - "Clients Satisfaction"
+        - "Diversity of species & niches"
+        - "Structural complexity for wildlife habitat"
         
-    # philosophy item loop
-    - title : "Our Philosophy"
-      content : "Lorem ipsum dolor sit amet consectetur adip isicing elit sed do eiusmod tempor incididunt ut labore."
+    # Philosophy item loop
+    - title : "Resilient food"
+      content : "Shift away from commodified & energy-intensive food production to sustainable & local food systems that are future proof."
       bullet_point:
-        - "Quality Services"
-        - "Clients Satisfaction"
+        - "Perennial vegetables"
+        - "Agroforestry crops"
 
 ################################### about ###########################
 about:

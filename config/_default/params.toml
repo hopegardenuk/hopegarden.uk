@@ -53,16 +53,16 @@ map_longitude = "-4.633375693549827"
 
 ########################### social icon ############################
 [[social]]
+icon = "fab fa-mastodon"
+link = "https://climatejustice.social/@hopegarden"
+
+[[social]]
 icon = "fab fa-facebook"
 link = "https://facebook.com/hopegardenuk"
 
 [[social]]
 icon = "fab fa-twitter"
 link = "https://x.com/hopegardenuk"
-
-[[social]]
-icon = "fab fa-github"
-link = "https://github.com/hopegardenuk"
 
 [[social]]
 icon = "fab fa-instagram"
@@ -77,6 +77,6 @@ icon = "fab fa-youtube"
 link = "https://youtube.com/hopegardenuk"
 
 [[social]]
-icon = "fab fa-mastodon"
-link = "https://climatejustice.social/@hopegarden"
+icon = "fab fa-github"
+link = "https://github.com/hopegardenuk"
 

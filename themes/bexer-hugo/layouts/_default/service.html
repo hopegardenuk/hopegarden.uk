@@ -5,8 +5,8 @@
   {{ end }}
   <div class="card-body position-relative">
     {{ with .Params.Icon}}<div class="card-icon {{if not $Image}}position-static mb-4{{end}}"><i class="{{. }}"></i></div>{{ end }}
-    <h4 class="card-title"><a class="text-dark" href="{{ .Permalink }}">{{ .Title }}</a></h4>
-    <p class="card-text">{{ .Summary }}</p>
-    <a href="{{ .Permalink }}" class="btn btn-secondary btn-arrow" aria-label="{{ .Title }}">{{ i18n "read_more" }}</a>
+    <h4 class="card-title"><a class="text-dark" href="{{ .Params.Link }}" target="_blank">{{ .Title }}</a></h4>
+    <p class="card-text">{{ .Content }}</p>
+    <a href="{{ .Params.Link }}" class="btn btn-secondary btn-arrow" aria-label="{{ .Title }}" target="_blank">{{ i18n "website" }}</a>
   </div>
 </div>
