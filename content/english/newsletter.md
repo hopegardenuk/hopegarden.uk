@@ -1,12 +1,11 @@
 ---
 title: "Newsletter"
 description: "Sign up for our monthly newsletter here"
-bg_image_webp: "images/backgrounds/poppy-title.jpg"
-bg_image: "images/backgrounds/poppy-title.jpg"
+bg_image: "https://res.cloudinary.com/hopegarden/image/upload/v1719952740/title-poppy.webp"
 draft: false
 ---
 
-### Subscribe to our monthly, hopeful newsletter
+### Subscribe to our hopefully monthly newsletter
 
 <iframe
     scrolling="no"
@@ -18,4 +17,3 @@ draft: false
 
 * Website: [hopegarden.uk/categories/newsletter](/categories/newsletter) 
 * Newsletter provider [buttondown.email/hopegarden](https://buttondown.email/hopegarden)
-

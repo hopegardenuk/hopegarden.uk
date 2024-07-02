@@ -5,7 +5,7 @@ date: 2019-01-22T16:04:01+06:00
 description: "this is meta description"
 # page title background image
 bg_image_webp: "images/backgrounds/page-title.webp"
-bg_image: "images/backgrounds/poppy-title.jpg"
+bg_image: "https://res.cloudinary.com/hopegarden/image/upload/v1719952740/title-poppy.webp"
 # post thumbnail
 image_webp: "images/blog/post-1.webp"
 image: "images/blog/post-1.jpg"

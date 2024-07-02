@@ -1,37 +1,40 @@
 ---
-title: "Martin Hayes"
-description: "Orchardist to the stars"
+title: "Jake Rayson"
+date: 2019-02-07T10:47:55+06:00
+# meta description
+description: "this is meta description"
 # page title background image
-bg_image_webp: "images/backgrounds/poppy-title.jpg"
-bg_image: "images/backgrounds/poppy-title.jpg"
+bg_image: "https://res.cloudinary.com/hopegarden/image/upload/v1719952740/title-poppy.webp"
 # portrait
-image_webp: "https://res.cloudinary.com/hopegarden/image/upload/v1719874616/martin-hayes-orchardist.webp"
-image: "https://res.cloudinary.com/hopegarden/image/upload/v1719874616/martin-hayes-orchardist.jpg"
+image_webp: "https://res.cloudinary.com/hopegarden/image/upload/v1719874596/jake-askance.jpg"
+image: "https://res.cloudinary.com/hopegarden/image/upload/v1719874596/jake-askance.jpg"
 # designation
-designation: "Orchardist"
+designation: "Wildlife forest garden designer"
 social:
+  - icon : "fab fa-mastodon" # font-awesome 5 : https://fontawesome.com/icons/
+    link : "https://mas.to/@natureworks"
   - icon : "fa fa-globe" # font-awesome 5 : https://fontawesome.com/icons/
-    link : "https://www.theapplemancan.uk/"
+    link : "https://natureworks.org.uk"
   - icon : "fa fa-at" # font-awesome 5 : https://fontawesome.com/icons/
-    link : "hello@theapplemancan.uk"
-
+    link : "hello@natureworks.org.uk"
+ 
 # skill
 skill_title: Skills
 skill:
-- label : Co-ordination
+- label : Project management
   percentage : 85%
   
-- label : Programming
+- label : Website
   percentage : 79%
   
-- label : Communication
-  percentage : 95%
+- label : Design
+  percentage : 65%
 ---
 
-#### Work History & Feedback
+#### Work history & feedback
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis.
 
-#### Profile Analytics
+#### Profile analytics
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
 
 #### Activities

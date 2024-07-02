@@ -1,24 +1,24 @@
 ########################### Default parameters ######################
-logo = "images/logo.svg"
+logo = "https://res.cloudinary.com/hopegarden/image/upload/v1719952233/logo.svg"
 logo_width = "60px"
-logo_footer = "images/logotype-wo.png"
-favicon = "images/favicon.png"
-# top header
+logo_footer = "https://res.cloudinary.com/hopegarden/image/upload/v1719952045/logotype-wo.png"
+favicon = "https://res.cloudinary.com/hopegarden/image/upload/v1719952222/favicon.png"
+# Top header
 top_header = true
 # Meta data
 description = "Community Assembly at the heart of a wildlife forest garden"
 author = "Garden Wild Plants CIC"
-# contact info
+# Contact info
 address = "Parc y Delyn, Cilgerran, Pembrokeshire SA43 2TF"
 mobile = "07802 535 321"
 email = "hello@hopegarden.uk"
-# contact form action
+# Contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # Google Analytics
 # google_analitycs_id = "" # your id
 # page sidebar quick contact form
 quick_contact = true
-# search
+# Search
 search = true
 
 # Main section
@@ -42,14 +42,14 @@ enable = true
 mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
 mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
 
-# google map
+# Google map
 [gmap]
 enable = true
 gmap_api = "AIzaSyBQjTCvNi9cY3bY_qh_prLRb-si6qr8mOI"
 map_latitude = "52.05221122856925"
 map_longitude = "-4.633375693549827"
 # map_marker = "images/marker.png"
-map_marker_name = "Bexer"
+# map_marker_name = "Hope Garden"
 
 ########################### social icon ############################
 [[social]]

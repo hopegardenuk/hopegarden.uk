@@ -41,8 +41,8 @@ hasChildren = true
 
   [[main]]
   parent = "Pages"
-  name = "Crew"
-  url = "crew/"
+  name = "Team"
+  url = "team/"
   weight = 4
 
 # footer menu
