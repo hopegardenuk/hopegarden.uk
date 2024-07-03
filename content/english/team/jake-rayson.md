@@ -11,11 +11,11 @@ image: "https://res.cloudinary.com/hopegarden/image/upload/v1719874596/jake-aska
 # designation
 designation: "Wildlife forest garden designer"
 social:
-  - icon : "fab fa-mastodon" # font-awesome 5 : https://fontawesome.com/icons/
+  - icon : "fab fa-mastodon" # font-awesome 5 : https://fontawesome.com/v5/search
     link : "https://mas.to/@natureworks"
-  - icon : "fa fa-globe" # font-awesome 5 : https://fontawesome.com/icons/
+  - icon : "fa fa-globe" # font-awesome 5 : https://fontawesome.com/v5/search
     link : "https://natureworks.org.uk"
-  - icon : "fa fa-at" # font-awesome 5 : https://fontawesome.com/icons/
+  - icon : "fa fa-at" # font-awesome 5 : https://fontawesome.com/v5/search
     link : "hello@natureworks.org.uk"
  
 # skill

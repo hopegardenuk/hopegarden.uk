@@ -24,19 +24,19 @@ banner_feature:
   feature_item:
     # banner feature item loop
     - name : "Community Assembly"
-      icon : "fa fa-fist-raised" # font-awesome 5 : https://fontawesome.com/icons/
+      icon : "fa fa-fist-raised" # font-awesome 5 : https://fontawesome.com/v5/search
       content : "Direct democracy in local decision making"
       link: /about#community-assembly
       
     # banner feature item loop
     - name : "Wildlife"
-      icon : "fa fa-frog" # font-awesome 5 : https://fontawesome.com/icons/
+      icon : "fa fa-frog" # font-awesome 5 : https://fontawesome.com/v5/search
       content : "Native plants for insects & habitat for everyone"
       link: /about#wildlife
       
     # banner feature item loop
     - name : "Forest garden"
-      icon : "fab fa-pagelines" # font-awesome 5 : https://fontawesome.com/icons/
+      icon : "fab fa-pagelines" # font-awesome 5 : https://fontawesome.com/v5/search
       content : "Fruit & nut trees, edible shrubs & perennial veg"
       link: /about#forest-garden
 
@@ -62,22 +62,22 @@ funfacts :
     # fanfacts item loop
     - name : "project done"
       count : "50"
-      icon : "fas fa-bullseye" # font-awesome 5 : https://fontawesome.com/icons/
+      icon : "fas fa-bullseye" # font-awesome 5 : https://fontawesome.com/v5/search
       
     # fanfacts item loop
     - name : "Years Experience"
       count : "25"
-      icon : "far fa-calendar-alt" # font-awesome 5 : https://fontawesome.com/icons/
+      icon : "far fa-calendar-alt" # font-awesome 5 : https://fontawesome.com/v5/search
       
     # fanfacts item loop
     - name : "Awards Win"
       count : "250"
-      icon : "fas fa-award" # font-awesome 5 : https://fontawesome.com/icons/
+      icon : "fas fa-award" # font-awesome 5 : https://fontawesome.com/v5/search
       
     # fanfacts item loop
     - name : "Happy Coustomers"
       count : "500"
-      icon : "far fa-smile" # font-awesome 5 : https://fontawesome.com/icons/
+      icon : "far fa-smile" # font-awesome 5 : https://fontawesome.com/v5/search
 
 
 ################################# feature ############################################
@@ -91,12 +91,12 @@ feature:
   feature_item:
     # feature item loop
     - name : "Creative Design"
-      icon : "far fa-snowflake" # font-awesome 5 : https://fontawesome.com/icons/
+      icon : "far fa-snowflake" # font-awesome 5 : https://fontawesome.com/v5/search
       content : "Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia."
       
     # feature item loop
     - name : "Pixel Perfect Coding"
-      icon : "fas fa-code" # font-awesome 5 : https://fontawesome.com/icons/
+      icon : "fas fa-code" # font-awesome 5 : https://fontawesome.com/v5/search
       content : "Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia."
 
 ################################# Service ############################################

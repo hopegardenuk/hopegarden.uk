@@ -10,9 +10,9 @@ image: "https://res.cloudinary.com/hopegarden/image/upload/v1719874616/martin-ha
 # designation
 designation: "Orchardist"
 social:
-  - icon : "fa fa-globe" # font-awesome 5 : https://fontawesome.com/icons/
+  - icon : "fa fa-globe" # font-awesome 5 : https://fontawesome.com/v5/search
     link : "https://www.theapplemancan.uk/"
-  - icon : "fa fa-at" # font-awesome 5 : https://fontawesome.com/icons/
+  - icon : "fa fa-at" # font-awesome 5 : https://fontawesome.com/v5/search
     link : "hello@theapplemancan.uk"
 
 # skill

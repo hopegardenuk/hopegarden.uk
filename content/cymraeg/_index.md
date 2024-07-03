@@ -63,22 +63,22 @@ banner_feature:
   feature_item:
     # banner feature item loop
     - name : "Business Solution"
-      icon : "far fa-gem" # font-awesome 5 : https://fontawesome.com/icons/
+      icon : "far fa-gem" # font-awesome 5 : https://fontawesome.com/v5/search
       content : "Lorem ipsum dolor sit amet constur adipelit sed."
       
     # banner feature item loop
     - name : "Market Research"
-      icon : "far fa-chart-bar" # font-awesome 5 : https://fontawesome.com/icons/
+      icon : "far fa-chart-bar" # font-awesome 5 : https://fontawesome.com/v5/search
       content : "Lorem ipsum dolor sit amet constur adipelit sed."
       
     # banner feature item loop
     - name : "Business Strategy"
-      icon : "far fa-lightbulb" # font-awesome 5 : https://fontawesome.com/icons/
+      icon : "far fa-lightbulb" # font-awesome 5 : https://fontawesome.com/v5/search
       content : "Lorem ipsum dolor sit amet constur adipelit sed."
       
     # banner feature item loop
     - name : "Speed Optimization"
-      icon : "fas fa-tachometer-alt" # font-awesome 5 : https://fontawesome.com/icons/
+      icon : "fas fa-tachometer-alt" # font-awesome 5 : https://fontawesome.com/v5/search
       content : "Lorem ipsum dolor sit amet constur adipelit sed."
 
 
@@ -104,22 +104,22 @@ funfacts :
     # fanfacts item loop
     - name : "project done"
       count : "50"
-      icon : "fas fa-bullseye" # font-awesome 5 : https://fontawesome.com/icons/
+      icon : "fas fa-bullseye" # font-awesome 5 : https://fontawesome.com/v5/search
       
     # fanfacts item loop
     - name : "Years Experience"
       count : "25"
-      icon : "far fa-calendar-alt" # font-awesome 5 : https://fontawesome.com/icons/
+      icon : "far fa-calendar-alt" # font-awesome 5 : https://fontawesome.com/v5/search
       
     # fanfacts item loop
     - name : "Awards Win"
       count : "250"
-      icon : "fas fa-award" # font-awesome 5 : https://fontawesome.com/icons/
+      icon : "fas fa-award" # font-awesome 5 : https://fontawesome.com/v5/search
       
     # fanfacts item loop
     - name : "Happy Coustomers"
       count : "500"
-      icon : "far fa-smile" # font-awesome 5 : https://fontawesome.com/icons/
+      icon : "far fa-smile" # font-awesome 5 : https://fontawesome.com/v5/search
 
 
 ################################# feature ############################################
@@ -133,12 +133,12 @@ feature:
   feature_item:
     # feature item loop
     - name : "Creative Design"
-      icon : "far fa-snowflake" # font-awesome 5 : https://fontawesome.com/icons/
+      icon : "far fa-snowflake" # font-awesome 5 : https://fontawesome.com/v5/search
       content : "Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia."
       
     # feature item loop
     - name : "Pixel Perfect Coding"
-      icon : "fas fa-code" # font-awesome 5 : https://fontawesome.com/icons/
+      icon : "fas fa-code" # font-awesome 5 : https://fontawesome.com/v5/search
       content : "Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia."
 
 ################################# service ############################################

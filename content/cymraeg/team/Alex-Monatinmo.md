@@ -12,16 +12,16 @@ image: "images/team/team-2.jpg"
 # designation
 designation: "Designer"
 social:
-  - icon : "fab fa-facebook" # font-awesome 5 : https://fontawesome.com/icons/
+  - icon : "fab fa-facebook" # font-awesome 5 : https://fontawesome.com/v5/search
     link : "#"
     
-  - icon : "fab fa-twitter" # font-awesome 5 : https://fontawesome.com/icons/
+  - icon : "fab fa-twitter" # font-awesome 5 : https://fontawesome.com/v5/search
     link : "#"
     
-  - icon : "fab fa-linkedin" # font-awesome 5 : https://fontawesome.com/icons/
+  - icon : "fab fa-linkedin" # font-awesome 5 : https://fontawesome.com/v5/search
     link : "#"
     
-  - icon : "fab fa-pinterest" # font-awesome 5 : https://fontawesome.com/icons/
+  - icon : "fab fa-pinterest" # font-awesome 5 : https://fontawesome.com/v5/search
     link : "#"
 
 # skill

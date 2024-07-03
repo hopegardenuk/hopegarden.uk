@@ -9,7 +9,7 @@ bg_image: "https://res.cloudinary.com/hopegarden/image/upload/v1719952740/title-
 image_webp: "images/service/service-3.webp"
 image: "images/service/service-3.jpg"
 # service icon
-icon: "fas fa-briefcase" # font-awesome 5 : https://fontawesome.com/icons/
+icon: "fas fa-briefcase" # font-awesome 5 : https://fontawesome.com/v5/search
 
 ---
 

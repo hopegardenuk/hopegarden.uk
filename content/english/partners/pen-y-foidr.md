@@ -1,15 +1,10 @@
 ---
-title: "Business Consulting"
-# meta description
+title: "Pen y Foidr"
 description: "this is meta description for service page."
-# page title background image
-bg_image_webp: "images/backgrounds/page-title.webp"
 bg_image: "https://res.cloudinary.com/hopegarden/image/upload/v1719952740/title-poppy.webp"
-# service image
-image_webp: "images/service/service-2.webp"
 image: "images/service/service-2.jpg"
-# service icon
 icon: "fas fa-chart-bar" # font-awesome 5 : https://fontawesome.com/v5/search
+draft: true
 
 ---
 
