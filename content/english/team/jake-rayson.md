@@ -27,17 +27,15 @@ skill:
 - label : Website
   percentage : 79%
   
-- label : Design
+- label : Garden design
   percentage : 65%
 ---
 
-#### Work history & feedback
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis.
-
-#### Profile analytics
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
+#### Work history
+Jake has been designing forest gardens for about 10 years, as a response to the climate and nature emergency. As forest gardens are effectively edible ecosystems, his interests have expanded native plants and ecology as well as edible crops.
 
 #### Activities
-* Enim ad minim veniam, quis nostrud
-* Sed do eiusmod tempor consectetur incididunt ut
-* Excepteur sint occaecat cupidatat non proident sunt in culpa
+* General project management
+* Website fixing & noodling
+* Very keen on wildlife habitat in gardens, with a gabion for every occasion
+* Garden designer with CAD *and* shovel skills 

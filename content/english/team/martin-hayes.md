@@ -18,23 +18,20 @@ social:
 # skill
 skill_title: Skills
 skill:
-- label : Co-ordination
-  percentage : 85%
+- label : Tree planting
+  percentage : 75%
   
-- label : Programming
-  percentage : 79%
-  
-- label : Communication
+- label : Pruning
   percentage : 95%
+  
+- label : Education
+  percentage : 85%
 ---
 
-#### Work History & Feedback
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis.
-
-#### Profile Analytics
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
+#### Work history
+Martin is an orchardist with decades of experience, working in orchards across the UK. He is a particularly gifted teacher, passing on the skills of design, tree planting and pruning. He is very active in community orchards, and always considers wildlife in an orchard.
 
 #### Activities
-* Enim ad minim veniam, quis nostrud
-* Sed do eiusmod tempor consectetur incididunt ut
-* Excepteur sint occaecat cupidatat non proident sunt in culpa
+* A dab hand with a tree spade
+* Excellent tree guard construction
+* In-deman fruit ID skills 
