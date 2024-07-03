@@ -14,21 +14,21 @@ philosophy:
   philosophy_item:
     # Philosophy item loop
     - title : "Democracy"
-      content : "We need more engagement & voices heard in tackling the nature and climate emergency, through direct democracy such as Community Assemblies."
+      content : "We need more engagement, voices heard & people working together to tackle the nature and climate emergency. We need more, direct democracy such as Community Assemblies."
       bullet_point:
         - "Community Assembly"
         - "Co-design"
         
     # Philosophy item loop
-    - title : "Native plants"
-      content : "Grow native plants _where possible_ because they have co-evolved with wildlife & provide food for invertebrates, the foundation of any ecosystem."
+    - title : "Wildlife"
+      content : "Grow native plants _where possible_ because they have co-evolved with wildlife & provide food for invertebrates, the foundation of any ecosystem. Build habitat for wildlife in your infrastructure."
       bullet_point:
         - "Diversity of species & niches"
         - "Structural complexity for wildlife habitat"
         
     # Philosophy item loop
-    - title : "Resilient food"
-      content : "Shift away from commodified & energy-intensive food production to sustainable & local food systems that are future proof."
+    - title : "Forest garden"
+      content : "Agriculture & gardens should be green. Shift away from commodified & energy-intensive food production to sustainable & local food systems that are future proof."
       bullet_point:
         - "Perennial vegetables"
         - "Agroforestry crops"

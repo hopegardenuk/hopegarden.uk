@@ -26,19 +26,19 @@ banner_feature:
     - name : "Community Assembly"
       icon : "fa fa-fist-raised" # font-awesome 5 : https://fontawesome.com/v5/search
       content : "Direct democracy in local decision making"
-      link: /about#community-assembly
+      link: /about
       
     # banner feature item loop
     - name : "Wildlife"
       icon : "fa fa-frog" # font-awesome 5 : https://fontawesome.com/v5/search
       content : "Native plants for insects & habitat for everyone"
-      link: /about#wildlife
+      link: /about
       
     # banner feature item loop
     - name : "Forest garden"
       icon : "fab fa-pagelines" # font-awesome 5 : https://fontawesome.com/v5/search
       content : "Fruit & nut trees, edible shrubs & perennial veg"
-      link: /about#forest-garden
+      link: /about
 
 
 
