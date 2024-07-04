@@ -50,8 +50,3 @@ hasChildren = true
 name = "Licensing"
 url = "licensing/"
 weight = 1
-
-# [[footer]]
-# name = "Privacy policy"
-# url = "privacy/"
-# weight = 2

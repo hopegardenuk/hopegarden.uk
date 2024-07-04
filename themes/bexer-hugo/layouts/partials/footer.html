@@ -66,10 +66,10 @@
   <div class="bg-secondary-darken py-4">
     <div class="container">
       <div class="row">
-        <div class="col-md-6 text-center text-md-left mb-3 mb-md-0">
+        <div class="col-md-8 text-center text-md-left mb-3 mb-md-0 funded">
           <p class="mb-0 text-white">{{ site.Params.copyright | markdownify }}</p>
         </div>
-        <div class="col-md-6 text-center text-md-right">
+        <div class="col-md-4 text-center text-md-right">
           <ul class="list-inline">
             {{ range site.Menus.footer }}
             <li class="list-inline-item mx-0"><a class="d-inline-block px-3 text-white" href="{{ .URL | relLangURL }}" class="text-white">{{ .Name }}</a></li>
