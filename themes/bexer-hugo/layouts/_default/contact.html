@@ -37,18 +37,9 @@
 <section class="section">
   <div class="container">
     <div class="row">
-
-      <iframe width="455" height="500" style="border:0" loading="lazy" allowfullscreen src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJI_tOqEkvb0gRG8odD3iL9uI&key=AIzaSyBQjTCvNi9cY3bY_qh_prLRb-si6qr8mOI"></iframe>
-      
-      <!-- {{ with site.Params.gmap }} -->
-      <!-- {{ if .enable }} -->
-      <!-- <div class="col-md-5 mb-5 mb-md-0"> -->
-        <!-- <div id="map" class="gmap" data-latitude="{{.map_latitude}}" data-longitude="{{.map_longitude}}" data-marker="{{.map_marker | absURL}}" data-marker-name="{{.map_marker_name}}"></div> -->
-      <!-- </div> -->
-      <!-- {{ end }} -->
-      <!-- {{ end }} -->
-
-
+      <div class="col-md-5 mb-5 mb-md-0">
+      <iframe width="455" height="500" src="https://www.openstreetmap.org/export/embed.html?bbox=-4.639363288879395%2C52.05052765197927%2C-4.630404710769654%2C52.05344381655733&amp;layer=mapnik" style="border: 0"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=18/52.05199/-4.63488">View Larger Map</a></small>
+      </div>
       <div class="col-md-7">
         <h3 class="section-title">{{ i18n "contact_form" }}</h3>
         <form action="{{ site.Params.contact_form_action }}" method="POST" class="row">
