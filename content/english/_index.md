@@ -23,21 +23,21 @@ banner_feature:
   # Max use 4 item
   feature_item:
     # banner feature item loop
-    - name : "Community Assembly"
+    - name : "Democracy"
       icon : "fa fa-fist-raised" # font-awesome 5 : https://fontawesome.com/v5/search
-      content : "Direct democracy in local decision making"
+      content : "A Community Assembly is direct democracy in local decision making "
       link: /about
       
     # banner feature item loop
     - name : "Wildlife"
       icon : "fa fa-frog" # font-awesome 5 : https://fontawesome.com/v5/search
-      content : "Native plants for insects & habitat for everyone"
+      content : "Grow native plants where possible for insects, create habitat for everyone"
       link: /about
       
     # banner feature item loop
-    - name : "Forest garden"
+    - name : "Sustainable food"
       icon : "fab fa-pagelines" # font-awesome 5 : https://fontawesome.com/v5/search
-      content : "Fruit & nut trees, edible shrubs & perennial veg"
+      content : "A forest garden, with fruit & nut trees, edible shrubs & perennial veg"
       link: /about
 
 

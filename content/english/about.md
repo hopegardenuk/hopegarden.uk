@@ -27,7 +27,7 @@ philosophy:
         - "Structural complexity for wildlife habitat"
         
     # Philosophy item loop
-    - title : "Forest garden"
+    - title : "Resilient food"
       content : "Agriculture & gardens should be green. Shift away from commodified & energy-intensive food production to sustainable & local food systems that are future proof."
       bullet_point:
         - "Perennial vegetables"
