@@ -15,9 +15,8 @@ hero_slider:
         label : "About the project"
         link : "about/"
         animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
-        
 
-################################## banner feature ############################
+################################## Banner feature ############################
 banner_feature:
   enable : true
   # Max use 4 item
@@ -40,9 +39,7 @@ banner_feature:
       content : "A forest garden, with fruit & nut trees, edible shrubs & perennial veg"
       link: /about
 
-
-
-################################## about ####################################
+################################## About ####################################
 about:
   enable : true
   subtitle : "Enabling direct democracy & nature recovery"
@@ -79,8 +76,7 @@ funfacts :
       count : "500"
       icon : "far fa-smile" # font-awesome 5 : https://fontawesome.com/v5/search
 
-
-################################# feature ############################################
+################################# Feature ############################################
 feature:
   enable : false
   subtitle : "Why Choose Us"
@@ -148,8 +144,7 @@ testimonial:
       designation : "Designer"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit sed eiusmod tempor incididunt ut labore dolore magna aliqua.enim ad minim veniam.quis nostrud exercitation ullamco laboris nis aliquip ex ea commodo consequat. duis aute irure dolor in reprehen."
 
-
-################################# blog ################################################
+################################# CTA ################################################
 cta:
   enable : false
   title : "Bexar give the smart solution for your business"
@@ -160,7 +155,7 @@ cta:
     label : "get a quote"
     link : "contact/"
 
-################################# blog ################################################
+################################# Blog ################################################
 blog:
   enable : true
   section : "blog"
