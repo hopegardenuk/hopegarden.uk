@@ -45,7 +45,7 @@
             {{ with site.Params.subscription }}
             <div class="col-12">
               <h4 class="text-white mb-4">{{ i18n "subscribe_newsletter"}}</h4>
-              <form action="{{ site.Params.newsletter_form_action }}" method="post" target="popupwindow" onsubmit="window.open('https://buttondown.email/hopegarden', 'popupwindow')">
+              <form action="https://buttondown.email/api/emails/embed-subscribe/hopegarden" method="post" target="popupwindow" onsubmit="window.open('https://buttondown.email/hopegarden', 'popupwindow')">
                 <div class="position-relative">
                   <input type="email" class="form-control border-0 text-white newsletter-form" id="bd-email" name="email" placeholder="Enter your email">
                   <button type="submit" name="subscribe" class="btn btn-primary btn-subscribe">{{ i18n "subscribe"}}</button>
