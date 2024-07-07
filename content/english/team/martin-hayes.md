@@ -1,13 +1,12 @@
 ---
 title: "Martin Hayes"
 description: "Orchardist to the stars"
-# page title background image
 bg_image_webp: "https://res.cloudinary.com/hopegarden/image/upload/v1719952740/title-poppy.webp"
 bg_image: "https://res.cloudinary.com/hopegarden/image/upload/v1719952740/title-poppy.webp"
-# portrait
+# Portrait
 image_webp: "https://res.cloudinary.com/hopegarden/image/upload/v1719874616/martin-hayes-orchardist.webp"
 image: "https://res.cloudinary.com/hopegarden/image/upload/v1719874616/martin-hayes-orchardist.jpg"
-# designation
+# Designation
 designation: "Orchardist"
 social:
   - icon : "fa fa-globe" # font-awesome 5 : https://fontawesome.com/v5/search
@@ -15,7 +14,7 @@ social:
   - icon : "fa fa-at" # font-awesome 5 : https://fontawesome.com/v5/search
     link : "hello@theapplemancan.uk"
 
-# skill
+# Skill
 skill_title: Skills
 skill:
 - label : Tree planting

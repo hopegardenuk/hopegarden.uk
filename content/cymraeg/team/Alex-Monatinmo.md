@@ -1,15 +1,13 @@
 ---
 title: "Alex Monatinmo"
 date: 2019-02-07T10:47:55+06:00
-# meta description
 description: "this is meta description"
-# page title background image
 bg_image_webp: "images/backgrounds/page-title.webp"
 bg_image: "https://res.cloudinary.com/hopegarden/image/upload/v1719952740/title-poppy.webp"
-# portrait
+# Portrait
 image_webp: "images/team/team-2.webp"
 image: "images/team/team-2.jpg"
-# designation
+# Designation
 designation: "Designer"
 social:
   - icon : "fab fa-facebook" # font-awesome 5 : https://fontawesome.com/v5/search
@@ -24,7 +22,7 @@ social:
   - icon : "fab fa-pinterest" # font-awesome 5 : https://fontawesome.com/v5/search
     link : "#"
 
-# skill
+# Skill
 skill_title: Skills
 skill:
 - label : Co-ordination
