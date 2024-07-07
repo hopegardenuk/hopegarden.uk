@@ -86,3 +86,13 @@ footer .text-light a:hover {
   margin-top: 12px;
   width: 300px;
 }
+
+// Form stuff
+
+.newsletter-form__dark {
+  background: rgba(180,180,180,0.3);
+}
+
+.newsletter-form__dark::placeholder {
+  color: #484848;
+}
