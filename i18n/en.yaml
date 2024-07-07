@@ -22,8 +22,8 @@
 - id: partners
   translation: Partners
 
-- id: contact_info
-  translation: Contact info
+- id: contact
+  translation: Contact
 
 - id: subscribe_newsletter
   translation: Subscribe to our newsletter
