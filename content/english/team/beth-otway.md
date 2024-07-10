@@ -3,7 +3,7 @@ title: "Beth Otway"
 description: "Horticulturist and Garden Writer"
 bg_image: "https://res.cloudinary.com/hopegarden/image/upload/v1719952740/title-poppy.webp"
 image: "https://res.cloudinary.com/hopegarden/image/upload/f_auto/v1720644289/beth-otway.webp"
-designation: "Orchardist"
+designation: "Horticulturist and Garden Writer"
 social:
   - icon : "fa fa-globe" # font-awesome 5 : https://fontawesome.com/v5/search
     link : "https://www.theapplemancan.uk/"
