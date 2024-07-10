@@ -9,4 +9,4 @@ draft: false
 
 ---
 
-The Wildflower Nursery grows a variety of British native wild flower plants at their nursery in Pembrokeshire, Wales. Plants are grown from locally collected seed, or sourced responsibly within the UK.
+They grows a variety of British native wild flower plants at their nursery in Pembrokeshire, Wales. Plants are grown from locally collected seed, or sourced responsibly within the UK.
