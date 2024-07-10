@@ -3,10 +3,7 @@ title: "Jake Rayson"
 date: 2019-02-07T10:47:55+06:00
 description: "this is meta description"
 bg_image: "https://res.cloudinary.com/hopegarden/image/upload/v1719952740/title-poppy.webp"
-# Portrait
-image_webp: "https://res.cloudinary.com/hopegarden/image/upload/v1719874596/jake-askance.jpg"
-image: "https://res.cloudinary.com/hopegarden/image/upload/v1719874596/jake-askance.jpg"
-# Designation
+image: "https://res.cloudinary.com/hopegarden/image/upload/f_auto/v1719874596/jake-askance.jpg"
 designation: "Wildlife forest garden designer"
 social:
   - icon : "fab fa-mastodon" # font-awesome 5 : https://fontawesome.com/v5/search
@@ -15,18 +12,6 @@ social:
     link : "https://natureworks.org.uk"
   - icon : "fa fa-at" # font-awesome 5 : https://fontawesome.com/v5/search
     link : "hello@natureworks.org.uk"
- 
-# Skill
-skill_title: Skills
-skill:
-- label : Project management
-  percentage : 85%
-  
-- label : Website
-  percentage : 79%
-  
-- label : Garden design
-  percentage : 65%
 ---
 
 #### Work history

@@ -1,0 +1,21 @@
+---
+title: "Beth Otway"
+description: "Horticulturist and Garden Writer"
+bg_image: "https://res.cloudinary.com/hopegarden/image/upload/v1719952740/title-poppy.webp"
+image: "https://res.cloudinary.com/hopegarden/image/upload/f_auto/v1720644289/beth-otway.webp"
+designation: "Orchardist"
+social:
+  - icon : "fa fa-globe" # font-awesome 5 : https://fontawesome.com/v5/search
+    link : "https://www.theapplemancan.uk/"
+  - icon : "fa fa-at" # font-awesome 5 : https://fontawesome.com/v5/search
+    link : "hello@theapplemancan.uk"
+---
+
+#### Work history
+Beth is passionate about plant conservation and nature friendly, sustainable gardening, she has worked as a freelance Garden Writer for over 12 years. Beth does our PR, puts together our newsletters, and posts on our social media platforms. 
+
+#### Activities
+* Public Relations
+* Social Media
+* Newsletters
+* Plants for Butterflies and Moths
