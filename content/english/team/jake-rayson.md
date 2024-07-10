@@ -9,9 +9,9 @@ social:
   - icon : "fab fa-mastodon" # font-awesome 5 : https://fontawesome.com/v5/search
     link : "https://mas.to/@natureworks"
   - icon : "fa fa-globe" # font-awesome 5 : https://fontawesome.com/v5/search
-    link : "https://natureworks.org.uk"
+    link : "https://www.natureworks.org.uk"
   - icon : "fa fa-at" # font-awesome 5 : https://fontawesome.com/v5/search
-    link : "hello@natureworks.org.uk"
+    link : "mailto:hello@natureworks.org.uk"
 ---
 
 #### Work history

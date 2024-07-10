@@ -12,7 +12,7 @@ social:
   - icon : "fa fa-globe" # font-awesome 5 : https://fontawesome.com/v5/search
     link : "https://www.theapplemancan.uk/"
   - icon : "fa fa-at" # font-awesome 5 : https://fontawesome.com/v5/search
-    link : "hello@theapplemancan.uk"
+    link : "mailto:hello@theapplemancan.uk"
 ---
 
 #### Work history

@@ -1,14 +1,18 @@
 ---
 title: "Beth Otway"
-description: "Horticulturist and Garden Writer"
+description: "Horticulturist and garden writer"
 bg_image: "https://res.cloudinary.com/hopegarden/image/upload/v1719952740/title-poppy.webp"
 image: "https://res.cloudinary.com/hopegarden/image/upload/f_auto/v1720644289/beth-otway.webp"
-designation: "Horticulturist and Garden Writer"
+designation: "Horticulturist and garden writer"
 social:
   - icon : "fa fa-globe" # font-awesome 5 : https://fontawesome.com/v5/search
-    link : "https://www.theapplemancan.uk/"
-  - icon : "fa fa-at" # font-awesome 5 : https://fontawesome.com/v5/search
-    link : "hello@theapplemancan.uk"
+    link : "https://www.pumpkinbeth.com/"
+  - icon : "fab fa-facebook" # font-awesome 5 : https://fontawesome.com/v5/search
+    link : "https://facebook.com/pumpkinbeth/"
+  - icon : "fab fa-instagram" # font-awesome 5 : https://fontawesome.com/v5/search
+    link : "https://instagram.com/pumpkinbeth/"
+  - icon : "fab fa-pinterest" # font-awesome 5 : https://fontawesome.com/v5/search
+    link : "https://pinterest.com/pumpkinbeth/"
 ---
 
 #### Work history
