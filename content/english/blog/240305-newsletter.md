@@ -100,7 +100,7 @@ _Navelwort (Umbilicus rupestris) growing well in the warm wet weather. Edible su
 
 ## 4. Hope
 
-> Once they won direct control of the land, free peasants were able to maintain a more reciprocal relationship with nature: they managed pastures and commons collectively, through democratic assemblies, with careful rules that regulated tillage, grazing and forest use. <br><br>_~ Jason Hickel, pp44 Less is More_
+> Once they won direct control of the land, free peasants were able to maintain a more reciprocal relationship with nature: they managed pastures and commons collectively, through democratic assemblies, with careful rules that regulated tillage, grazing and forest use.<br><br>_~ Jason Hickel, pp44 Less is More_
 
 I’ve started reading this book, as it’s been recommended by a few friends. It is a very accessible introduction as to why our economic systems work in the ecologically ruinous way that they do. And it’s hopeful, insofar as it is calling out for engagement and change. 
 
