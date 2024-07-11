@@ -1,0 +1,27 @@
+fragment PostParts on Post {
+  __typename
+  title
+  description
+  date
+  author
+  body
+  tags
+  categories
+  images
+  captions
+  alttext
+}
+
+fragment ErthyglParts on Erthygl {
+  __typename
+  title
+  description
+  date
+  author
+  body
+  tags
+  categories
+  images
+  captions
+  alttext
+}
