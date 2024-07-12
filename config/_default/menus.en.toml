@@ -44,7 +44,7 @@ hasChildren = true
   [[main]]
   parent = "Pages"
   name = "Events"
-  url = "events/"
+  url = "admin/events/"
   weight = 5
 
   [[main]]

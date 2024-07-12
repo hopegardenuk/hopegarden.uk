@@ -10,3 +10,8 @@ imageCap:
 draft: true
 ---
 <% tp.file.rename(tp.date.now("YYMMDD")+"-newsletter")  %>
+
+
+|     | Introduction |
+| :-- | :----------- |
+|     |              |
