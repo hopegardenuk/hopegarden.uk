@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8c3a866816fce971",
+        "id": "63be844a56e4a01f",
         "type": "tabs",
         "children": [
           {
-            "id": "2424961138c56d01",
+            "id": "8cc94c9b32e12fad",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -118,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/english/blog/240712-.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -141,11 +139,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "96c2f25b205d8b95",
+  "active": "8cc94c9b32e12fad",
   "lastOpenFiles": [
-    "content/english/blog/240712-newsletter.md",
+    "content/english/admin/events.md",
+    "content/english/admin/budget.md",
+    "content/english/admin/plants.md",
+    "content/english/admin",
+    "content/english/process",
+    "content/english/plants.md",
+    "content/english/newsletter.md",
     "templates/newsletter.md",
     "content/english/blog/240712-.md",
+    "content/english/blog/240712-newsletter.md",
     "content/english/blog/240726-newsletter.md",
     "240712-.md",
     "content/english/templates",
