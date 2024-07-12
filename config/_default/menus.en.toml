@@ -49,6 +49,12 @@ hasChildren = true
 
   [[main]]
   parent = "Pages"
+  name = "Plants"
+  url = "admin/plants/"
+  weight = 6
+
+  [[main]]
+  parent = "Pages"
   name = "Contact"
   url = "contact/"
   weight = 6
