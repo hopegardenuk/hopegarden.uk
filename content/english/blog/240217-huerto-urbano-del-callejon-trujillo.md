@@ -17,7 +17,7 @@ alttext:
 draft: false
 ---
 
-I posted about the [Hope Garden newsletter](/newsletter) on my [Nature Works Mastodon account](https://mas.to/@natureworks/) and I had [a reply from Nathan](https://montevista.net/@nathan/111937391059246122) about the Huerto Urbano del Callejón Trujillo, an urban community garden in [Ponce, Puerto Rico](https://en.wikipedia.org/wiki/Ponce,_Puerto_Rico).
+I posted about the [Hope Garden newsletter](templates/newsletter.md) on my [Nature Works Mastodon account](https://mas.to/@natureworks/) and I had [a reply from Nathan](https://montevista.net/@nathan/111937391059246122) about the Huerto Urbano del Callejón Trujillo, an urban community garden in [Ponce, Puerto Rico](https://en.wikipedia.org/wiki/Ponce,_Puerto_Rico).
 
 * [Huerto Urbano del Callejón Trujillo Facebook page](https://www.facebook.com/Huertocallejontrujillo/)
 * [Boyants](https://www.boyants.com/) blog [post on Huerto Urbano del Callejón Trujilloc](https://www.boyants.com/blog_detail.php?blogview=418)

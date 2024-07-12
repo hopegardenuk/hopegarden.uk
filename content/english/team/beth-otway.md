@@ -7,6 +7,8 @@ designation: "Horticulturist and garden writer"
 social:
   - icon : "fa fa-globe" # font-awesome 5 : https://fontawesome.com/v5/search
     link : "https://www.pumpkinbeth.com/"
+  - icon : "fab fa-twitter" # font-awesome 5 : https://fontawesome.com/v5/search
+    link : "https://x.com/pumpkin_beth/"
   - icon : "fab fa-facebook" # font-awesome 5 : https://fontawesome.com/v5/search
     link : "https://facebook.com/pumpkinbeth/"
   - icon : "fab fa-instagram" # font-awesome 5 : https://fontawesome.com/v5/search
