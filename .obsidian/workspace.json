@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/newsletter.md",
+                "file": "content/english/blog/240712-newsletter.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/newsletter.md",
+                "file": "content/english/blog/240712-newsletter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/newsletter.md",
+                "file": "content/english/blog/240712-newsletter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/newsletter.md"
+                "file": "content/english/blog/240712-newsletter.md"
               }
             }
           }
@@ -149,6 +149,9 @@
   },
   "active": "8cc94c9b32e12fad",
   "lastOpenFiles": [
+    "templates/newsletter.md",
+    "content/english/blog/240712-newsletter.md",
+    "templates/newsletter.html",
     "content/english/admin/events.md",
     "content/english/admin/budget.md",
     "content/english/admin/plants.md",
@@ -156,7 +159,6 @@
     "content/english/process",
     "content/english/plants.md",
     "content/english/newsletter.md",
-    "templates/newsletter.md",
     "content/english/blog/240712-.md",
     "content/english/blog/240712-newsletter.md",
     "content/english/blog/240726-newsletter.md",

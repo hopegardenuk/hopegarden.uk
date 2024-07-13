@@ -1,5 +1,6 @@
 [
   "templater-obsidian",
   "obsidian-git",
-  "obsidian-table-generator"
+  "obsidian-table-generator",
+  "obsidian-pandoc"
 ]
