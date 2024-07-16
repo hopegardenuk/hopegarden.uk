@@ -120,10 +120,10 @@ The key challenges will be organising and co-ordinating the diverse range of wor
 
 ### Project images 
 
-![[Hope Garden application-20240608004405696.webp]]
+![Aerial photo](https://res.cloudinary.com/growdigital/image/upload/f_auto,w_700/v1709055398/hope/240224-aerial-wide.jpg)
 
-![[Hope Garden application-20240608004652638.webp]]
+![Sketch of canvas](https://res.cloudinary.com/growdigital/image/upload/f_auto,w_700/v1691869566/hope/canvas-sketch-230812.png)
 
-![[Hope Garden application-20240608004753504.webp]]
+![Photo of canvas covered area](https://res.cloudinary.com/growdigital/image/upload/f_auto,w_700/v1691869842/hope/bluegreencymru-canvas.jpg)
 
-![[Hope Garden application-20240608004815370.webp]]
+![Coloured sketch of Hope Garden](https://res.cloudinary.com/growdigital/image/upload/f_auto,w_700/v1689077853/hope/garden-sketch-230711.jpg)
