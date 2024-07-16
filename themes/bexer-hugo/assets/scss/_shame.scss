@@ -48,8 +48,6 @@ main .section:last-child {
   padding-bottom: 4rem !important;
 }
 
-
-
 // Stop images stretching out in content body
 .content img {
   max-width: 100%;
@@ -97,6 +95,7 @@ footer .text-light a:hover {
   color: #484848;
 }
 
+// Remove horrible svg list icon
 
 ul {
   list-style-type: disc !important;
