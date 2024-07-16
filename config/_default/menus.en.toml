@@ -43,21 +43,56 @@ hasChildren = true
 
   [[main]]
   parent = "Pages"
-  name = "Events"
-  url = "admin/events/"
-  weight = 5
-
-  [[main]]
-  parent = "Pages"
-  name = "Plants"
-  url = "admin/plants/"
-  weight = 6
-
-  [[main]]
-  parent = "Pages"
   name = "Contact"
   url = "contact/"
   weight = 6
+
+[[main]]
+name = "Admin"
+hasChildren = true
+weight = 5
+
+  [[main]]
+  parent = "Admin"
+  name = "Events"
+  url = "admin/events/"
+  weight = 1
+
+  [[main]]
+  parent = "Admin"
+  name = "Plants"
+  url = "admin/plants/"
+  weight = 2
+
+  [[main]]
+  parent = "Admin"
+  name = "Budget"
+  url = "admin/budget/"
+  weight = 3
+
+  [[main]]
+  parent = "Admin"
+  name = "Application"
+  url = "application/application/"
+  weight = 4
+
+  [[main]]
+  parent = "Admin"
+  name = "App maintenance"
+  url = "application/maintenance/"
+  weight = 5
+
+  [[main]]
+  parent = "Admin"
+  name = "App performance"
+  url = "application/performance/"
+  weight = 6
+
+  [[main]]
+  parent = "Admin"
+  name = "App project"
+  url = "application/project/"
+  weight = 7
 
 # footer menu
 [[footer]]
