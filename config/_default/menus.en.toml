@@ -70,29 +70,40 @@ weight = 5
   url = "admin/budget/"
   weight = 3
 
+[[main]]
+name = "Grant"
+hasChildren = true
+weight = 6
+
   [[main]]
-  parent = "Admin"
+  parent = "Grant"
   name = "Application"
   url = "application/application/"
+  weight = 1
+
+  [[main]]
+  parent = "Grant"
+  name = "Purposes"
+  url = "application/purposes/"
+  weight = 2
+
+  [[main]]
+  parent = "Grant"
+  name = "Maintenance"
+  url = "application/maintenance/"
+  weight = 3
+
+  [[main]]
+  parent = "Grant"
+  name = "Performance"
+  url = "application/performance/"
   weight = 4
 
   [[main]]
-  parent = "Admin"
-  name = "App maintenance"
-  url = "application/maintenance/"
-  weight = 5
-
-  [[main]]
-  parent = "Admin"
-  name = "App performance"
-  url = "application/performance/"
-  weight = 6
-
-  [[main]]
-  parent = "Admin"
-  name = "App project"
+  parent = "Grant"
+  name = "Project"
   url = "application/project/"
-  weight = 7
+  weight = 5
 
 # footer menu
 [[footer]]
