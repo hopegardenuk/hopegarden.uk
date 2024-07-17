@@ -77,32 +77,38 @@ weight = 6
 
   [[main]]
   parent = "Grant"
-  name = "Application"
-  url = "application/application/"
+  name = "Grant overview"
+  url = "grant/overview/"
   weight = 1
 
   [[main]]
   parent = "Grant"
-  name = "Purposes"
-  url = "application/purposes/"
+  name = "Application"
+  url = "grant/application/"
   weight = 2
 
   [[main]]
   parent = "Grant"
-  name = "Maintenance"
-  url = "application/maintenance/"
+  name = "Purposes"
+  url = "grant/purposes/"
   weight = 3
 
   [[main]]
   parent = "Grant"
-  name = "Performance"
-  url = "application/performance/"
+  name = "Maintenance"
+  url = "grant/maintenance/"
   weight = 4
 
   [[main]]
   parent = "Grant"
+  name = "Performance"
+  url = "grant/performance/"
+  weight = 5
+
+  [[main]]
+  parent = "Grant"
   name = "Project"
-  url = "application/project/"
+  url = "grant/project/"
   weight = 5
 
 # footer menu
