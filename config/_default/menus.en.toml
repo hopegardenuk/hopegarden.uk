@@ -54,21 +54,27 @@ weight = 5
 
   [[main]]
   parent = "Admin"
+  name = "Media"
+  url = "admin/media/"
+  weight = 1
+
+  [[main]]
+  parent = "Admin"
   name = "Events"
   url = "admin/events/"
-  weight = 1
+  weight = 2
 
   [[main]]
   parent = "Admin"
   name = "Plants"
   url = "admin/plants/"
-  weight = 2
+  weight = 3
 
   [[main]]
   parent = "Admin"
   name = "Budget"
   url = "admin/budget/"
-  weight = 3
+  weight = 4
 
 [[main]]
 name = "Grant"
