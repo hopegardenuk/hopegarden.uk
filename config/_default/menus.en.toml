@@ -54,25 +54,25 @@ weight = 5
 
   [[main]]
   parent = "Admin"
-  name = "Media"
+  name = "Media Pack"
   url = "admin/media/"
   weight = 1
 
   [[main]]
   parent = "Admin"
-  name = "Events"
+  name = "Events calendar"
   url = "admin/events/"
   weight = 2
 
   [[main]]
   parent = "Admin"
-  name = "Plants"
+  name = "Plants spreadsheet"
   url = "admin/plants/"
   weight = 3
 
   [[main]]
   parent = "Admin"
-  name = "Budget"
+  name = "Budget spreadsheet"
   url = "admin/budget/"
   weight = 4
 
