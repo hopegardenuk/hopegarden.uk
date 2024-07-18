@@ -8,7 +8,7 @@ draft: false
 ## 1. Summary
 - **_Name_**: Gardd Gobaith Cilgerran Hope Garden  
 - **_Byeline_**: A Community Assembly at the heart of a wildlife forest garden 💚  
-- **_Sentence_**: A welcoming community, workshop & meeting space at the heart of a wildlife forest garden, connecting local people with nature and each other 💚  
+- **_Sentence_**: A welcoming community workshop and meeting space at the heart of a wildlife forest garden that connects local people with nature and each other 💚 
 - [**_Project_ address**](https://w3w.co/present.purifier.canyons)_:_ Parc y Delyn, Cilgerran, Pembrokeshire SA43 2TH  
 - **_Website_**: [hopegarden.uk](https://hopegarden.uk/)  
 ### Short description  
