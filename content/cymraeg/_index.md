@@ -1,105 +1,60 @@
 ---
 
-########################### hero slider ############################
+########################### Hero slider ############################
 hero_slider:
   enable : true
   slider_item:
     # slider item
-    - subtitle : "We are here to"
-      title : "Planning Business"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-      bg_image_webp : "images/slider/banner-1.webp"
-      bg_image : "images/slider/banner-1.jpg"
+    - subtitle : "Something hopeful this way comes"
+      title : "Community Assembly at the heart of a wildlife forest garden"
+      content : "Providing an experimental toolkit to create a community meeting space surrounded by a thriving, productive wildlife garden. Situated in north Pembrokeshire, West Wales, UK."
+      bg_image : "https://res.cloudinary.com/hopegarden/image/upload/v1719872235/elephant-garlic-flower-169.jpg"
       animation : "fadeInUp" # animation select from : https://daneden.github.io/animate.css/
       button:
         enable : true
-        label : "more details"
-        link : "about/"
-        animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
-        
-    # slider item
-    - subtitle : "We are here to"
-      title : "Planning Business"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-      bg_image_webp : "images/slider/banner-2.webp"
-      bg_image : "images/slider/banner-2.jpg"
-      animation : "fadeInDown" # animation select from : https://daneden.github.io/animate.css/
-      button:
-        enable : true
-        label : "more details"
-        link : "about/"
-        animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
-        
-    # slider item
-    - subtitle : "We are here to"
-      title : "Planning Business"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-      bg_image_webp : "images/slider/banner-3.webp"
-      bg_image : "images/slider/banner-3.jpg"
-      animation : "fadeInLeft" # animation select from : https://daneden.github.io/animate.css/
-      button:
-        enable : true
-        label : "more details"
-        link : "about/"
-        animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
-        
-    # slider item
-    - subtitle : "We are here to"
-      title : "Planning Business"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-      bg_image_webp : "images/slider/banner-4.webp"
-      bg_image : "images/slider/banner-4.jpg"
-      animation : "fadeInRight" # animation select from : https://daneden.github.io/animate.css/
-      button:
-        enable : true
-        label : "more details"
+        label : "About the project"
         link : "about/"
         animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
 
-################################## banner feature ############################
+################################## Banner feature ############################
 banner_feature:
   enable : true
   # Max use 4 item
   feature_item:
     # banner feature item loop
-    - name : "Business Solution"
-      icon : "far fa-gem" # font-awesome 5 : https://fontawesome.com/v5/search
-      content : "Lorem ipsum dolor sit amet constur adipelit sed."
+    - name : "Democracy"
+      icon : "fa fa-fist-raised" # font-awesome 5 : https://fontawesome.com/v5/search
+      content : "A Community Assembly is direct democracy in local decision making "
+      link: /about
       
     # banner feature item loop
-    - name : "Market Research"
-      icon : "far fa-chart-bar" # font-awesome 5 : https://fontawesome.com/v5/search
-      content : "Lorem ipsum dolor sit amet constur adipelit sed."
+    - name : "Wildlife"
+      icon : "fa fa-frog" # font-awesome 5 : https://fontawesome.com/v5/search
+      content : "Grow native plants where possible for insects, create habitat for everyone"
+      link: /about
       
     # banner feature item loop
-    - name : "Business Strategy"
-      icon : "far fa-lightbulb" # font-awesome 5 : https://fontawesome.com/v5/search
-      content : "Lorem ipsum dolor sit amet constur adipelit sed."
-      
-    # banner feature item loop
-    - name : "Speed Optimization"
-      icon : "fas fa-tachometer-alt" # font-awesome 5 : https://fontawesome.com/v5/search
-      content : "Lorem ipsum dolor sit amet constur adipelit sed."
+    - name : "Sustainable food"
+      icon : "fab fa-pagelines" # font-awesome 5 : https://fontawesome.com/v5/search
+      content : "A forest garden, with fruit & nut trees, edible shrubs & perennial veg"
+      link: /about
 
-
-################################## about ####################################
+################################## About ####################################
 about:
   enable : true
-  subtitle : "About Us"
-  title : "We Are Dynamic Team and Business Agency"
-  content : "Excepteur sint occaecat cupidatat non proident sunt iculpa qui officia deserunt mollit anim est. laborum sed perspiciatis unde omnis natus error sit voluptatem accusantium."
-  bg_image : "images/backgrounds/about-us-bg.png"
-  bg_image_webp : "images/backgrounds/about-us-bg.webp"
-  image_webp : "images/about/about-us.webp"
-  image : "images/about/about-us.png"
+  subtitle : "Enabling direct democracy & nature recovery"
+  title : "Working with communities"
+  content : "Our partners are local communities and organisations, working together to build not just a community garden but also a toolkit for everyone that wants to create their own space for direct democracy and nature recovery.<br>This is a work-in-progress, sign up to our newsletter to be kept updated."
+  bg_image : ""
+  image : "https://res.cloudinary.com/hopegarden/image/upload/v1719873215/231012-red-apple.jpg"
   button:
     enable : true;
-    label : "more service"
-    link : "service/"
+    label : "Subscribe to newsletter"
+    link : "newsletter/"
 
-################################## funfacts ###############################
+################################## Fun facts ###############################
 funfacts :
-  enable : true
+  enable : false
   funfacts_item :
     # fanfacts item loop
     - name : "project done"
@@ -121,10 +76,9 @@ funfacts :
       count : "500"
       icon : "far fa-smile" # font-awesome 5 : https://fontawesome.com/v5/search
 
-
-################################# feature ############################################
+################################# Feature ############################################
 feature:
-  enable : true
+  enable : false
   subtitle : "Why Choose Us"
   title : "Why They Choose Bexar"
   image_webp : "images/feature/feature.webp"
@@ -141,23 +95,23 @@ feature:
       icon : "fas fa-code" # font-awesome 5 : https://fontawesome.com/v5/search
       content : "Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia."
 
-################################# service ############################################
+################################# Service ############################################
 service:
-  enable : true
+  enable : false
   section: "service"
   show_item : 3
   # service item comes from "content/*/service" folder
 
-################################# team ##############################################
+################################# Team ##############################################
 team:
   enable : true
   section: "team"
   show_item : 3
   # team member comes from "content/*/team" folder
 
-################################# project ############################################
+################################# Project ############################################
 project:
-  enable : true
+  enable : false
   section: "project"
   show_item : 4
   button:
@@ -166,9 +120,9 @@ project:
     link : "project/"
   # project item comes from "content/*/project" folder
 
-################################# testimonial #########################################
+################################# Testimonial #########################################
 testimonial:
-  enable : true
+  enable : false
   subtitle : "Testimonials"
   title : "What Clients Are Say?"
   testimonial_item:
@@ -190,10 +144,9 @@ testimonial:
       designation : "Designer"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit sed eiusmod tempor incididunt ut labore dolore magna aliqua.enim ad minim veniam.quis nostrud exercitation ullamco laboris nis aliquip ex ea commodo consequat. duis aute irure dolor in reprehen."
 
-
-################################# blog ################################################
+################################# CTA ################################################
 cta:
-  enable : true
+  enable : false
   title : "Bexar give the smart solution for your business"
   bg_image_webp : "images/backgrounds/cta-lg.webp"
   bg_image : "images/backgrounds/cta-lg.jpg"
@@ -202,7 +155,7 @@ cta:
     label : "get a quote"
     link : "contact/"
 
-################################# blog ################################################
+################################# Blog ################################################
 blog:
   enable : true
   section : "blog"

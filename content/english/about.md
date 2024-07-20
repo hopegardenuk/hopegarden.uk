@@ -1,7 +1,7 @@
 ---
 title: "About"
 layout: "about"
-description: "this is meta description"
+description: "About the people behind the Hope Garden project"
 bg_image_webp: "https://res.cloudinary.com/hopegarden/image/upload/v1719952740/title-poppy.webp"
 bg_image: "https://res.cloudinary.com/hopegarden/image/upload/v1719952740/title-poppy.webp"
 

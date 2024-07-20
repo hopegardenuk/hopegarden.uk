@@ -1,8 +1,8 @@
 ---
-title : "Our Team"
-subtitle : "We Are Dynamic Team"
-description: "this is meta description"
-bg_image_webp: "images/backgrounds/page-title.webp"
+title : "The team"
+subtitle : "We are all crew"
+description: "Some very lovely and talented people"
 bg_image: "https://res.cloudinary.com/hopegarden/image/upload/v1719952740/title-poppy.webp"
+type: team
 draft: false
 ---

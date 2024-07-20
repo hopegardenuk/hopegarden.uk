@@ -1,35 +1,35 @@
 ---
 title: "About"
 layout: "about"
-description: "this is meta description"
-bg_image_webp: "images/backgrounds/page-title.webp"
+description: "About the people behind the Hope Garden project"
+bg_image_webp: "https://res.cloudinary.com/hopegarden/image/upload/v1719952740/title-poppy.webp"
 bg_image: "https://res.cloudinary.com/hopegarden/image/upload/v1719952740/title-poppy.webp"
 
 
-################################### philosophy ###########################
+################################### Philosophy ###########################
 philosophy:
   enable : true
   philosophy_item:
-    # philosophy item loop
-    - title : "Our Mission"
-      content : "Lorem ipsum dolor sit amet consectetur adip isicing elit sed do eiusmod tempor incididunt ut labore."
+    # Philosophy item loop
+    - title : "Democracy"
+      content : "We need more engagement, voices heard & people working together to tackle the nature and climate emergency. We need more, direct democracy such as Community Assemblies."
       bullet_point:
-        - "Quality Services"
-        - "Clients Satisfaction"
+        - "Community Assembly"
+        - "Co-design"
         
-    # philosophy item loop
-    - title : "Our Approach"
-      content : "Lorem ipsum dolor sit amet consectetur adip isicing elit sed do eiusmod tempor incididunt ut labore."
+    # Philosophy item loop
+    - title : "Wildlife"
+      content : "Grow native plants _where possible_ because they have co-evolved with wildlife & provide food for invertebrates, the foundation of any ecosystem. Build habitat for wildlife in your infrastructure."
       bullet_point:
-        - "Quality Services"
-        - "Clients Satisfaction"
+        - "Diversity of species & niches"
+        - "Structural complexity for wildlife habitat"
         
-    # philosophy item loop
-    - title : "Our Philosophy"
-      content : "Lorem ipsum dolor sit amet consectetur adip isicing elit sed do eiusmod tempor incididunt ut labore."
+    # Philosophy item loop
+    - title : "Resilient food"
+      content : "Agriculture & gardens should be green. Shift away from commodified & energy-intensive food production to sustainable & local food systems that are future proof."
       bullet_point:
-        - "Quality Services"
-        - "Clients Satisfaction"
+        - "Perennial vegetables"
+        - "Agroforestry crops"
 
 ################################### about ###########################
 about:

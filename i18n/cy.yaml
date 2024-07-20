@@ -1,47 +1,47 @@
 - id: read_more
-  translation: Read More
+  translation: Read more
   
 - id: address
-  translation: Our Address
+  translation: Our address
 
 - id: phone
-  translation: Phone Number
+  translation: Phone number
 
 - id: email
-  translation: Message Us
+  translation: Email us
 
 - id: contact_form
-  translation: Contact Form
+  translation: Contact form
 
 - id: send
   translation: send message
 
 - id: follow
-  translation: FOLLOW US ON
+  translation: Hope is here
 
 - id: partners
   translation: Partners
 
-- id: contact_info
-  translation: Contact Info
+- id: contact
+  translation: Contact
 
 - id: subscribe_newsletter
-  translation: Subscribe Newsletter
+  translation: Subscribe to our newsletter
 
 - id: subscribe
   translation: Subscribe
 
 - id: connect_with_us
-  translation: Connect With Us
+  translation: Socials
 
 - id: call_now
-  translation: Call Now
+  translation: Call now
 
 - id: search_placeholder
-  translation: Type & Hit Enter...
+  translation: Type & press enter…
 
 - id: quick_contact
-  translation: Quick Contact
+  translation: Quick contact
 
 - id: latest_article
   translation: Latest Article
@@ -66,3 +66,7 @@
   
 - id: our_services
   translation: Our Services
+
+- id: website
+  translation: Website
+
