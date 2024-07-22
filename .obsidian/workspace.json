@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/english/blog/240712-newsletter.md",
+                "file": "templates/newsletter.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/english/blog/240712-newsletter.md",
+                "file": "templates/newsletter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/english/blog/240712-newsletter.md",
+                "file": "templates/newsletter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/english/blog/240712-newsletter.md"
+                "file": "templates/newsletter.md"
               }
             }
           }
@@ -147,7 +147,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "96c2f25b205d8b95",
+  "active": "6e01a25d671e1ce1",
   "lastOpenFiles": [
     "templates/newsletter.md",
     "content/english/blog/240712-newsletter.md",
