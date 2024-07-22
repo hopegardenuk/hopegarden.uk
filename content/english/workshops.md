@@ -6,9 +6,9 @@ draft: false
 ---
 
 ## Adult workshops
-*Time:* 10am-3pm
-*Cost:* Free
-Lunch & drinks provided 
+- *Time:* 10am-3pm
+- *Cost:* Free
+- Lunch & drinks provided 
 
 | Date          | Title                       | Venue                        | Tutor                        | Description |
 | :------------ | :-------------------------- | ---------------------------- | :--------------------------- | :---------- |
