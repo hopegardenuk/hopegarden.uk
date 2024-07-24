@@ -13,13 +13,14 @@ draft: false
 | Date          | Title                       | Venue                        | Tutor                        | Description |
 | :------------ | :-------------------------- | ---------------------------- | :--------------------------- | :---------- |
 | Sat 14 Sep    | Intro & wildlife ID         | Village Hall & Hope Garden   | Jake Rayson & Yusef Samari   |             |
-| Sat 28 Sep    | Garden design               | Village Hall                 | Jake Rayson                  |             |
+| Sun 29 Sep    | Garden design               | Village Hall                 | Jake Rayson                  |             |
 | Sat 12 Oct    | Natives & edible perennials | Village Hall                 | Jake Rayson                  |             |
 | Sat 26 Oct    | Community Assembly          | Village Hall                 | Ophelia Camp                 | 10am-1pm    |
 | Sat 11 Jan    | Fruit tree pruning          | Fruit & Nut Community Garden | Martin Hayes                 |             |
 | Sat 22 Feb    | Fruit tree planting         | Hope Garden                  | Martin Hayes                 |             |
 | Fri 11-13 Apr | Greenwood bench making      | Coppicewood College          | David Hunter & Tracey Styles |             |
 | Sat 26 Apr    | Outdoor workshops           | Hope Garden                  | Phil Blackwood               |             |
+| Sat 10 May    | Foraging                    | TBC                          | TBC                          |             |
 
 ## School workshops
 *Time:* 9.30am-11am
