@@ -15,7 +15,7 @@ social:
 ---
 
 #### Work history
-Jake has been designing forest gardens for about 10 years, as a response to the climate and nature emergency. As forest gardens are effectively edible ecosystems, his interests have expanded native plants and ecology as well as edible crops.
+Jake has been designing forest gardens for about 10 years, as a response to the climate and nature emergency. As forest gardens are effectively edible ecosystems, his interests have expanded to native plants and ecology as well as edible crops.
 
 #### Activities
 * General project management
