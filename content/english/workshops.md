@@ -14,7 +14,7 @@ draft: false
 | :------------ | :-------------------------- | ---------------------------- | :--------------------------- | :---------- |
 | Sat 14 Sep    | Intro & wildlife ID         | Village Hall & Hope Garden   | Jake Rayson & Yusef Samari   |             |
 | Sun 06 Oct    | Garden design               | Village Hall                 | Jake Rayson                  |             |
-| Sat 12 Oct    | Perennial vegetables        | Lampeter                     | Stephanie Hafferty           |             |
+| Sat 12 Oct    | Perennial vegetables        | Lampeter                     | Stephanie Hafferty           | 10am-2pm    |
 | Sat 26 Oct    | Community Assembly          | Village Hall                 | Ophelia Camp                 | 10am-1pm    |
 | Sat 11 Jan    | Fruit tree pruning          | Fruit & Nut, Wildlife Centre | Martin Hayes                 |             |
 | Sat 22 Feb    | Fruit tree planting         | Hope Garden                  | Martin Hayes                 |             |
