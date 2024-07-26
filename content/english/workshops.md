@@ -5,7 +5,7 @@ bg_image: "https://res.cloudinary.com/hopegarden/image/upload/v1719952740/title-
 draft: false
 ---
 
-## Adult workshops
+## Workshops
 - *Time:* 10am-3pm
 - *Cost:* Free
 - Lunch & drinks provided 
@@ -13,7 +13,7 @@ draft: false
 | Date          | Title                       | Venue                        | Tutor                        | Description |
 | :------------ | :-------------------------- | ---------------------------- | :--------------------------- | :---------- |
 | Sat 14 Sep    | Intro & wildlife ID         | Village Hall & Hope Garden   | Jake Rayson & Yusef Samari   |             |
-| Sun 29 Sep    | Garden design               | Village Hall                 | Jake Rayson                  |             |
+| Sun 06 Oct    | Garden design               | Village Hall                 | Jake Rayson                  |             |
 | Sat 12 Oct    | Natives & edible perennials | Village Hall                 | Jake Rayson                  |             |
 | Sat 26 Oct    | Community Assembly          | Village Hall                 | Ophelia Camp                 | 10am-1pm    |
 | Sat 11 Jan    | Fruit tree pruning          | Fruit & Nut Community Garden | Martin Hayes                 |             |
