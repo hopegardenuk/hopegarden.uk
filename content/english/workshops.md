@@ -12,7 +12,8 @@ draft: false
 
 | Date          | Title                       | Venue                        | Tutor                        | Description |
 | :------------ | :-------------------------- | ---------------------------- | :--------------------------- | :---------- |
-| Sat 14 Sep    | Intro & wildlife ID         | Village Hall & Hope Garden   | Jake Rayson & Yusef Samari   |             |
+| Sat 14 Sep    | Hope Garden intro           | Village Hall                 | Jake Rayson                  | 10am-12pm   |
+| Sat 14 Sep    | Wildlife ID                 | Hope Garden                  | Yusef Samari                 | 1pm-3pm     |
 | Sun 06 Oct    | Garden design               | Village Hall                 | Jake Rayson                  |             |
 | Sat 12 Oct    | Perennial vegetables        | Lampeter                     | Stephanie Hafferty           | 10am-2pm    |
 | Sat 26 Oct    | Community Assembly          | Village Hall                 | Ophelia Camp                 | 10am-1pm    |
