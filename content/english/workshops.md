@@ -16,11 +16,11 @@ draft: false
 | Sun 06 Oct    | Garden design               | Village Hall                 | Jake Rayson                  |             |
 | Sat 12 Oct    | Perennial vegetables        | Lampeter                     | Stephanie Hafferty           |             |
 | Sat 26 Oct    | Community Assembly          | Village Hall                 | Ophelia Camp                 | 10am-1pm    |
-| Sat 11 Jan    | Fruit tree pruning          | Fruit & Nut Community Garden | Martin Hayes                 |             |
+| Sat 11 Jan    | Fruit tree pruning          | Fruit & Nut, Wildlife Centre | Martin Hayes                 |             |
 | Sat 22 Feb    | Fruit tree planting         | Hope Garden                  | Martin Hayes                 |             |
 | Fri 11-13 Apr | Greenwood bench making      | Coppicewood College          | David Hunter & Tracey Styles |             |
 | Sat 26 Apr    | Outdoor workshops           | Hope Garden                  | Phil Blackwood               |             |
-| Sat 10 May    | Foraging                    | TBC                          | TBC                          |             |
+| Sat 10 May    | Foraging                    | Gardd Enfys                  | Salena Walker TBC            |             |
 
 ## School workshops
 *Time:* 9.30am-11am
