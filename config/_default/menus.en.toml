@@ -11,7 +11,6 @@ name = "Blog"
 url = "blog/"
 weight = 2
 
-
 [[main]]
 weight = 5
 name = "Pages"
@@ -72,15 +71,9 @@ weight = 5
 
   [[main]]
   parent = "Admin"
-  name = "Budget spreadsheet"
-  url = "budget/"
-  weight = 4
-
-  [[main]]
-  parent = "Admin"
   name = "Media Pack"
   url = "media/"
-  weight = 5
+  weight = 4
 
 [[main]]
 name = "Grant"

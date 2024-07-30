@@ -11,7 +11,6 @@ name = "Blog"
 url = "blog/"
 weight = 2
 
-
 [[main]]
 weight = 5
 name = "Pages"
@@ -54,20 +53,20 @@ weight = 5
 
   [[main]]
   parent = "Admin"
+  name = "Workshops"
+  url = "workshops/"
+  weight = 1
+
+  [[main]]
+  parent = "Admin"
   name = "Events calendar"
   url = "events/"
-  weight = 1
+  weight = 2
 
   [[main]]
   parent = "Admin"
   name = "Plants spreadsheet"
   url = "plants/"
-  weight = 2
-
-  [[main]]
-  parent = "Admin"
-  name = "Budget spreadsheet"
-  url = "budget/"
   weight = 3
 
   [[main]]
@@ -75,6 +74,47 @@ weight = 5
   name = "Media Pack"
   url = "media/"
   weight = 4
+
+[[main]]
+name = "Grant"
+hasChildren = true
+weight = 6
+
+  [[main]]
+  parent = "Grant"
+  name = "Grant overview"
+  url = "grant/overview/"
+  weight = 1
+
+  [[main]]
+  parent = "Grant"
+  name = "Application"
+  url = "grant/application/"
+  weight = 2
+
+  [[main]]
+  parent = "Grant"
+  name = "Purposes"
+  url = "grant/purposes/"
+  weight = 3
+
+  [[main]]
+  parent = "Grant"
+  name = "Maintenance"
+  url = "grant/maintenance/"
+  weight = 4
+
+  [[main]]
+  parent = "Grant"
+  name = "Performance"
+  url = "grant/performance/"
+  weight = 5
+
+  [[main]]
+  parent = "Grant"
+  name = "Project"
+  url = "grant/project/"
+  weight = 5
 
 # footer menu
 [[footer]]
