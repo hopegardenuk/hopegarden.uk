@@ -30,6 +30,6 @@ draft: false
 
 | Date       | Title              | Venue       | Tutor          | Description |
 | :--------- | :----------------- | ----------- | :------------- | :---------- |
-| Fri 13 Sep | Wildlife ID        | [Hope Garden](https://w3w.co/present.purifier.canyons) | Yusef Samari   | 10am-12pm<br>A general wildlife identification and engagement session with a highly experienced & enthusiastic ecologist |
+| Fri 13 Sep | Wildlife ID        | [Hope Garden](https://w3w.co/present.purifier.canyons) | Yusef Samari   | 10am-12pm<br>A general wildlife identification and engagement session, designed specifically for schools, with a highly experienced & enthusiastic ecologist |
 | Fri 20 Sep | Garden design      | School      | Marianne Jones & Jake Rayson | 10am-12pm<br>Using mood boards, sketches and simple models, Marianne will explore different ideas for the design of the wildlife garden, including the children in the process |
-| Fri 14 Feb | Community Assembly | School      | Ophelia Camp   | 10am-12pm<br>A workshop exploring the inclusive decision-making aspects of a Community Assembly, specially designed for children by an experienced facilitator  |
+| Fri 14 Feb | Community Assembly | School      | Ophelia Camp   | 10am-12pm<br>A workshop exploring the inclusive decision-making aspects of a Community Assembly, created with children in mind by an experienced facilitator and educator |
