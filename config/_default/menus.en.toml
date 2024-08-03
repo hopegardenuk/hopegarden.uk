@@ -71,9 +71,15 @@ weight = 5
 
   [[main]]
   parent = "Admin"
+  name = "Species spreadsheet"
+  url = "species/"
+  weight = 4
+
+  [[main]]
+  parent = "Admin"
   name = "Media Pack"
   url = "media/"
-  weight = 4
+  weight = 5
 
 [[main]]
 name = "Grant"
