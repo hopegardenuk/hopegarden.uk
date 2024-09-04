@@ -6,6 +6,10 @@ draft: false
 ---
 
 ## Workshops
+The series of Hope Garden workshops running from September 2024 to June 2025 illuminate every aspect of the garden, from the wildlife, to the edible perennials, from design to inclusive decision making. They are all run experienced tutors from a variety of backgrounds.
+
+They are free because of the funding by the [Local Places for Nature](https://www.heritagefund.org.uk/funding/local-places-nature) scheme. It is being delivered by [The National Lottery Heritage Fund](https://www.heritagefund.org.uk/) in partnership with the [Welsh Government](https://www.gov.wales/local-places-nature-programme).
+
 - *Cost:* Free
 - Refreshments provided 
 - [Eventbrite tickets](https://www.eventbrite.co.uk/o/jake-rayson-89273801603)
@@ -32,3 +36,5 @@ draft: false
 | *Fri&nbsp;13&nbsp;Sep* | 🪲 Wildlife ID              | [Hope Garden](https://w3w.co/present.purifier.canyons) | Yusef Samari                 | *10am-12pm*<br>A general wildlife identification and engagement session, designed specifically for schools, with a highly experienced & enthusiastic ecologist                   |
 | *Fri&nbsp;20&nbsp;Sep* | 🌐 Garden&nbsp;design            | School                                                 | Marianne Jones & Jake Rayson | *10am-12pm*<br>Using mood boards, sketches and simple models, Marianne will explore different ideas for the design of the wildlife garden, including the children in the process |
 | *Fri&nbsp;14&nbsp;Feb* | 🧑‍🤝‍🧑&nbsp;Community&nbsp;Assembly       | School                                                 | Ophelia Camp                 | *10am-12pm*<br>A workshop exploring the inclusive decision-making aspects of a Community Assembly, created for children by an experienced facilitator & educator                 |
+
+This project is funded by the Local Places for Nature scheme. It is being delivered by The National Lottery Heritage Fund in partnership with the Welsh Government.
