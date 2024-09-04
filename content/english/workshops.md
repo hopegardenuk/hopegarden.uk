@@ -6,7 +6,6 @@ draft: false
 ---
 
 ## Workshops
-- *Time:* 10am-3pm
 - *Cost:* Free
 - Refreshments provided 
 - [Eventbrite tickets](https://www.eventbrite.co.uk/o/jake-rayson-89273801603)
