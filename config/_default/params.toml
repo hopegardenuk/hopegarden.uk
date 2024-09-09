@@ -59,21 +59,21 @@ link = "https://climatejustice.social/@hopegarden"
 icon = "fab fa-facebook"
 link = "https://facebook.com/hopegardenuk"
 
-[[social]]
-icon = "fab fa-twitter"
-link = "https://x.com/hopegardenuk"
+# [[social]]
+# icon = "fab fa-twitter"
+# link = "https://x.com/hopegardenuk"
 
-[[social]]
-icon = "fab fa-instagram"
-link = "https://instagram.com/hopegardenfuture"
+# [[social]]
+# icon = "fab fa-instagram"
+# link = "https://instagram.com/hopegardenfuture"
 
-[[social]]
-icon = "fab fa-tiktok"
-link = "https://tiktok.com/hopegardenuk"
+# [[social]]
+# icon = "fab fa-tiktok"
+# link = "https://tiktok.com/hopegardenuk"
 
-[[social]]
-icon = "fab fa-youtube"
-link = "https://youtube.com/hopegardenuk"
+# [[social]]
+# icon = "fab fa-youtube"
+# link = "https://youtube.com/hopegardenuk"
 
 [[social]]
 icon = "fab fa-github"
