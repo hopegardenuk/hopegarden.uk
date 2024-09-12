@@ -2,7 +2,7 @@
 title: "Introducing the Hope Garden"
 date: 2024-08-15T12:00:00+00:00
 image: "https://res.cloudinary.com/naturceredigion/image/upload/w_800/v1721069713/240627-wwbic-meadow-id-llangeitho-tregaron.jpg"
-description: "Covered community space at the heart of a wildlife forest garden 💚"
+description: "Community Assembly at heart of wildlife forest garden 💚"
 draft: false
 ---
 
@@ -14,7 +14,7 @@ class: center, middle
 
 # Introducing the Hope Garden
 
-_Covered community space at the heart of a wildlife forest garden 💚_
+_Community Assembly at heart of wildlife forest garden 💚_
 
 [![Jake Rayson smiling](https://res.cloudinary.com/growdigital/image/upload/w_100,h_100,c_thumb,g_face,r_max/v1572195912/jake-askance.png)](/)
 
@@ -27,6 +27,47 @@ by Jake Rayson
 ???
 
 * This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/), embedded work may have other licenses.
+
+---
+
+class: middle
+
+# Agenda
+
+💡 Ideas  
+🌳 Forest garden  
+☕ *<small>Tea break</small>*  
+🐛 Wildlife garden  
+👫 Community Assembly  
+🥪 *<small>Free lunch</small>*
+
+---
+
+1. Who for?
+2. Who pays?
+3. Who cares?
+
+---
+
+* Tir by Carwyn Graves
+* Tending the Wild by Kat Anderson
+
+---
+
+* Legacy
+* Blueprint
+* Model
+* Future generations
+* Complexity
+* Moving parts
+
+---
+
+# Culture
+
+You Do Not Like Them. So You Say.  
+Try Them! Try Them! and You May.  
+Try Them and You May, I Say.
 
 ---
 
