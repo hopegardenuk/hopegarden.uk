@@ -201,6 +201,14 @@ Try Them and You May, I Say.
 
 class: middle, center
 
+## Direct community action garden
+
+<h6 class="breadcrumb"><u>Ideas</u> — Forest garden — Wildlife garden — Community Assembly</h6>
+
+---
+
+class: middle, center
+
 # 2. Forest garden
 
 <h6 class="breadcrumb">Ideas — <u>Forest garden</u> — Wildlife garden — Community Assembly</h6>
