@@ -110,11 +110,13 @@ a:visited {
    Utilities
    ========================================================================== */
 
-/* Text decoration underline */
+/* Text decoration underline - deprecated, use <u> tag */
 
-.u-underline {
+/* .u-underline {
   text-decoration: underline !important;
 }
+*/
+
 
 /* Invisible text */
 
