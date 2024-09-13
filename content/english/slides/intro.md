@@ -1,8 +1,8 @@
 ---
 title: "Introducing the Hope Garden"
 date: 2024-08-15T12:00:00+00:00
-image: ""
-description: "Community Assembly at heart of wildlife forest garden 💚"
+image: "https://res.cloudinary.com/hopegarden/image/upload/v1725615616/240820-marianne-sketch.jpg"
+description: "Community Assembly at the heart of wildlife forest garden 💚"
 draft: false
 ---
 
