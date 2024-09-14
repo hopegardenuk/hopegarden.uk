@@ -156,7 +156,7 @@ Try Them and You May, I Say.
 
 # Multi-threaded garden
 
-![Children in a field looking for bugs](https://res.cloudinary.com/hopegarden/image/upload/w_420v/1726232310/240913-hope-garden-school-wildlife-id.jpg)
+![Children in a field looking for bugs](https://res.cloudinary.com/hopegarden/image/upload/w_420/v1726232310/240913-hope-garden-school-wildlife-id.jpg)
 
 * *Food:* resilient crops
 * *Gardens:* resilient ecosystems
