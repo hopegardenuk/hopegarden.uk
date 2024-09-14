@@ -156,7 +156,7 @@ Try Them and You May, I Say.
 
 # Multi-threaded garden
 
-![Children in a field looking for bugs](https://res.cloudinary.com/hopegarden/image/upload/w_480/v1725827951/240711-elephant-hawk-moth-caterpillar-square-stalked-willowherb.jpg)
+![Children in a field looking for bugs](https://res.cloudinary.com/hopegarden/image/upload/w_420v/1726232310/240913-hope-garden-school-wildlife-id.jpg)
 
 * *Food:* resilient crops
 * *Gardens:* resilient ecosystems
@@ -201,7 +201,7 @@ Try Them and You May, I Say.
 
 class: middle, center
 
-## Direct community action garden
+# Direct community action<br>grassroots garden
 
 <h6 class="breadcrumb"><u>Ideas</u> — Forest garden — Wildlife garden — Community Assembly</h6>
 
