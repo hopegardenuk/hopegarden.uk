@@ -1,9 +1,9 @@
-############# English navigation ##############
+############# Welsh navigation ##############
 
 # main menu
 [[main]]
-name = "Newsletter"
-url = "newsletter/"
+name = "Cylchlythyr"
+url = "cylchlythyr/"
 weight = 1
 
 [[main]]
@@ -13,66 +13,66 @@ weight = 2
 
 [[main]]
 weight = 5
-name = "Pages"
+name = "Tudalennau"
 hasChildren = true
 
   [[main]]
-  parent = "Pages"
-  name = "Toolkit"
-  url = "toolkit/"
+  parent = "Tudalennau"
+  name = "Pecyn cymorth"
+  url = "pecyn_cymorth/"
   weight = 1
 
   [[main]]
-  parent = "Pages"
-  name = "Partners"
-  url = "partners/"
+  parent = "Tudalennau"
+  name = "Partneriaid"
+  url = "partneriaid/"
   weight = 2
 
   [[main]]
-  parent = "Pages"
-  name = "About"
-  url = "about/"
+  parent = "Tudalennau"
+  name = "Amdanom ni"
+  url = "amdanom_ni/"
   weight = 3
 
   [[main]]
-  parent = "Pages"
-  name = "Team"
-  url = "team/"
+  parent = "Tudalennau"
+  name = "Tîm"
+  url = "tîm/"
   weight = 4
 
   [[main]]
-  parent = "Pages"
-  name = "Contact"
-  url = "contact/"
+  parent = "Tudalennau"
+  name = "Cysylltu"
+  url = "cysylltu/"
   weight = 6
 
 [[main]]
-name = "Admin"
+name = "Gweinyddu"
 hasChildren = true
 weight = 5
 
   [[main]]
-  parent = "Admin"
-  name = "Workshops"
-  url = "workshops/"
+  parent = "Gweinyddu"
+  name = "Gweithdai"
+  url = "gweithdai/"
   weight = 1
 
   [[main]]
-  parent = "Admin"
-  name = "Events calendar"
-  url = "events/"
+  parent = "Gweinyddu"
+  name = "Calendr digwyddiadau"
+  url = "digwyddiadau/"
   weight = 2
 
   [[main]]
-  parent = "Admin"
-  name = "Plants spreadsheet"
-  url = "plants/"
+  parent = "Gweinyddu"
+  name = "Taenlen planhigion"
+  url = "planhigion/"
   weight = 3
 
   [[main]]
-  parent = "Admin"
-  name = "Media Pack"
-  url = "media/"
+  parent = "Gweinyddu"
+  name = "Pecyn cyfryngau"
+  url = "cyfryngau/"
   weight = 4
 
 [[main]]
@@ -82,42 +82,42 @@ weight = 6
 
   [[main]]
   parent = "Grant"
-  name = "Grant overview"
-  url = "grant/overview/"
+  name = "Trosolwg"
+  url = "grant/trosolwg/"
   weight = 1
 
   [[main]]
   parent = "Grant"
-  name = "Application"
-  url = "grant/application/"
+  name = "Cais"
+  url = "grant/cais/"
   weight = 2
 
   [[main]]
   parent = "Grant"
-  name = "Purposes"
-  url = "grant/purposes/"
+  name = "Dibenion"
+  url = "grant/dibenion/"
   weight = 3
 
   [[main]]
   parent = "Grant"
-  name = "Maintenance"
-  url = "grant/maintenance/"
+  name = "Cynnal"
+  url = "grant/cynnal/"
   weight = 4
 
   [[main]]
   parent = "Grant"
-  name = "Performance"
-  url = "grant/performance/"
+  name = "Perfformiad"
+  url = "grant/perfformiad/"
   weight = 5
 
   [[main]]
   parent = "Grant"
-  name = "Project"
-  url = "grant/project/"
+  name = "Prosiect"
+  url = "grant/prosiect/"
   weight = 5
 
 # footer menu
 [[footer]]
-name = "Licensing"
-url = "licensing/"
+name = "Trwyddedu"
+url = "trwyddedu/"
 weight = 1
