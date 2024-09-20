@@ -1,7 +1,7 @@
 ---
-title: "Search result"
+title: "Canlyniadau chwilio"
 layout: "search"
-description: "Search results for Hope Garden website"
+description: "Canlyniadau chwilio gwefan Gardd Gobaith"
 bg_image_webp: "images/backgrounds/page-title.webp"
 bg_image: "https://res.cloudinary.com/hopegarden/image/upload/v1719952740/title-poppy.webp"
 ---

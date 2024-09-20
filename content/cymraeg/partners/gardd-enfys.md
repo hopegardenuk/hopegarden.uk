@@ -1,6 +1,6 @@
 ---
 title: "Gardd Enfys"
-description: "Community Garden in South Ceredigion"
+description: "Gardd gymunedol yn ne Ceredigion"
 bg_image: "https://res.cloudinary.com/hopegarden/image/upload/v1719952740/title-poppy.webp"
 image: "https://res.cloudinary.com/hopegarden/image/upload/v1720040785/garddenfys.webp"
 icon: "fas fa-hands" # font-awesome 5 : https://fontawesome.com/v5/search
@@ -9,4 +9,4 @@ draft: false
 
 ---
 
-Sensory wildlife garden and safe place for vulnerable individuals in our community. Volunteering, community space for hire.
+Gardd bywyd gwyllt synhwyraidd a lle diogel i unigolion sy'n agored i niwed yn ein cymuned. Cyfleoedd i wirfoddoli, gofod cymunedol i'w logi.

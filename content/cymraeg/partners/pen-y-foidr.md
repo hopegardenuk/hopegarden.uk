@@ -1,6 +1,6 @@
 ---
 title: "Pen y Foidr"
-description: "Community allotments"
+description: "Rhandiroedd cymunedol"
 bg_image: "https://res.cloudinary.com/hopegarden/image/upload/v1719952740/title-poppy.webp"
 image: "https://res.cloudinary.com/hopegarden/image/upload/v1720560322/240708-penyfoidr-community-plot.webp"
 icon: "fas fa-carrot" # font-awesome 5 : https://fontawesome.com/v5/search
@@ -9,4 +9,4 @@ draft: false
 
 ---
 
-A newly founded and very active community allotment in Cilgerran, established by the non-profit Ffynnone Community Resilience
+Rhandiroedd cymunedol newydd a phrysur iawn yng Nghilgerran a sefydlwyd gan sefydliad di-elw Ffynnone Community Resilience.

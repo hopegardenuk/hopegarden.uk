@@ -1,114 +1,114 @@
 ---
-title: Hope Garden Newsletter — Tue 5th Mar 🤸🏽
-description: In this week’s newsletter, the importance of play, the joy of habitat and the ticking of the clock
+title: Cylchlythyr Gardd Gobaith — Dydd Mawrth 5 Mawrth 🤸🏽
+description: Yng nghylchlythyr yr wythnos hon, pwysigrwydd chwarae, hyfrydwch cynefinoedd, a'r cloc yn tician
 date: 2024-03-05T09:00:00+00:00
 author: Jake Rayson 
 tags: 
-  - News
-  - Newsletter
-  - Biodiversity
-  - Play
-  - Issue5
+  - Newyddion
+  - Cylchlythyr
+  - Bioamrywiaeth
+  - Chwarae
+  - Rhifyn5
 categories: 
-  - newsletter
+  - cylchlythyr
 images: 
   - https://res.cloudinary.com/growdigital/image/upload/v1709499330/240301-willow-sculpture-hare-snow.jpg
 captions: 
-  - Willow sculpture of a hare by Michelle Cain at Rhosygilwen Mansion, Pembrokeshire
+  - Ysgyfarnog a wnaed o helyg gan Michelle Cain ym Mhlas Rhosygilwen, Sir Benfro
 alttext: 
-  - Oversized willow sculpture of hare, with snow on its head
+  - Ysgyfarnog mawr a wnaed o helyg, gydag eira ar ei ben
 draft: false
 ---
 
-A Community Assembly at the heart of a wildlife forest garden 💚<br>
-_[View newsletter online](https://hopegarden.uk/blog/240227-newsletter)_
+Cynulliad cymunedol yng nghalon gardd goedwig bywyd gwyllt 💚<br>
+_[Darllenwch y cylchlythyr ar-lein](https://hopegarden.uk/blog/240227-newsletter)_
 
-[News](#1-news) • [Links](#2-links) • [Photos](#3-photos) • [Hope](#4-hope-links)
+[Newyddion](#1-news) • [Dolenni](#2-links) • [Lluniau](#3-photos) • [Gobaith](#4-hope-links)
 
-Welcome to the fifth issue of the weekly Hope Garden newsletter. I have just started a new job part-time job as a Biodiversity Assistant at Ceredigion County Council, so time is now more precious than it ever was before. I will try to keep this newsletter weekly.
+Croeso i bumed rhifyn cylchlythyr Gardd Gobaith. Rwy' newydd ddechrau gweithio mewn swydd newydd ran-amser fel Cynorthwy-ydd Bioamrywiaeth yng Nghyngor Sir Ceredigion, felly mae amser hyd yn oed yn fwy gwerthfawr nag erioed o'r blaen. Byddaf yn ceisio dal ati i gyhoeddi cylchlythyr wythnosol.
 
-Sign up for the newsletter here [hopegarden.uk/newsletter](https://hopegarden.uk/newsletter/). And if you’d like to make any contributions or suggest any content, please email me at <hello@hopegarden.uk>
+Cofrestrwch i gael y cylchlythyr yma [hopegarden.uk/newsletter](https://hopegarden.uk/newsletter/). Os hoffech chi gyfrannu ato neu awgrymu rhywbeth i'w gynnwys ynddo, anfonwch e-bost ataf yn <hello@hopegarden.uk>
 
 _Jake Rayson_
 
-## 1. News
+## 1. Newyddion
 
-### Grant application
+### Cais i gael arian grant
 
-The Local Places for Nature Capital Grant application has to be in by **next Tuesday**. The clock is ticking. This grant is for a “prototype” Hope Garden at Cilgerran in Pembrokeshire. 
+Mae'n rhaid cyflwyno'r cais i gael Grant Cyfalaf Lleoedd Lleol ar gyfer Natur erbyn **dydd Mawrth nesaf**. Mae'r cloc yn tician. Grant i greu Gardd Gobaith “prototeip” yng Nghilgerran, Sir Benfro, yw hwn. 
 
-There is so much potential with the project, I have just found out for example that a very experienced wildlife recorder would like to help out with the wildlife ID workshops, including with the local primary school. And somebody wants to grow a small willow plantation further down the field (to makes such beautiful sculptures as the one in the featured photograph).
+Mae i'r prosiect gymaint o botensial. Er enghraifft, rwy' newydd ddod i wybod am gofnodwr bywyd gwyllt profiadol iawn a fyddai'n hoffi cynorthwyo â'r gweithdai adnabod bywyd gwyllt, gan gynnwys gyda'r ysgol gynradd leol. A rhywun sydd am dyfu planhigfa helyg fach ymhellach i lawr y cae (i greu cerfluniau mor brydferth â'r un a welir yn y llun).
 
-### Play
+### Chwarae
 
-Amidst all the form-filling, the computer-tapping, the newsletter-scribbling, I think it is **really** important to remember _play_, and why we are doing this in the first place. It is to have fun, seriously. And nothing sums that up more than this lovely video of Pine Martens that I saw on the socials.
+Yng nghanol yr holl waith llenwi ffurflenni, tapio bysellfwrdd a sgriblan cylchlythyr, mae'n bwysig **iawn** cadw _chwarae_ mewn cof, yn ogystal â'r rheswm dros wneud hyn yn y lle cyntaf. O ddifrif, mae'n rhaid iddo fod yn hwyl. A does dim byd yn crisialu hyn yn well na'r fideo hyfryd hwn o feleod a welais ar y cyfryngau cymdeithasol.
 
 {{< youtube eolSc-MEUBo >}}
 
 ---
 
-I remember as a child, down at the local lake, swallows playing with a feather; dropping it from a great height, letting it fall, then swooping down and catching it just before it hit the water.
+Mae gen i gof plentyn o fod i lawr wrth y llyn lleol yn gwylio gwenoliaid yn chwarae gyda phluen; bydden nhw'n ei gollwng hi o uchder mawr, yn gadael iddi gwympo, yna'n plymio i lawr i'w dal drwch blewyn o wyneb y dŵr.
 
-Is it possible to create a wildlife playground for a whole range of different animals? [Bumblebees play football](https://www.nature.com/articles/nature.2017.21540) but what do toads play?
+Ydy hi'n bosib creu maes chwarae bywyd gwyllt ar gyfer amrywiaeth eang o wahanol anifeiliaid? [Mae cacwn yn chwarae pêl-droed](https://www.nature.com/articles/nature.2017.21540) ond beth am lyffantod?
 
-### Gabions
+### Caergewyll
 
-I’ve been working with a local primary school to create a wildlife forest garden. Part of it is using gabions as “units of wildlife habitat”, a term coined by gardener [John Little](https://www.grassroofcompany.co.uk/). I’ve taken it quite literally and have planned little spaces in the gabions with gates that open.
+Rwy'n wedi bod yn gweithio gydag ysgol gynradd leol i greu gardd goedwig bywyd gwyllt. Fel rhan o'r gwaith, ry'n ni'n defnyddio caergewyll fel "unedau cynefinoedd bywyd gwyllt", term a fathwyd gan y garddwr [John Little](https://www.grassroofcompany.co.uk/). Rwy' wedi rhoi'r term ar waith yn llythrennol drwy greu gofodau bach yn y caergewyll gyda gatiau sy'n agor.
 
-{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1709676817/primary/240305-gabion.png" alt="CAD side view of gabion mesh with gates" caption="A nice gated community of wildlife" >}}
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1709676817/primary/240305-gabion.png" alt="Golwg o'r ochr ar gaergawell rwyllog" caption="Cymuned braf i fywyd gwyllt" >}}
 
-Gabions are great, because you can incorporate them into the infrastrucure of the garden. For the Hope Garden, we are considering raised beds for accessibility and for drainage (the site is on heavy clay). And you can build raised beds out of gabions, which provides extra habitat.
+Mae caergewyll yn wych, oherwydd gallwch chi eu cynnwys nhw yn seilwaith yr ardd. O ran Gardd Gobaith, ry'n ni'n ystyried gosod gwelyau uchel am resymau hygyrchedd a draenio (mae'r safle ar glai trwm). Gallwch chi ddefnyddio caergewyll i adeiladu gwelyau uchel, ac mae hyn yn darparu cynefinoedd ychwanegol.
 
-{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1677759307/primary/gabion-round.jpg" alt="Circular gabion bed nearly completed" caption="Gabions come in all shapes and sizes and functions" >}}
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1677759307/primary/gabion-round.jpg" alt="Gwely crwn a wnaed gan ddefnyddio caergewyll ac sydd bron â'i orffen" caption="Mae caergewyll o bob mathau o feintiau a siapiau ar gael" >}}
 
-### Hoverfly Lagoon
+### Lagŵn pryfed hofran
 
-One of the habitats I am keen on creating is Hoverfly Lagoons. Some species of hoverfly lay their eggs in water filled with detritus, and the larvae that hatch look like rat tailed maggots (hence their common name, Rat Tailed Maggots). Hoverfly are probably the cutest invertebrates ever, and they are amazing pollinators too. 
+Un o'r cynefinoedd rwy'n awyddus i'w greu yw lagŵn pryfed hofran. Mae rhai rhywogaethau o bryfed hofran yn dodwy eu hwyau mewn dŵr llawn malurion, ac mae'r larfâu sy'n deor yn edrych fel cynrhon cynffon llygoden fawr. Pryfed hofran yw'r infertebratau pertaf erioed, fwy na thebyg, ac maen nhw'n beillwyr penigamp hefyd. 
 
-The good people at garden citizen science [Buzzclub](https://www.thebuzzclub.uk/) have a [Hoverfly Lagoon project](https://www.thebuzzclub.uk/hoverfly-lagoons). Normally, they're made out of old plastic milk bottles but I think we should ditch plastic where we can. 
+Mae gan ardd gwyddoniaeth dinasyddion [Buzzclub](https://www.thebuzzclub.uk/) [brosiect lagŵn pryfed hofran](https://www.thebuzzclub.uk/hoverfly-lagoons). Fel arfer, maen nhw'n cael eu creu o boteli llaeth plastig, ond rwy'n credu y dylen ni osgoi plastig lle bo modd. 
 
 {{< youtube 2Gf1-OswVio >}}
 
 ---
 
-So, I am experimenting with secondhand [beer steins](https://en.wikipedia.org/wiki/Beer_stein) topped with fine wire mesh to stop the eggs from washing away in heavy rain (although to be honest, they would be sheltered in the gabion). This is what I’ve managed so far.
+Felly, rwy'n arbrofi gyda [gwydrau cwrw](https://en.wikipedia.org/wiki/Beer_stein) ail-law, gan osod rhwyll denau drostyn nhw i atal yr wyau rhag golchi i ffwrdd mewn glaw trwm (er y bydden nhw wedi'u cysgodi yn y gaergawell beth bynnag). Dyma'r hyn rwy' wedi llwyddo i'w wneud hyd yma.
 
-### Standing Dead
+### Sefyll yn farw
 
-{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1709499331/240229-standing-dead.jpg" alt="Old tree trunk in orchard with branches cut off" caption="Standing dead. Essentially a dead tree, left standing" >}}
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1709499331/240229-standing-dead.jpg" alt="Hen foncyff coeden mewn perllan gyda'r canghennau wedi'u torri oddi arni" caption="Sefyll yn farw. Coeden farw, i bob pwrpas, yn dal i sefyll" >}}
 
-Standing dead is another de rigueur wildlife habitat. An old dead tree, still standing in the ground, which becomes home to so very many beetles, woodlice, fungi and more. There is an apocryphal fact (the best kind) that a dead tree supports more life than a living one.
+Mae coed sy'n sefyll yn farw yn gynefin bywyd gwyllt arall sy'n ffasiynol ar hyn o bryd. Hen goeden farw, yn dal i sefyll yn y tir, sy'n dod yn gartref i nifer fawr o chwilod, moch coed, ffwng a mwy. Ceir ffaith apocryffaidd (y math gorau) fod coeden farw yn cynnal mwy o fywyd na choeden fyw.
 
-## 2. Links
+## 2. Dolenni
 
-* Ecological landscaper Rebecca McMackin is one of my gardening heroes, her [monthlyish newsletter](https://www.rebeccamcmackin.com/newsletter) is very entertaining and well worth subscribing to. 
-* And here she is [in conversation with Thomas Christopher](https://www.thomaschristophergardens.com/podcasts/rebecca-mcmackin-and-the-innovative-beauty-of-the-ecological-landscape), another wildlife gardening hero.
-* The Biological Recording Company has another webinar, this time [about the Buzz Club Citizen Science project](https://www.eventbrite.co.uk/e/the-buzz-club-citizen-science-virtual-symposium-tickets-773643988997)! Thursday 16th May. 
+* Y tirweddwr ecolegol, Rebecca McMackin, yw un o'm harwyr ym maes garddio, ac mae ei [chylchlythyr lled-fisol](https://www.rebeccamcmackin.com/newsletter) yn ddifyr iawn ac yn werth tanysgrifio iddo. 
+* Dyma hi [yn sgwrsio â Thomas Christopher](https://www.thomaschristophergardens.com/podcasts/rebecca-mcmackin-and-the-innovative-beauty-of-the-ecological-landscape), arwr arall ym maes garddio bywyd gwyllt.
+* Mae gan The Biological Recording Company weminar arall, a'r tro hwn mae'n trafod [prosiect Gwyddoniaeth Dinasyddion Buzz Club](https://www.eventbrite.co.uk/e/the-buzz-club-citizen-science-virtual-symposium-tickets-773643988997)! Dydd Iau 16 Mai. 
 
-Bonus Rebecca McMackin quote, which I think is particularly relevant to the Community Assembly and co-designed nature of the Hope Garden:
+Dyfyniad gan Rebecca McMackin sy'n arbennig o berthnasol i'r Cynulliad Cymunedol a'r bwriad o gyd-lunio Gardd Gobaith:
 
-> making gardens that are actually part of people’s lived lives... the best way to do that is work _with_ communities so that those gardens can be part of the environment
+> mae creu gerddi yn rhan o brofiad bywyd... y ffordd orau o wneud hyn yw drwy weithio _gyda_ chymunedau er mwyn i'r gerddi hynny allu bod yn rhan o'r amgylchedd
 
-## 3. Photos
+## 3. Lluniau
 
-{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1709499330/240229-standing-dead-holes.jpg" alt="Dead tree trunk with beetle holes" caption="A close-up of standing dead. Look at that life." >}}
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1709499330/240229-standing-dead-holes.jpg" alt="Boncyff marw gyda thyllau chwilod" caption="Cipolwg agos ar goeden llawn bywyd sy'n sefyll yn farw." >}}
 
-{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1709499330/240303-elf-cup.jpg" alt="Brilliant red fungi on a mossy log" caption="Scarlet Elf Cup (Sarcoscypha coccinea) on a local log." >}}
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1709499330/240303-elf-cup.jpg" alt="Ffwng coch llachar ar foncyff mwsoglyd" caption="Coron borffor (Sarcoscypha coccinea) ar foncyff lleol." >}}
 
-{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1709499330/240303-pennywort.jpg" alt="Round fleshy leaves of plant growing out of slate crevice" caption="Navelwort (Umbilicus rupestris) growing well in the warm wet weather. Edible succulent leaves, glorious creamy flower spikes later in the year. Often found in local slate walls in a shadier spot." >}}
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1709499330/240303-pennywort.jpg" alt="Dail crynion trwchus planhigyn sy'n tyfu o agen llechen" caption="Dail crynion (Umbilicus rupestris) yn tyfu'n dda mewn tywydd gwlyb cynnes. Dail suddlon bwytadwy, sbigynnau blodau hufennog yn ddiweddarach yn y flwyddyn. Yn aml i'w gweld mewn waliau llechi lleol dan gysgod." >}}
 
-## 4. Hope
+## 4. Gobaith
 
-> Once they won direct control of the land, free peasants were able to maintain a more reciprocal relationship with nature: they managed pastures and commons collectively, through democratic assemblies, with careful rules that regulated tillage, grazing and forest use. <br><br>_~ Jason Hickel, pp44 Less is More_
+> Ar ôl ennill rheolaeth uniongyrchol dros y tir, roedd modd i'r werin gynnal perthynas â byd natur lle roedd y naill yn gofalu am y llall: roedden nhw'n rheoli tir pori a thir comin ar y cyd, drwy gynulliadau democrataidd, gan ddilyn rheolau gofalus o ran trin y tir, pori'r tir a defnyddio'r goedwig. <br><br>_~ Jason Hickel, tud. 44 Less is More_
 
-I’ve started reading this book, as it’s been recommended by a few friends. It is a very accessible introduction as to why our economic systems work in the ecologically ruinous way that they do. And it’s hopeful, insofar as it is calling out for engagement and change. 
+Rwy' newydd ddechrau darllen y llyfr hwn, gan fod sawl ffrind wedi ei argymell. Mae'n gyflwyniad hawdd iawn ei ddeall sy'n egluro pam fod ein systemau economaidd yn gweithredu mewn ffordd sy'n dinistrio ecoleg. Mae hefyd yn llawn gobaith, i'r graddau ei fod yn galw am ymgysylltu a newid. 
 
-### Hope links
+### Dolenni Gobaith
 
-* The Hope Garden website [hopegarden.uk](https://hopegarden.uk/)
-* [Open Source](https://en.wikipedia.org/wiki/Open_source) plans on the Hope Garden website [hopegarden.uk/plans](https://hopegarden.uk/plans)
-* Newsletter archives here [buttondown.email/hopegarden](https://buttondown.email/hopegarden) and here [hopegarden.uk/categories/newsletter/](https://hopegarden.uk/categories/newsletter/)
-* Social media. Not yet flowing, follow us, we will be there!
+* Gwefan Gardd Gobaith [hopegarden.uk](https://hopegarden.uk/)
+* Cynlluniau [ffynhonnell agored](https://en.wikipedia.org/wiki/Open_source) ar wefan Gardd Gobaith [hopegarden.uk/plans](https://hopegarden.uk/plans)
+* Archifau cylchlythyron yma [buttondown.email/hopegarden](https://buttondown.email/hopegarden) ac yma [hopegarden.uk/categories/newsletter/](https://hopegarden.uk/categories/newsletter/)
+* Cyfryngau cymdeithasol. Dilynwch ni!
   * Mastodon [climatejustice.social/@hopegarden](https://climatejustice.social/@hopegarden)
   * Facebook [facebook.com/hopegardenuk](https://facebook.com/hopegardenuk)
   * TikTok [tiktok.com/@hopegardenuk](https://www.tiktok.com/@hopegardenuk)

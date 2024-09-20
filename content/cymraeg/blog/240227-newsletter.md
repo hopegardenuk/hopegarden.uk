@@ -1,91 +1,91 @@
 ---
-title: Hope Garden Newsletter — Tue 27th Feb 🌸
-description: In this week’s newsletter, deadline looming for grant application, wildlife features, WoodlandsTV and wild flowers in vogue
+title: Cylchlythyr Gardd Gobaith — Dydd Mawrth 27 Chwefror 🌸
+description: Yng nghylchlythyr yr wythnos hon, mae dyddiad cau'r cais i gael arian grant ar y gorwel, nodweddion bywyd gwyllt, WoodlandsTV, a blodau gwyllt mewn ffasiwn
 date: 2024-02-27T16:34:05+00:00
 author: Jake Rayson 
 tags: 
-  - News
-  - Newsletter
-  - Biodiversity
-  - Issue4
+  - Newyddion
+  - Cylchlythyr
+  - Bioamrywiaeth
+  - Rhifyn4
 categories: 
-  - newsletter
+  - cylchlythyr
 images: 
   - https://res.cloudinary.com/growdigital/image/upload/v1709055398/240227-saxifrage.jpg
 captions: 
-  - Opposite-leaved Golden Saxifrage, a UK native wild flower and forest garden plant
+  - Eglyn cyferbynddail, blodyn gwyllt cynhenid a phlanhigyn gardd goedwig
 alttext: 
-  - Rounded yellow hued green leaves with small yellow flowers
+  - Dail gwyrdd-felyn crwn â blodau bach melyn
 draft: false
 ---
 
-A Community Assembly at the heart of a wildlife forest garden 💚<br>
-_[View newsletter online](https://hopegarden.uk/blog/240227-newsletter)_
+Cynulliad cymunedol yng nghalon gardd goedwig bywyd gwyllt 💚<br>
+_[Darllenwch y cylchlythyr ar-lein](https://hopegarden.uk/blog/240227-newsletter)_
 
-[News](#1-news) • [Links](#2-links) • [Photos](#3-photos) • [Hope](#4-hope-links)
+[Newyddion](#1-news) • [Dolenni](#2-links) • [Lluniau](#3-photos) • [Gobaith](#4-hope-links)
 
-Welcome to the fourth issue of the weekly Hope Garden newsletter. The deadline for the grant application is in two weeks, contacts are being made across a diverse range of gardening and community practitioners, and the outline for the proposed workshops are starting to take shape.
+Croeso i bedwerydd rhifyn cylchlythyr wythnosol Gardd Gobaith. Pythefnos sydd i fynd tan ddyddiad cau'r cais i gael arian grant. Ry'n ni'n creu cysylltiadau ag ymarferwyr garddio a chymunedol amrywiol, ac mae braslun o'r gweithdai ry'n ni'n bwriadu eu cynnal yn dechrau siapio.
 
-If you have any questions you’d like answered about Community Assemblies, forest gardens or wildlife gardening, just let me know via email <hello@hopegarden.uk>
+Os oes gennych chi gwestiynau am Gynulliadau Cymunedol, gerddi coedwig neu arddio bywyd gwyllt, anfonwch e-bost ataf yn <hello@hopegarden.uk>
 
 _Jake Rayson_
 
-## 1. News
+## 1. Newyddion
 
-### Grant application
+### Cais i gael arian grant
 
-The final two weeks before the grant application has to be submitted. There are lots of revisions and rewriting and revisiting ideas, which takes up a lot of time.
+Pythefnos sydd i fynd tan y dyddiad cau i gyflwyno ein cais i gael arian grant. Mae llawer o waith adolygu, ailysgrifennu ac ailystyried i'w wneud, ac mae'r cyfan yn cymryd cryn amser.
 
-The core idea of the Hope Garden is simple: provide an inspirational meeting place for local democracy in a wildlife and perennial edible garden, a place where positive action can be experienced and discussed, and repeated across the land.
+Mae'r syniad sydd wrth wraidd Gardd Gobaith yn un syml: darparu man cyfarfod sy'n ysbrydoli ar gyfer democratiaeth leol mewn gardd â phlanhigion bwytadwy lluosflwydd sy'n gyfeillgar i fywyd gwyllt, man lle gall gweithredu cadarnhaol ddigwydd a chael ei drafod, a syniad y gellir ei ailadrodd ledled y wlad.
 
-But it’s a lot of words, a lot of budgeting, estimates, considerations. By next week’s newsletter, the budgets will be done, and the final draft will be ready for picking over one last time!
+Ond mae'n galw am lawer o eiriau, llawer o gyllidebau, amcanestyniadau, ystyriaethau. Erbyn cylchlythyr yr wythnos nesaf, bydd y cyllidebau wedi'u cwblhau, a bydd y drafft terfynol yn barod i'w chwynnu am y tro olaf!
 
-### Wildlife features
+### Nodweddion bywyd gwyllt
 
-I had a lovely meeting with Marianne Jones, who is the conservationist and landscape designer onboard with the Hope Garden. We discussed a whole range of topics, centred around the idea of the Hope Garden.
+Fe gefais gyfarfod hyfryd gyda Marianne Jones, cadwraethwr a dylunydd tirweddau sy'n cefnogi Gardd Gobaith. Buon ni'n trafod amrywiaeth eang o bynciau sy'n gysylltiedig â chysyniad Gardd Gobaith.
 
-I don’t have any formal ecological training, so Marianne will be providing much-needed experience and expertise for the ecological aspects of the Hope Garden. I asked the hypothetical question “How much wildlife diversity can you fit into one small garden?” and I’ve drawn up a list of [potential wildlife features](https://natureworks.org.uk/wildlife-features) on my own website.
+Dydw i ddim wedi cael unrhyw hyfforddiant ecolegol ffurfiol, felly bydd Marianne yn cyfrannu profiad ac arbenigedd y mae mawr eu hangen o ran agweddau ecolegol Gardd Gobaith. Fe ofynnais i'r cwestiwn damcaniaethol “Faint o fywyd gwyllt amrywiol allwch chi ei gael mewn gardd fach?” ac rwy' wedi llunio rhestr o'r [nodweddion bywyd gwyllt](https://natureworks.org.uk/wildlife-features) posib ar fy ngwefan.
 
-### Wild flowers in vogue
+### Mae blodau gwyllt yn ffasiynol
 
-{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1709068293/240227-hayloft-wild-flowers.jpg" alt="Screenshot of wild flower newsletter shop page" caption="Hayloft says wild flowers are in vogue, so it must be true" >}}
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1709068293/240227-hayloft-wild-flowers.jpg" alt="Ciplun o dudalen siop cylchlythyr blodau gwyllt" caption="Mae blodau gwyllt yn ffasiynol yn ôl Hayloft, felly mae'n rhaid ei fod yn wir" >}}
 
-I’ve signed up for quite a few gardening mailing lists, and this one from [Hayloft](https://hayloft.co.uk/) nursery caught my eye. “🌸&nbsp;Join The Wildflower Revolution!&nbsp;🌸” it declaims in the email header! Yes, wild flowers **are in fashion**. Now, this is a good thing. But, buy from your local wild flower nursery if you can. For example, in West Wales we have [The Wildflower Nursery](https://www.thewildflowernursery.co.uk/) in Haverfordwest and [Celtic Wild Flowers](https://celticwildflowers.co.uk/) just outside Swansea. I like Hayloft too but I am also keen to support local businesses. Before the Big Companies muscle in with their peat-enriched, genetically-modified, climate-controlled, pesticide-drenched wild flower wannabes.
+Rwy' wedi ymuno â nifer o restrau e-bost ym maes garddio, ac fe ddaliodd yr un hwn gan meithrinfa [Hayloft](https://hayloft.co.uk/) fy sylw. “🌸&nbsp;Ymunwch â'r Chwyldro Blodau Gwyllt!&nbsp;🌸” medd pennawd yr e-bost! Ydyn, mae blodau gwyllt **yn ffasiynol**. Nawr, mae hyn yn beth da. Ond, cofiwch brynu eich blodau gwyllt o'ch meithrinfa blodau gwyllt leol os gallwch chi. Er enghraifft, yma yn y Gorllewin, gallwch chi fynd i [The Wildflower Nursery](https://www.thewildflowernursery.co.uk/) yn Hwlffordd a [Celtic Wild Flowers](https://celticwildflowers.co.uk/) ar gyrion Abertawe. Rwy'n hoff o Hayloft hefyd, ond rwy'n awyddus i gefnogi busnesau lleol, a hynny cyn i'r cwmnïau mawr ddechrau gwerthu eu blodau gwyllt ffug eu hunain a fydd wedi'u tyfu mewn mawn a hinsawdd artiffisial, eu haddasu'n enetig a'u boddi â gwrtaith. 
 
-### We’re on TV!
+### Ry'n ni ar y teledu!
 
-I‘ve always wanted to say that. It’s not exactly true though. What’s happened is that Vicky from [WoodlandsTV](https://www.woodlands.co.uk/tv/) has asked if we would like a film promoting the Hope Garden and its values, with a ‘before’ film outlining the aims and definitions of what we’re trying to achieve, and an ’after’ film, once everything is blossoming. 
+Rwy' wastad wedi bod eisiau dweud hynny. Ond dyw e ddim yn hollol wir. Yr hyn sydd wedi digwydd yw bod Vicky o [WoodlandsTV](https://www.woodlands.co.uk/tv/) wedi gofyn a fydden ni'n hoffi cael ffilm sy'n hyrwyddo Gardd Gobaith a'i gwerthoedd, gan greu ffilm 'cyn' dechrau ar y gwaith i amlinellu ein nodau a'n diffiniadau, a ffilm 'ar ôl' creu'r ardd pan fydd popeth yn blodeuo. 
 
-I said yes.
+Fe gytunais i.
 
-It will be magnificent 💚
+Bydd e'n wych 💚
 
-## 2. Links
+## 2. Dolenni
 
-* [The public is ready for citizens' assemblies – civil servants should embrace this](https://www.civilserviceworld.com/news/article/citizens-assemblies-are-long-overdue-and-a-chance-to-change-the-way-government-works-for-the-better-28793) — wow, the Civil Service is saying this “Deliberative democracy will allow us to harness the collective intelligence of millions of citizens, not just depend on a handful of politicians and civil servants” about [Citizens Assemblies](https://extinctionrebellion.uk/decide-together/citizens-assembly/). Community Assemblies are a similar process, on a much smaller scale on a local level. See our [definitions page](/definitions/)
-* [Six Inches of Soil](https://www.sixinchesofsoil.org/) — film about a very thin and important layer on a very big planet. Ask your local cinema if they will screen it.
-* [How to transform school meals? Beans is how!](https://hodmedods.co.uk/blogs/news/how-to-transform-school-meals-beans-is-how) — education is so important on so many levels. Chef James Taylor is on a mission to improve the diet of primary schoolchildren, with a project at two schools in London. It’s long, hard and essential work. 
+* [The public are ready for citizens assemblies – civil servants should embrace this](https://www.civilserviceworld.com/news/article/citizens-assemblies-are-long-overdue-and-a-chance-to-change-the-way-government-works-for-the-better-28793) — waw, mae'r Gwasanaeth Sifil yn dweud hyn "Bydd democratiaeth gydgynghorol yn caniatáu i ni ddefnyddio cyd-ddeallusrwydd miliynau o ddinasyddion, nid dim ond dibynnu ar lond dwrn o wleidyddion a gweision sifil" am [Gynulliadau Dinasyddion](https://extinctionrebellion.uk/decide-together/citizens-assembly/). Mae Cynulliadau Cymunedol yn broses debyg, ar raddfa leol lawer llai. Ewch i'n [tudalen diffiniadau](/definitions/)
+* [Six Inches of Soil](https://www.sixinchesofsoil.org/) — ffilm am haen denau iawn a phwysig ar blaned fawr iawn. Gofynnwch i'ch sinema leol ei dangos.
+* [How to transform school meals? Beans is how!](https://hodmedods.co.uk/blogs/news/how-to-transform-school-meals-beans-is-how) — mae addysg mor bwysig mewn pob math o ffyrdd. Mae'r cogydd James Taylor yn mynd ati i wella deiet plant cynradd drwy brosiect sydd ar waith mewn dwy ysgol yn Llundain. Mae hon yn dasg hir, anodd a hanfodol.
 
-## 3. Photos
+## 3. Lluniau
 
-{{< figure src="https://res.cloudinary.com/growdigital/image/upload/w_1280/v1709055398/hope/240224-aerial-wide.jpg" alt="Aerial photo of edge of allotment" caption="The proposed site for the Hope Garden at Pen Y Foidr allotments" >}}
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/w_1280/v1709055398/hope/240224-aerial-wide.jpg" alt="Llun ymyl rhandir o'r awyr" caption="Safle arfaethedig Gardd Gobaith yn rhandiroedd Pen y Foidr" >}}
 
-{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1709055398/240227-ramsons-allium-ursinum.jpg" alt="Alliums coming up by the river" caption="Wild Garlic (Allium ursinum) coming up down by the river, in an area that floods regularly" >}}
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1709055398/240227-ramsons-allium-ursinum.jpg" alt="Craf y geifr yn tyfu ger yr afon" caption="Craf y geifr (Allium ursinum) yn tyfu ger yr afon, mewn ardal sy'n gorlifo'n rheolaidd" >}}
 
-{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1709055397/240227-gorse.jpg" alt="Bright yellow pea-like flowers, Silver Birch in the background" caption="As the saying goes, “When gorse is in bloom, kissing’s in fashion”" >}}
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1709055397/240227-gorse.jpg" alt="Blodau melyn llachar tebyg i bys, bedwen arian yn y cefndir" caption="Llun sy'n ein hatgoffa o eiriau'r hen rigwm “Aur o dan yr eithin”" >}}
 
-## 4. Hope
+## 4. Gobaith
 
->  Our project organisers  believe that heritage is intangible too. Hence, we aim to build stronger decision making skills in our community, by introducing the concepts and practices of deliberative democracy, as seen in community assemblies happening all around the UK right now. Citizenship supports resilience of natural, built and community heritage. Without those inclusive deliberation skills, the tangible outcomes are unsustainable.<br><br>_~ Denise, writing in our grant application_
+>  Mae trefnwyr ein prosiect yn credu bod treftadaeth yn anniriaethol hefyd. Felly, ry'n ni'n bwriadu meithrin sgiliau penderfynu cryfach yn ein cymuned drwy gyflwyno cysyniadau ac arferion democratiaeth gydgynghorol, fel sy'n digwydd gyda'r cynulliadau cymunedol sy'n cael eu cynnal ledled y Deyrnas Unedig ar hyn o bryd. Mae dinasyddiaeth yn cefnogi cydnerthedd treftadaeth naturiol, adeiledig a chymunedol. Heb y sgiliau cydgynghorol cynhwysol hynny, nid yw canlyniadau diriaethol yn gynaliadwy.<br><br>_~ Denise, rhan o'n cais i gael arian grant_
 
-I love what Denise has written here, the importance of citizenship in protecting our heritage.
+Rwy' wrth fy modd â'r hyn mae Denise wedi'i ysgrifennu fan hyn am bwysigrwydd dinasyddiaeth o ran diogelu ein treftadaeth.
 
-### Hope links
+### Dolenni Gobaith
 
-* The Hope Garden website [hopegarden.uk](https://hopegarden.uk/)
-* [Open Source](https://en.wikipedia.org/wiki/Open_source) plans on the Hope Garden website [hopegarden.uk/plans](https://hopegarden.uk/plans)
-* Newsletter archives here [buttondown.email/hopegarden](https://buttondown.email/hopegarden) and here [hopegarden.uk/categories/newsletter/](https://hopegarden.uk/categories/newsletter/)
-* Social media. Not yet flowing, follow us, we will be there!
+* Gwefan Gardd Gobaith [hopegarden.uk](https://hopegarden.uk/)
+* Cynlluniau [ffynhonnell agored](https://en.wikipedia.org/wiki/Open_source) ar wefan Gardd Gobaith [hopegarden.uk/plans](https://hopegarden.uk/plans)
+* Archifau cylchlythyron yma [buttondown.email/hopegarden](https://buttondown.email/hopegarden) ac yma [hopegarden.uk/categories/newsletter/](https://hopegarden.uk/categories/newsletter/)
+* Cyfryngau cymdeithasol. Dilynwch ni!
   * Mastodon [climatejustice.social/@hopegarden](https://climatejustice.social/@hopegarden)
   * Facebook [facebook.com/hopegardenuk](https://facebook.com/hopegardenuk)
   * TikTok [tiktok.com/@hopegardenuk](https://www.tiktok.com/@hopegardenuk)

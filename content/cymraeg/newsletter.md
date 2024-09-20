@@ -1,12 +1,12 @@
 ---
-title: "Newsletter"
+title: "Cylchlythyr"
 layout: "newsletter"
-description: "Sign up for our monthly newsletter here"
+description: "Cofrestrwch i gael ein cylchlythyr misol yma"
 bg_image: "https://res.cloudinary.com/hopegarden/image/upload/v1719952740/title-poppy.webp"
 draft: false
 ---
 
-### Archives
+### Archifau
 
-* Website: [hopegarden.uk/categories/newsletter](/categories/newsletter) 
-* Newsletter provider [buttondown.email/hopegarden](https://buttondown.email/hopegarden)
+* Gwefan: [hopegarden.uk/categories/newsletter](/categories/newsletter) 
+* Darparwr cylchlythyr [buttondown.email/hopegarden](https://buttondown.email/hopegarden)

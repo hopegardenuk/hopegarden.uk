@@ -1,7 +1,7 @@
 ---
-title: "About"
+title: "Amdanom ni"
 layout: "about"
-description: "About the people behind the Hope Garden project"
+description: "Ynglŷn â'r bobl sydd wrth wraidd prosiect Gardd Gobaith"
 bg_image_webp: "https://res.cloudinary.com/hopegarden/image/upload/v1719952740/title-poppy.webp"
 bg_image: "https://res.cloudinary.com/hopegarden/image/upload/v1719952740/title-poppy.webp"
 
@@ -11,25 +11,25 @@ philosophy:
   enable : true
   philosophy_item:
     # Philosophy item loop
-    - title : "Democracy"
-      content : "We need more engagement, voices heard & people working together to tackle the nature and climate emergency. We need more, direct democracy such as Community Assemblies."
+    - title : "Democratiaeth"
+      content : "I fynd i'r afael â'r argyfwng natur a hinsawdd, mae angen mwy o ymgysylltu, mwy o wrando, a mwy o gydweithio. Mae angen mwy o ddemocratiaeth uniongyrchol, fel Cynulliadau Cymunedol."
       bullet_point:
-        - "Community Assembly"
-        - "Co-design"
+        - "Cynulliad Cymunedol"
+        - "Cyd-lunio"
         
     # Philosophy item loop
-    - title : "Wildlife"
-      content : "Grow native plants _where possible_ because they have co-evolved with wildlife & provide food for invertebrates, the foundation of any ecosystem. Build habitat for wildlife in your infrastructure."
+    - title : "Bywyd gwyllt"
+      content : "Tyfwch blanhigion cynhenid _lle bo modd_ oherwydd maen nhw wedi esblygu ochr yn ochr â bywyd gwyllt ac maen nhw'n darparu bwyd i infertebratau, sef sylfaen unrhyw ecosystem. Adeiladwch gynefin i fywyd gwyllt yn eich seilwaith chi."
       bullet_point:
-        - "Diversity of species & niches"
-        - "Structural complexity for wildlife habitat"
+        - "Rhywogaethau a chilfachau amrywiol"
+        - "Adeiladwaith cymhleth ar gyfer cynefin bywyd gwyllt"
         
     # Philosophy item loop
-    - title : "Resilient food"
-      content : "Agriculture & gardens should be green. Shift away from commodified & energy-intensive food production to sustainable & local food systems that are future proof."
+    - title : "Bwyd cydnerth"
+      content : "Dylai amaethyddiaeth a gerddi fod yn wyrdd. Dylen ni gefnu ar brosesau cynhyrchu bwyd sy'n defnyddio llawer o ynni ac yn cael eu gyrru gan arian ac, yn hytrach, dylen ni droi at systemau bwyd lleol a chynaliadwy sy'n barod at y dyfodol."
       bullet_point:
-        - "Perennial vegetables"
-        - "Agroforestry crops"
+        - "Llysiau lluosflwydd"
+        - "Cnydau amaeth-goedwigaeth"
 
 ################################### about ###########################
 about:
@@ -39,14 +39,14 @@ about:
 ################################### service ###########################
 service:
   enable : true
-  section: "service"
+  section: "gwasanaeth"
   show_item: 3
   # service item comes from `content/*/service` folder
 
 ################################### team ###########################
 team: 
   enable : true
-  section: "team"
+  section: "tîm"
   show_item: 3
   # team member comes from `content/*/team` folder
 ---

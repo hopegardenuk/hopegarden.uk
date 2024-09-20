@@ -1,6 +1,6 @@
 ---
-title: "The Rampin"
-description: "Small original pub, also known as The Masons Arms"
+title: "Y Rampin"
+description: "Tafarn fach wreiddiol sydd hefyd yn cael ei hadnabod fel y Masons Arms"
 bg_image: "https://res.cloudinary.com/hopegarden/image/upload/v1719952740/title-poppy.webp"
 image: "https://res.cloudinary.com/hopegarden/image/upload/v1721246168/the-rampin.jpg"
 icon: "fas fa-beer" # font-awesome 5 : https://fontawesome.com/v5/search
@@ -9,4 +9,4 @@ draft: false
 
 ---
 
-The Rampin (also known as The Masons Arms) is a small original pub. With a lovely open fire and the finest beer in the village.
+Mae'r Rampin (a elwir yn Masons Arms hefyd) yn dafarn fach wreiddiol, gyda thân agored hyfryd a chwrw gorau'r pentref.

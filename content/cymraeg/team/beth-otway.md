@@ -1,9 +1,9 @@
 ---
 title: "Beth Otway"
-description: "Horticulturist and garden writer"
+description: "Garddwriaethydd ac awdur garddio"
 bg_image: "https://res.cloudinary.com/hopegarden/image/upload/v1719952740/title-poppy.webp"
 image: "https://res.cloudinary.com/hopegarden/image/upload/f_auto/v1720644289/beth-otway.webp"
-designation: "Horticulturist and garden writer"
+designation: "Garddwriaethydd ac awdur garddio"
 social:
   - icon : "fa fa-globe" # font-awesome 5 : https://fontawesome.com/v5/search
     link : "https://www.pumpkinbeth.com/"
@@ -17,11 +17,11 @@ social:
     link : "https://pinterest.com/pumpkinbeth/"
 ---
 
-#### Work history
-Beth is passionate about plant conservation and nature friendly, sustainable gardening, she has worked as a freelance Garden Writer for over 12 years. Beth does our PR, puts together our newsletters, and posts on our social media platforms. 
+#### Hanes gyrfa
+Mae Beth yn frwd dros warchod planhigion a thros arddio mewn ffordd gynaliadwy sy'n gyfeillgar i natur. Bu'n gweithio fel awdur garddio ers 12 mlynedd a mwy. Beth sy'n gyfrifol am ein cysylltiadau cyhoeddus, am lunio ein cylchlythyron, ac am bostiadau ar ein llwyfannau cyfryngau cymdeithasol. 
 
-#### Activities
-* Public Relations
-* Social Media
-* Newsletters
-* Plants for Butterflies and Moths
+#### Gweithgareddau
+* Cysylltiadau cyhoeddus
+* Cyfryngau cymdeithasol
+* Cylchlythyron
+* Planhigion ar gyfer glöynnod byw a gwyfynod

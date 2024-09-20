@@ -1,98 +1,98 @@
 ---
-title: Hope Garden Newsletter — Tue 20th Feb 🌧️
-description: In this week’s newsletter, grant application update, yet more workshops and definitions
+title: Cylchlythyr Gardd Gobaith — Dydd Mawrth 20 Chwfror 🌧️
+description: Yng nghylchlythyr yr wythnos hon, diweddariad am ein cais i gael arian grant, mwy o weithdai a diffiniadau
 date: 2024-02-20T16:34:05+00:00
 author: Jake Rayson 
 tags: 
-  - News
-  - Newsletter
-  - Biodiversity
-  - Issue3
+  - Newyddion
+  - Cylchlythyr
+  - Bioamrywiaeth
+  - Rhifyn3
 categories: 
-  - newsletter
+  - cylchlythyr
 images: 
   - https://res.cloudinary.com/growdigital/image/upload/v1708427978/240220-daffodil.jpg
 captions: 
-  - Spring is springing with a spring in the step
+  - Mae'r gwanwyn ar droed
 alttext: 
-  - Little daffodil in a slate bed
+  - Cenhinen Bedr fach mewn gwely llechi
 draft: false
 ---
 
-A Community Assembly at the heart of a wildlife forest garden 💚
+Cynulliad cymunedol yng nghalon gardd goedwig bywyd gwyllt 💚
 
-1. [News](#1-news)
-2. [Links](#2-links)
-3. [Photos](#3-photos)
-4. [Hope](#4-hope)
+1. [Newyddion](#1-news)
+2. [Dolenni](#2-links)
+3. [Lluniau](#3-photos)
+4. [Gobaith](#4-hope)
 
-Welcome to the third issue of the weekly Hope Garden newsletter. It’s raining in West Wales, again. But this has not dampened our spirits, as we look forward to submitting our grant application in the next couple of weeks. 
+Croeso i drydydd rhifyn cylchlythyr wythnosol Gardd Gobaith. Mae'n bwrw glaw eto yn y Gorllewin. Ond dyw hyn ddim wedi ein diflasu ni, ac ry'n ni'n edrych ymlaen at gyflwyno ein cais i gael arian grant yn ystod yr wythnosau nesaf. 
 
-Any suggestions, comments, ideas, please feel free to email me on <hello@hopegarden.uk>
+Os oes gennych chi unrhyw awgrymiadau, sylwadau neu syniadau, mae croeso i chi anfon e-bost ataf yn <hello@hopegarden.uk>
 
 _Jake Rayson_
 
-## 1. News
+## 1. Newyddion
 
-### Grant application budget
+### Cyllideb ein cais am grant
 
-We’ve reached the budget part of the grant application, and this is where things get nitty and gritty. It’s appropriate, nay, _necessary_ that the design and creation of the prototype Hope Garden follows the processes of Community Assemblies. This means that (grant willing) the garden will be **co-designed** and **co-created** by the people who will be using the space. 
+Mae'n rhaid i ni baratoi'r gyllideb ar gyfer ein cais i gael arian grant, felly ry'n ni'n ymdrin â'r glo mân erbyn hyn. Mae'n briodol, neu yn hytrach, mae'n _hanfodol_ bod y gwaith o ddylunio ac o greu Gardd Gobaith enghreifftiol yn dilyn prosesau Cynulliadau Cenedlaethol. Mae hyn yn golygu y bydd yr ardd (os cawn ni'r arian grant) yn cael ei **chyd-lunio** a'i **chyd-greu** gan y bobl a fydd yn ei defnyddio. 
 
-So, last issues [workshops, workshops, workshops](https://hopegarden.uk/blog/240214-newsletter/#workshops-workshops-workshops) mantra is making it into the budget, and there will be budgets for a slew of Community Assembly run workshops, including but not limited to:
+Felly, mae mantra'r rhifyn diwethaf [gweithdai, gweithdai, gweithdai](https://hopegarden.uk/blog/240214-newsletter/#workshops-workshops-workshops) yn ymddangos yn y gyllideb, a bydd cyllidebau ar gael ar gyfer llu o weithdai a fydd yn cael eu cynnal gan Gynulliad Cymunedol, gan gynnwys, ymhlith eraill:
 
-1. **Ecological survey** — the base survey, before any work commences, and then instructions for subsequent surveys, to measure wildlife impacts
-2. **Co-design** — possibly 3 workshops, with special guests providing inputs, from a wildlife perspective, a practical community perspective, and an outdoor well-being workshop perspective
-3. **Landscaping** — hard landscaping, how the structure of the garden is created; planting & pruning for the long term; making wooden benches
+1. **Arolwg ecolegol** — yr arolwg sylfaenol, cyn dechrau ar unrhyw waith, ac yna cyfarwyddiadau ar gyfer yr arolygon a gynhelir ar ôl hynny, i fesur yr effaith ar fywyd gwyllt
+2. **Cyd-lunio** — tri gweithdy, o bosib, gyda gwesteion arbennig yn cyfrannu atyn nhw, o safbwynt bywyd gwyllt, o safbwynt cymunedol ymarferol, ac o safbwynt llesiant awyr agored
+3. **Tirweddu** — tirweddu caled, sut bydd strwythur yr ardd yn cael ei greu; plannu a thocio at y tymor hir; creu meinciau pren
 
-The other task is to reach out to more local charities and organisations to sound out their interest, and a jolly testimonial would be nice as well. 
+Ry'n ni hefyd yn mynd ati i gysylltu â mwy o elusennau a sefydliadau lleol i weld a oes ganddyn nhw ddiddordeb, a byddai'n braf cael tysteb hwyliog hefyd. 
 
 _Jake Rayson_
 
 ### Ffynnone Resilience
 
-I have written a blog post for [Ffynnone Resilience](https://ffynnoneresilience.org.uk/) about the Hope Garden and Community Assemblies, which should be [appearing on their news page](https://ffynnoneresilience.org.uk/blog-news-updates/) any day soon.
+Rwy' wedi ysgrifennu postiad ar gyfer blog [Ffynnone Resilience](https://ffynnoneresilience.org.uk/) ynglŷn â Gardd Gobaith a Chynulliadau Cymunedol, a dylai [ymddangos ar ei dudalen newyddion](https://ffynnoneresilience.org.uk/blog-news-updates/) yn fuan iawn.
 
 _Jake Rayson_
 
-### Hope Garden definitions
+### Diffiniadau Gardd Gobaith
 
-It’s always handy to know what you’re talking about, so I‘ve made [a definitions page](https://hopegarden.uk/definitions) for the Hope Garden. The idea is to have an “elevator pitch” of one sentence, and then a bit more detail.
+Mae hi bob amser yn ddefnyddiol gwybod am beth ry'ch chi'n sôn, felly rwy' wedi creu [tudalen diffiniadau](https://hopegarden.uk/definitions) ar gyfer Gardd Gobaith. Y syniad yw cael brawddeg gryno fachog, ac yna ychydig mwy o fanylion.
 
-1. **Community Assembly** — A Community Assembly is an effective and empowering way to build real participatory democracy into local decision making through a structured process, bringing communities of interest together in inclusive decision making.
-2. **Forest garden** — A forest garden works with nature to grow edible crops. It is sustainable, low maintenance and wildlife friendly and emulates the woodland edge using edible perennial and ground cover plants. Essentially, it is an **edible ecosystem**. 
-3. **Wildlife garden** — Every garden has the potential to be a wildlife garden by ensuring the presence of the two key elements, habitat and food.
+1. **Cynulliad Cymunedol** — Mae Cynulliad Cymunedol yn ffordd effeithiol a grymus o gynnwys democratiaeth gyfranogol go iawn yn y broses benderfynu leol drwy broses strwythuredig, gan ddod â chymunedau sy'n rhannu'r un diddordeb ynghyd mewn proses benderfynu gynhwysol.
+2. **Gardd goedwig** — Mae gardd goedwig yn gweithio gyda natur i dyfu cnydau bwytadwy. Mae'n gynaliadwy, yn hawdd ei chynnal a'i chadw, ac yn gyfeillgar i fywyd gwyllt, ac mae'n efelychu ymyl coetir drwy ddefnyddio planhigion lluosflwydd bwytadwy a phlanhigion sy'n gorchuddio'r ddaear. Yn ei hanfod, mae'n **ecosystem fwytadwy**. 
+3. **Gardd bywyd gwyllt** — Gallai pob gardd fod yn ardd bywyd gwyllt drwy sicrhau bod ynddi ddwy elfen bwysig, sef cynefin a bwyd.
 
-This is, and probably shall remain, a work in progress, ever-evolving.
+Mae hon yn dasg sy'n mynd rhagddi ac a fydd, fwy na thebyg, yn parhau i fynd rhagddi ac i ddatblygu o hyd.
 
 _Jake Rayson_
 
-## 2. Links
+## 2. Dolenni
 
-* [Rebecca McMackin](https://www.rebeccamcmackin.com/) on [A Way To Garden podcast](https://awaytogarden.com/state-of-the-native-plant-movement-with-rebecca-mcmackin/) with Margaret Roach. Two wildlife gardening legends.
-* [Longhorn Beetles of the UK](https://www.eventbrite.co.uk/e/longhorn-beetles-of-the-uk-part-1-tickets-835753109047) EntoLive webinar by the [Biological Recording Company](https://biologicalrecording.co.uk/)
-* [Fascinating look at The Frankincense Tree](https://thepolycultureproject.substack.com/p/arabian-walkabout-land-of-frankincense) by Paul Alfrey from [The Polyculture Project](https://www.thepolycultureproject.com/). I love the range of subjects, from a forest garden base.  
+* [Rebecca McMackin](https://www.rebeccamcmackin.com/) ar [bodlediad A Way To Garden](https://awaytogarden.com/state-of-the-native-plant-movement-with-rebecca-mcmackin/) gyda Margaret Roach. Cewri ym maes gerddi bywyd gwyllt.
+* [Chwilod hirgorn y Deyrnas Unedig](https://www.eventbrite.co.uk/e/longhorn-beetles-of-the-uk-part-1-tickets-835753109047) Gweminar EntoLive gan y [Biological Recording Company](https://biologicalrecording.co.uk/)
+* [Cipolwg difyr ar y goeden thus](https://thepolycultureproject.substack.com/p/arabian-walkabout-land-of-frankincense) gan Paul Alfrey o [The Polyculture Project](https://www.thepolycultureproject.com/). Rwy' wrth fy modd â'r testunau amrywiol a drafodir, gyda'r ardd goedwig yn sylfaen i'r cyfan.  
 
-## 3. Photos
+## 3. Lluniau
 
-{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1708425713/huerto-urbano-gellon-trujillo-sign-urban-garden.jpg" alt="Photo of garden sign on old garden gate" caption="Gellon Trujillo Urban Garden in Ponce, Puerto Rico. We met up on social media!" >}}
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1708425713/huerto-urbano-gellon-trujillo-sign-urban-garden.jpg" alt="Llun arwydd gardd ar hen iet gardd" caption="Gardd Drefol Gellon Trujillo yn Ponce, Puerto Rico. Fe gwrddon ni drwy'r cyfryngau cymdeithasol!" >}}
 
-For more information, read the [blog post](https://hopegarden.uk/blog/240217-huerto-urbano-del-callejon-trujillo/).
+I gael mwy o wybodaeth, darllenwch y [postiad blog](https://hopegarden.uk/blog/240217-huerto-urbano-del-callejon-trujillo/).
 
-{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1708468163/240220-alder-buckthorn-celtic-wild-flowers.jpg" alt="Green bush with berries" caption="The amazing wildlife friendly native Alder Buckthorn" >}}
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1708468163/240220-alder-buckthorn-celtic-wild-flowers.jpg" alt="Llwyn gwyrdd ag aeron" caption="Y freuddwyden gynhenid anhygoel sy'n gyfeillgar i fywyd gwyllt" >}}
 
-Great [post on Facebook](https://www.facebook.com/photo?fbid=821165770053206&set=a.573494618153657) by [Celtic Wild Flowers](https://celticwildflowers.co.uk/products/alder-buckthorn-frangula-alnus) about an amazing wildlife plant. I use it prodigiously in mixed native windbreak hedges.
+Postiad gwych [ar Facebook](https://www.facebook.com/photo?fbid=821165770053206&set=a.573494618153657) gan [Celtic Wild Flowers](https://celticwildflowers.co.uk/products/alder-buckthorn-frangula-alnus) am blanhigyn anhygoel ar gyfer bywyd gwyllt. Rwy'n ei ddefnyddio'n helaeth mewn cloddiau cynhenid cymysg sy'n atal y gwynt.
 
-## 4. Hope
+## 4. Gobaith
 
-> The only thing that can save the world is the reclaiming of the awareness of the world. That's what poetry does.<br><br>_~ Allan Ginsberg_
+> Yr unig beth all achub y byd yw adfer ymwybyddiaeth o'r byd. Dyna beth mae barddoniaeth yn ei wneud.<br><br>_~ Allan Ginsberg_
 
 
-### Hope links
+### Dolenni Gobaith
 
-* The Hope Garden website, now with definitions [hopegarden.uk/definitions](https://hopegarden.uk/definitions/)
-* [Open Source](https://en.wikipedia.org/wiki/Open_source) plans on the Hope Garden website [hopegarden.uk/plans](https://hopegarden.uk/plans)
-* Newsletter archives here [buttondown.email/hopegarden](https://buttondown.email/hopegarden) and here [hopegarden.uk/categories/newsletter/](https://hopegarden.uk/categories/newsletter/)
-* Social media. The accounts are there but not connected to the website. But follow and we shall follow back!
+* Gwefan Gardd Gobaith, gan gynnwys diffiniadau [hopegarden.uk/definitions](https://hopegarden.uk/definitions/)
+* Cynlluniau [ffynhonnell agored](https://en.wikipedia.org/wiki/Open_source) ar wefan Gardd Gobaith [hopegarden.uk/plans](https://hopegarden.uk/plans)
+* Archifau cylchlythyron yma [buttondown.email/hopegarden](https://buttondown.email/hopegarden) ac yma [hopegarden.uk/categories/newsletter/](https://hopegarden.uk/categories/newsletter/)
+* Cyfryngau cymdeithasol. Mae cyfrifon ar gael, ond dydyn nhw ddim wedi'u cysylltu â'r wefan. Ond, os dilynwch chi ni, fe ddilynwn ni chi!
   * Mastodon [climatejustice.social/@hopegarden](https://climatejustice.social/@hopegarden)
   * Facebook [facebook.com/hopegardenuk](https://facebook.com/hopegardenuk)
   * TikTok [tiktok.com/@hopegardenuk](https://www.tiktok.com/@hopegardenuk)
