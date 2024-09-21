@@ -10,7 +10,7 @@ tags:
   - Chwarae
   - Rhifyn5
 categories: 
-  - cylchlythyr
+  - newsletter
 images: 
   - https://res.cloudinary.com/growdigital/image/upload/v1709499330/240301-willow-sculpture-hare-snow.jpg
 captions: 

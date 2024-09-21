@@ -9,7 +9,7 @@ tags:
   - Bioamrywiaeth
   - Rhifyn4
 categories: 
-  - cylchlythyr
+  - newsletter
 images: 
   - https://res.cloudinary.com/growdigital/image/upload/v1709055398/240227-saxifrage.jpg
 captions: 
