@@ -19,7 +19,7 @@ hasChildren = true
   [[main]]
   parent = "Tudalennau"
   name = "Pecyn cymorth"
-  url = "pecyn_cymorth/"
+  url = "pecyncymorth/"
   weight = 1
 
   [[main]]
@@ -31,13 +31,13 @@ hasChildren = true
   [[main]]
   parent = "Tudalennau"
   name = "Amdanom ni"
-  url = "amdanom_ni/"
+  url = "amdanom/"
   weight = 3
 
   [[main]]
   parent = "Tudalennau"
   name = "Tîm"
-  url = "tîm/"
+  url = "tim/"
   weight = 4
 
   [[main]]
@@ -75,46 +75,6 @@ weight = 5
   url = "cyfryngau/"
   weight = 4
 
-[[main]]
-name = "Grant"
-hasChildren = true
-weight = 6
-
-  [[main]]
-  parent = "Grant"
-  name = "Trosolwg"
-  url = "grant/trosolwg/"
-  weight = 1
-
-  [[main]]
-  parent = "Grant"
-  name = "Cais"
-  url = "grant/cais/"
-  weight = 2
-
-  [[main]]
-  parent = "Grant"
-  name = "Dibenion"
-  url = "grant/dibenion/"
-  weight = 3
-
-  [[main]]
-  parent = "Grant"
-  name = "Cynnal"
-  url = "grant/cynnal/"
-  weight = 4
-
-  [[main]]
-  parent = "Grant"
-  name = "Perfformiad"
-  url = "grant/perfformiad/"
-  weight = 5
-
-  [[main]]
-  parent = "Grant"
-  name = "Prosiect"
-  url = "grant/prosiect/"
-  weight = 5
 
 # footer menu
 [[footer]]
