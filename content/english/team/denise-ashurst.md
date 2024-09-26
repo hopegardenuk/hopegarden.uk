@@ -10,7 +10,7 @@ designation: "Gardener & community activist"
 ---
 
 #### Work history
-Denise is a gardener, wordsmith, democracy advocate & community activist. She has spent many years involved in a variety of community development projects, from community involvement in regenerateration funds in Liverpool to bringing woodlands into use by nearby residents in the Welsh valleys. She is inspired by seeing people get involved to make tangible improvements to their quality of life.
+Denise is a gardener, wordsmith, democracy advocate & community activist. She has spent many years involved in a variety of community development projects, from community involvement in regeneration funds in Liverpool to bringing woodlands into use by nearby residents in the Welsh valleys. She is inspired by seeing people get involved to make tangible improvements to their quality of life.
 
 #### Activities
 * Community Assemblies
