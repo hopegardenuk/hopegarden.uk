@@ -1,6 +1,6 @@
 ---
 title: The Hope Garden Is Go
-description: A workshop introducing the Hope Garden kickstarts the project (although a vast amount of work has been done over the past couple of years!)
+description: A workshop introducing the Hope Garden kickstarts the project, followed by a wildlife ID workshop onsite in the afternoon
 date: 2024-09-14T13:44:41+01:00
 author: Jake Rayson 
 tags: 
@@ -13,15 +13,17 @@ tags:
 categories: 
   - Workshops
 images:
-  - https://res.cloudinary.com/hopegarden/image/upload/v1727441252/240927-slideshow-intro-hopegarden.webp
+  - https://res.cloudinary.com/hopegarden/image/upload/v1726511013/240914-yusef-workshop-huddle.jpg
 alttext: 
-  - Screenshot of Introducing the Hope Garden slideshow
+  - Children and adults gathered around an ecologist by a fence
 captions: 
-  - The slides are online, the workshop went well and the sandwiches were magnificent
-draft: false
+  - A couple of enthusiastic children from the previous day’s school workshop had brought their own home-made pooter on a self-motivated trip!
+draft: true
 ---
 
 Maybe because of the relatively low number of guests, the workshop at Cilgerran Village Hall felt really productive and engaged, and covered a lot of ground, explaining the ideas behind the community space in a wildlife forest garden that is the Hope Garden.
+
+{{< figure src="https://res.cloudinary.com/hopegarden/image/upload/v1727441252/240927-slideshow-intro-hopegarden.webp" alt="Screenshot of Introducing the Hope Garden slideshow" caption="The slides are online, the workshop went well and the sandwiches were magnificent" >}}
 
 The slides are available forever-ish here [hopegarden.uk/slides/intro](https://hopegarden.uk/slides/intro/#2)
 
@@ -58,3 +60,19 @@ At a local level, Community Assemblies are an inclusive and open framework for d
 3. Trust the process
 
 If there’s any demand, I might do a livestream of the workshop. Email me <hello@hopegarden.uk> if interested!
+
+## Wildlife ID
+
+In the afternoon, we moved from the village hall to the Hope Garden site, where ecologist Yusef Samari from [WWBIC](https://wwbic.org.uk) conducted a wildlife ID workshop. What was really noticeable were the [Elephant Hawkmoth](https://en.wikipedia.org/wiki/Deilephila_elpenor) caterpillars by the [Square-stalked Willowherb](https://plantatlas2020.org/atlas/2cd4p9h.7aw), and the preponderance of insects around the compound flowers of [Fleabane](https://plantatlas2020.org/atlas/2cd4p9h.1nx) and [Marsh Ragwort](https://plantatlas2020.org/atlas/2cd4p9h.aqkn5p).
+
+{{< figure src="https://res.cloudinary.com/hopegarden/image/upload/v1726511012/240914-two-elephant-hawkmoth-caterpillars-willowherb.jpg" alt="Couple of large caterpillars on wispy old flower heads" caption="Elephant Hawkmoth caterpillars on the seed heads of Square-stalked Willowherb" >}}
+
+{{< figure src="https://res.cloudinary.com/hopegarden/image/upload/v1726511010/240914-fleabane-flowers-fly.jpg" alt="Fly on a yellow flower" caption="Fly on the compound flower of Fleabane, a member of the daisy family" >}}
+
+It was such a lovely way to spend the afternoon, educational yet also relaxed, paying close attention to what could be lurking right beneath your feet.
+
+What was also fascinating was the research that Yusef passed on about the wildlife observations in the area. He had completed an ecological survey of the site (you can download a copy of the PDF from our [Plant Species page](https://hopegarden.uk/species)), and then passed on information about the observations within a kilometre of the garden. 2,282 species, of which 256 are protected and/or priority.
+
+{{< figure src="https://res.cloudinary.com/hopegarden/image/upload/v1725861504/240711-wwbic-species-records-map-cilgerran.jpg" alt="Map with circle showing distribution of species around village" caption="The species distribution map around the Hope Garden & Cilgerran" >}}
+
+This will **really** inform the garden design process, because when you know the name of the species that you’re designing for, you can choose the plants that they eat and the habitat they require. Exciting times.
