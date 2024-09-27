@@ -832,6 +832,10 @@ class: middle, center
 
 ---
 
+<a href="https://www.eventbrite.co.uk/o/jake-rayson-89273801603"><img class="full-screen" src="https://res.cloudinary.com/hopegarden/image/upload/v1727121076/240923-community-assembly-hall.jpg" alt="Hall room full of people engaging in a comunity assembly"></a>
+
+---
+
 class: middle
 
 ## Democractic deficit?
