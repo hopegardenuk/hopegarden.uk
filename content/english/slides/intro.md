@@ -138,6 +138,10 @@ class: middle
 
 _[When culture supports biodiversity:<br>The case of the wooded meadow](https://f001.backblazeb2.com/file/GardenWildDocs/When-culture-supports-biodiversity-Kull-Kukk-Lotman-2003-accessible.pdf)_<br>Kull, Kukk & Lotman 2003
 
+???
+
+> The top five wooded meadows according to their local (1m²) vascular plant species richness, on the basis of our existing data, are Laelatu (76) and Vahenurme (74) in the western part of mainland, Tagamõisa (67) and Küdema (65) in Saaremaa, and Tärkma (61) in Hiiumaa.
+
 <h6 class="breadcrumb"><u>Ideas</u> — Forest garden — Wildlife garden — Community Assembly</h6>
 
 ---
