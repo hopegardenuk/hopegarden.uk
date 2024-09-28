@@ -9,7 +9,7 @@ draft: false
 - **_Name_**: Gardd Gobaith Cilgerran Hope Garden  
 - **_Byeline_**: A Community Assembly at the heart of a wildlife forest garden 💚  
 - **_Sentence_**: A welcoming community workshop and meeting space at the heart of a wildlife forest garden that connects local people with nature and each other 💚 
-- **_Site:_** Parc y Delyn, Cilgerran, Pembrokeshire [SA43 2TH]((https://w3w.co/present.purifier.canyons))
+- **_Site:_** Pen Y Foidr, Cilgerran, Pembrokeshire [SA43 2TH]((https://w3w.co/present.purifier.canyons))
 - **_Website_**: [hopegarden.uk](https://hopegarden.uk/)  
 ### Short description  
 The Hope Garden is a community asset for the people of Cilgerran and the surrounding area. Features include a Community Assembly covered area, for outdoor workshops & gatherings. It is surrounded by a thoughtfully designed garden, with a collection of perennial vegetables and edible shrubs, plus a wealth of artfully chosen native wild flowers. Native plants are used where possible as food for co-evolved insects, and wildlife habitat and sustainable practices are built into the infrastructure of the garden.

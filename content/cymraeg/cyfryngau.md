@@ -9,7 +9,7 @@ draft: false
 - **_Enw_**: Gardd Gobaith Cilgerran  
 - **_Arwyddair_**: Cynulliad cymunedol yng nghalon gardd goedwig bywyd gwyllt 💚  
 - **_Brawddeg_**: Gweithdy a man cyfarfod cymunedol croesawgar yng nghalon gardd goedwig bywyd gwyllt sy'n cysylltu pobl leol â natur a'i gilydd 💚 
-- **_Safle:_** Parc y Delyn, Cilgerran, Sir Benfro [SA43 2TH]((https://w3w.co/present.purifier.canyons))
+- **_Safle:_** Pen Y Foidr, Cilgerran, Sir Benfro [SA43 2TH]((https://w3w.co/present.purifier.canyons))
 - **_Gwefan_**: [hopegarden.uk](https://hopegarden.uk/)  
 ### Disgrifiad byr  
 Ased cymunedol ar gyfer pobl Cilgerran a'r fro yw Gardd Gobaith. Ynddi, ceir ardal Cynulliad Cymunedol wedi'i gorchuddio i gynnal gweithdai a chyfarfodydd awyr agored. O'i hamgylch, ceir gardd a ddyluniwyd mewn ffordd ystyrlon, gyda chasgliad o lysiau lluosflwydd a llwyni bwytadwy, ynghyd â chyfoeth o flodau gwyllt cynhenid a ddewiswyd yn ofalus. Defnyddir planhigion cynhenid lle bo modd i roi bwyd i'r pryfed sydd wedi esblygu ochr yn ochr â nhw, ac mae cynefinoedd bywyd gwyllt ac arferion cynaliadwy yn rhan o seilwaith yr ardd.
