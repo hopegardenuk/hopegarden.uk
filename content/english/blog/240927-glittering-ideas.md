@@ -1,6 +1,6 @@
 ---
 title: Glittering ideas for the Hope Garden
-description: 
+description: Pupils from Ysgol Cilgerran excelled again, this time in a garden design workshop for the Hope Garden
 date: 2024-09-20T10:26:17+01:00
 author: Jake Rayson 
 tags: 

@@ -32,7 +32,7 @@ Ased cymunedol ar gyfer pobl Cilgerran a'r fro yw Gardd Gobaith. Ynddi, ceir ard
 - _Rhithffurf:_ ![Llun agos o lygad y dydd](https://res.cloudinary.com/hopegarden/image/upload/f_auto,h_40/v1720377562/190827-daisy-Gzen92.webp) [Daisy](https://res.cloudinary.com/hopegarden/image/upload/v1720377562/190827-daisy-Gzen92.webp) cydnabyddiaeth [Gzen92](https://commons.wikimedia.org/wiki/User:Gzen92) ar [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:P%C3%A2querette_(Bellis_perennis)_(2).jpg)
 - _Baner:_ ![Llun o'r awyr](https://res.cloudinary.com/hopegarden/image/upload/f_auto,w_40/v1720378407/240224-aerial-wide-169.webp) [Safle Cilgerran o'r awyr](https://res.cloudinary.com/hopegarden/image/upload/v1720378407/240224-aerial-wide-169.webp)
 - _Disgrifiad:_ #CynulliadCymunedol wrth galon #GarddGoedwig #BywydGwyllt, #PecynCymorth ar gyfer yr #ArgyfwngNatur a'r #ArgyfwngHinsawdd  💚 🌳 ✊
-- _Hashnodau:_ #CynulliadCymunedol #DemocratiaethUniongyrchol #BywydGwyllt #GarddGoedwig #GarddioBywydGwyllt #garddio #ArgyfwngNatur #ArgyfwngHinsawdd
+- _Hashnodau:_ #CynulliadCymunedol #BywydGwyllt #GarddGoedwig #GarddioBywydGwyllt #garddio #ArgyfwngNatur #ArgyfwngHinsawdd
 ### Postiadau
 - Mastodon [climatejustice.social/@hopegarden](https://climatejustice.social/@hopegarden)
 - Twitter [twitter.com/hopegardenuk](https://twitter.com/hopegardenuk)
