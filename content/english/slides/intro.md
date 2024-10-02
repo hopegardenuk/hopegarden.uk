@@ -20,7 +20,7 @@ _Community Assembly at the heart<br>of a wildlife forest garden 💚_
 
 by Jake Rayson
 
-[hopegarden.uk/slides/hope](https://hopegarden.uk/slides/hope/)
+[hopegarden.uk/slides/intro](https://hopegarden.uk/slides/intro/)
 
 ###### Funded by [Local Places for Nature](https://www.heritagefund.org.uk/funding/local-places-nature), delivered by [The National Lottery Heritage Fund](https://www.heritagefund.org.uk/) in partnership with [Welsh Government](https://www.gov.wales/local-places-nature-programme)
 
