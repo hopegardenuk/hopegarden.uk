@@ -1,11 +1,10 @@
-
 html {
   font-size: 16px;
   line-height: 1.4;
 }
 body {
   color: #444;
-  font-family: "IBM Plex Sans", sans-serif;
+  font-family: "Open Sans", serif;
 }
 
 .remark-slide-content li,
@@ -24,7 +23,7 @@ h2, h3 {
 }
 
 h1, h2, h3, h4 {
-  font-family: "IBM Plex Serif", Georgia, serif;
+  font-family: "Crimson Pro", Georgia, serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -48,7 +47,7 @@ a:visited {
 /* Remark slide styling */
 
 .remark-slide-content {
-  background-color: #f6fce6;
+  background-color: #fff;
 }
 
 .remark-slide-content {
@@ -105,6 +104,13 @@ a:visited {
   text-align: center;
   top: 130px;
 }
+
+/* ==========================================================================
+   Fonts
+   ========================================================================== */
+
+
+
 
 /* ==========================================================================
    Utilities
