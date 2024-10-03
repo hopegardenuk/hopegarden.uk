@@ -20,7 +20,7 @@ _Community Assembly at the heart<br>of a wildlife forest garden 💚_
 
 by Jake Rayson
 
-[hopegarden.uk/slides/hope](https://hopegarden.uk/slides/hope/)
+[hopegarden.uk/slides/intro](https://hopegarden.uk/slides/intro/)
 
 ###### Funded by [Local Places for Nature](https://www.heritagefund.org.uk/funding/local-places-nature), delivered by [The National Lottery Heritage Fund](https://www.heritagefund.org.uk/) in partnership with [Welsh Government](https://www.gov.wales/local-places-nature-programme)
 
@@ -137,6 +137,10 @@ class: middle
 ## “Neither in any other community of &nbsp;&nbsp;Western Europe, nor anywhere in &nbsp;&nbsp;the tropics, does the number of &nbsp;&nbsp;vascular plant species within a few &nbsp;&nbsp;square meters reach the numbers &nbsp;&nbsp;counted on the Estonian wooded &nbsp;&nbsp;meadows.”
 
 _[When culture supports biodiversity:<br>The case of the wooded meadow](https://f001.backblazeb2.com/file/GardenWildDocs/When-culture-supports-biodiversity-Kull-Kukk-Lotman-2003-accessible.pdf)_<br>Kull, Kukk & Lotman 2003
+
+???
+
+> The top five wooded meadows according to their local (1m²) vascular plant species richness, on the basis of our existing data, are Laelatu (76) and Vahenurme (74) in the western part of mainland, Tagamõisa (67) and Küdema (65) in Saaremaa, and Tärkma (61) in Hiiumaa.
 
 <h6 class="breadcrumb"><u>Ideas</u> — Forest garden — Wildlife garden — Community Assembly</h6>
 
