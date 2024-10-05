@@ -14,7 +14,7 @@ class: center, middle
 
 # Introducing the Hope Garden
 
-_Community Assembly at the heart<br>of a wildlife forest garden 💚_
+_Community space at the heart<br>of a wildlife forest garden 💚_
 
 [![Jake Rayson smiling](https://res.cloudinary.com/growdigital/image/upload/w_100,h_100,c_thumb,g_face,r_max/v1572195912/jake-askance.png)](/)
 
@@ -22,7 +22,7 @@ by Jake Rayson
 
 [hopegarden.uk/slides/intro](https://hopegarden.uk/slides/intro/)
 
-###### Funded by [Local Places for Nature](https://www.heritagefund.org.uk/funding/local-places-nature), delivered by [The National Lottery Heritage Fund](https://www.heritagefund.org.uk/) in partnership with [Welsh Government](https://www.gov.wales/local-places-nature-programme)
+###### Funded by [Local Places for Nature](https://www.heritagefund.org.uk/funding/local-places-nature), delivered by [National Lottery Heritage Fund](https://www.heritagefund.org.uk/) with [Welsh Government](https://www.gov.wales/local-places-nature-programme)
 
 ##### Press `P` to see notes and credits
 
