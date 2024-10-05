@@ -110,12 +110,20 @@ a:visited {
 }
 
 /* ==========================================================================
-   Logo
+   Logo - home page clickable
    ========================================================================== */
 
 .slide-logo {
-  opacity: 0.4;
+  bottom: 1rem;
+  left: 6rem;
+  opacity: 0.3;
+  position: absolute;
   width: 4rem;
+  z-index: 10;
+}
+
+.slide-logo:hover {
+  opacity: 0.7;
 }
 
 
