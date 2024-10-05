@@ -90,7 +90,7 @@ See, I didn’t mention plants or colours
 
 class: middle
 
-# 3 design questions
+# 3 questions
 
 1. Who for? **Wildlife _&_ people!**
 2. Who cares? **Gardeners!**
