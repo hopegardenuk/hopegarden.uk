@@ -44,8 +44,61 @@ class: middle
 🥪 *<small>Free lunch</small>*
 
 
-
 <h6 class="breadcrumb">Ideas — Forest garden — Wildlife garden — Community Assembly</h6>
+
+---
+
+# Class outline
+
+* Philosophy (key principles - see forest garden primer) - vernacular/terroire, local, edible crops, wildlife habitat, native plants. Create edible ecosystems.
+* Survey - summary (see other class). Site.
+* Features - harvests, seating, wildlife, 
+  * Pond
+  * Seating areas - morning & afternoon/evening
+* Plant list
+* Paths
+* Shapes
+
+---
+
+# Philosophy
+
+- Nature & climate emergency
+- Profit-driven economy
+- Commodified ~~food~~ everything
+- Out of balance
+- Degrowth
+
+---
+
+# Forest garden principles
+
+
+> Working with nature to grow edible crops
+
+- Edible ecosystem
+- Natural materials
+- Balanced invertebrate management
+- Self-sustaining fertility
+
+---
+
+# Decouple 
+
+- Low-input resilient local food systems
+- Multi-disciplinary
+
+---
+
+- Capitalism is the cause of the Yellowhammer’s decline
+
+---
+
+designing on a wish
+
+- who for
+- who pays
+- who cares
 
 ---
 

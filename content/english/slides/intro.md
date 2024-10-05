@@ -134,7 +134,7 @@ Photo by Cameron Strandberg on [Wikimedia](https://commons.wikimedia.org/wiki/Fi
 
 class: middle
 
-## “Neither in any other community of &nbsp;&nbsp;Western Europe, nor anywhere in &nbsp;&nbsp;the tropics, does the number of &nbsp;&nbsp;vascular plant species within a few &nbsp;&nbsp;square meters reach the numbers &nbsp;&nbsp;counted on the Estonian wooded &nbsp;&nbsp;meadows.”
+## “Neither in any other community of<br>&nbsp;&nbsp;Western Europe, nor anywhere in the<br>&nbsp;&nbsp;tropics, does the number of vascular<br>&nbsp;&nbsp;plant species within a few square meters<br>&nbsp;&nbsp;reach the numbers counted on the<br>&nbsp;&nbsp;Estonian wooded meadows.”
 
 _[When culture supports biodiversity:<br>The case of the wooded meadow](https://f001.backblazeb2.com/file/GardenWildDocs/When-culture-supports-biodiversity-Kull-Kukk-Lotman-2003-accessible.pdf)_<br>Kull, Kukk & Lotman 2003
 
