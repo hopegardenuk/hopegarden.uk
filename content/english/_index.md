@@ -6,7 +6,7 @@ hero_slider:
   slider_item:
     # slider item
     - subtitle : "Something hopeful this way comes"
-      title : "Community Assembly at the heart of a wildlife forest garden"
+      title : "Community space at the heart of a wildlife forest garden"
       content : "Providing an experimental toolkit to create a community meeting space surrounded by a thriving, productive wildlife garden. Situated in north Pembrokeshire, West Wales, UK. <b><a ref=''>Free workshops</a> now available.</b>"
       bg_image : "https://res.cloudinary.com/hopegarden/image/upload/v1719872235/elephant-garlic-flower-169.jpg"
       animation : "fadeInUp" # animation select from : https://daneden.github.io/animate.css/
