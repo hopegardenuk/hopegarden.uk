@@ -10,7 +10,7 @@ home = "Home"
 # footer content
 footer_content = "Copyright © [Garden Wild Plants CIC](https://gardenwild.org.uk) under [Creative Commons licensing](https://creativecommons.org/). Photos licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), words licensed [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/), _unless stated otherwise_. Elephant Garlic photo by [Daniel Pacurici](https://unsplash.com/@c14h3r) on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Elephant_garlic_flower_(Unsplash).jpg)."
 # copyright
-copyright = "This project is funded by the [Local Places for Nature](https://www.heritagefund.org.uk/funding/local-places-nature) scheme, delivered by [The National Lottery Heritage Fund](https://www.heritagefund.org.uk/) in partnership with the [Welsh Government](https://www.gov.wales/local-places-nature-programme). ![](https://res.cloudinary.com/hopegarden/image/upload/v1720098541/heritage-fund-logo.svg)"
+copyright = "This project is funded by the [Local Places for Nature](https://www.heritagefund.org.uk/funding/local-places-nature) scheme, delivered by [The National Lottery Heritage Fund](https://www.heritagefund.org.uk/) in partnership with the [Welsh Government](https://www.gov.wales/local-places-nature-programme). ![Heritage Fund logo](https://res.cloudinary.com/hopegarden/image/upload/v1720098541/heritage-fund-logo.svg)"
 
 
 ################################### Welsh language #####################################
@@ -23,6 +23,6 @@ weight = 2
 [cy.params]
 home = "Hafan"
 # footer content
-footer_content = "Lorem ipsum dolor amet consectetur adipisicing elit sed eiusm tempor incididunt ut labore dolore magna aliqua enim ad minim veniam quis nostrud exercitation ullamaboris nisi ut aliquip.exea commodo consequat. Duis aute irure dolor in reprehenderit. Lorem ipsum dolor amet consectetur adipisicing elit sed eiusm tempor incididunt ut labore dolore magna aliqua enim ad minim veniam quis nostrud exercitation ullamaboris nisi ut aliquip.exea commodo consequat. Duis aute irure dolor in reprehenderit."
+footer_content = "Copyright © [Garden Wild Plants CIC](https://gardenwild.org.uk) under [Creative Commons licensing](https://creativecommons.org/). Photos licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), words licensed [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/), _unless stated otherwise_. Elephant Garlic photo by [Daniel Pacurici](https://unsplash.com/@c14h3r) on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Elephant_garlic_flower_(Unsplash).jpg)."
 # copyright
-copyright = "Theme designed by [Themefisher](https://themefisher.com/), developed by [Gethugothemes](https://gethugothemes.com/)"
+copyright = "This project is funded by the [Local Places for Nature](https://www.heritagefund.org.uk/funding/local-places-nature) scheme, delivered by [The National Lottery Heritage Fund](https://www.heritagefund.org.uk/) in partnership with the [Welsh Government](https://www.gov.wales/local-places-nature-programme). ![Heritage Fund logo](https://res.cloudinary.com/hopegarden/image/upload/v1720098541/heritage-fund-logo.svg)"
