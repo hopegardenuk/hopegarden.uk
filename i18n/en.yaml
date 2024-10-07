@@ -10,6 +10,9 @@
 - id: email
   translation: Email us
 
+- id: enter_email
+  translation: Enter your email
+
 - id: contact_form
   translation: Contact form
 

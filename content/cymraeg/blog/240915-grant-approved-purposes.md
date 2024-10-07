@@ -7,7 +7,7 @@ tags:
   - News
   - Grant
 categories: 
-  - News
+  - Newyddion
 images: 
   - https://res.cloudinary.com/hopegarden/image/upload/v1726232975/240912-hope-garden-from-gate.jpg
 captions: 

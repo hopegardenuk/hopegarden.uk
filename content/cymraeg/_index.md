@@ -6,7 +6,7 @@ hero_slider:
   slider_item:
     # slider item
     - subtitle : "Llygedyn o obaith"
-      title : "Cynulliad cymunedol yng nghalon gardd goedwig bywyd gwyllt"
+      title : "Gofod cymunedol yng nghalon gardd goedwig bywyd gwyllt"
       content : "Darparu pecyn cymorth arbrofol i greu man cyfarfod cymunedol wedi'i amgylchynu â gardd bywyd gwyllt gynhyrchiol sy'n ffynnu. Wedi'i lleoli yng ngogledd Sir Benfro."
       bg_image : "https://res.cloudinary.com/hopegarden/image/upload/v1719872235/elephant-garlic-flower-169.jpg"
       animation : "fadeInUp" # animation select from : https://daneden.github.io/animate.css/

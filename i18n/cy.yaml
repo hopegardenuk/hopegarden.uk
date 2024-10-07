@@ -10,6 +10,9 @@
 - id: email
   translation: E-bostio
 
+- id: enter_email
+  translation: Rhowch eich cyfeiriad e-bost
+
 - id: contact_form
   translation: Ffurflen gysylltu
 

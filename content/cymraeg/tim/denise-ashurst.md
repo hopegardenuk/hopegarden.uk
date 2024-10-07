@@ -1,6 +1,6 @@
 ---
 title: "Denise Ashurst"
-description: "Community Assembly liaison"
+description: "Garddwr ac actifydd cymunedol"
 bg_image: "https://res.cloudinary.com/hopegarden/image/upload/v1719952740/title-poppy.webp"
 image: "https://res.cloudinary.com/hopegarden/image/upload/v1727383489/denise-ashurst.webp"
 designation: "Gardener & community activist"
@@ -9,10 +9,17 @@ designation: "Gardener & community activist"
 #     link : "https://uk.linkedin.com/in/deniseashurst"
 ---
 
-#### Work history
-Denise is a gardener, wordsmith, democracy advocate & community activist. She has spent many years involved in a variety of community development projects, from community involvement in regeneration funds in Liverpool to bringing woodlands into use by nearby residents in the Welsh valleys. She is inspired by seeing people get involved to make tangible improvements to their quality of life.
+#### Hanes gyrfa
+Mae Denise yn arddwr, yn awdur, yn eiriolwr dros ddemocratiaeth ac yn actifydd cymunedol. Ers blynyddoedd lawer, bu'n ymwneud â phrosiectau datblygu cymunedol, o waith cymunedol a oedd yn gysylltiedig â chronfeydd adfywio yn Lerpwl i sicrhau bod modd i breswylwyr lleol ddefnyddio coetiroedd yng nghymoedd y De. Mae gweld pobl yn mynd ati i wella ansawdd eu bywydau yn ei hysbrydoli.
 
-#### Activities
-* Community Assemblies
-* Public Relations
-* Project Support
+#### Gweithgareddau
+- Cynulliadau Cymunedol
+- Cysylltiadau cyhoeddus
+- Cefnogi prosiectau
+
+
+
+
+
+
+

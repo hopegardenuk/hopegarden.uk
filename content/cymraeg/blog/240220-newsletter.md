@@ -9,7 +9,7 @@ tags:
   - Bioamrywiaeth
   - Rhifyn3
 categories: 
-  - newsletter
+  - Cylchlythyr
 images: 
   - https://res.cloudinary.com/growdigital/image/upload/v1708427978/240220-daffodil.jpg
 captions: 
