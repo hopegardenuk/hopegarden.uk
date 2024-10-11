@@ -49,7 +49,7 @@ Ased cymunedol ar gyfer pobl Cilgerran a'r fro yw Gardd Gobaith. Ynddi, ceir ard
 ## 5. Graffeg
 - Ffontiau
     - [Crimson Pro](https://fonts.google.com/specimen/Crimson+Pro?query=crimson+pro0)
-    - [Open Sans](https://fonts.google.com/specimen/Open+Sans?query=open+sans)
+    - [Nunito Sans](https://fonts.google.com/specimen/Nunito+Sans)
 - Emoji 🌻 🌳 
 - `7bb335` Gwyrdd
 - `ffcc00` Melyn

@@ -18,7 +18,7 @@ alttext:
   - Children and adults gathered around an ecologist by a fence
 captions: 
   - A couple of enthusiastic children from the previous day’s school workshop had brought their own home-made pooter on a self-motivated trip!
-draft: true
+draft: false
 ---
 
 Maybe because of the relatively low number of guests, the workshop at Cilgerran Village Hall felt really productive and engaged, and covered a lot of ground, explaining the ideas behind the community space in a wildlife forest garden that is the Hope Garden.

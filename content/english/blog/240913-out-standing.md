@@ -19,7 +19,7 @@ alttext:
   - Children scattered across a field, a track marked with white stakes, blue-ish sky above
 captions: 
   - Ysgol Cilgerran pupils scattered around the site of the Hope Garden, bug hunting
-draft: true
+draft: false
 ---
 
 The Hope Garden is incredibly fortunate to have funding from [Local Places for Nature](https://www.heritagefund.org.uk/funding/local-places-nature) to cover some workshops with Ysgol Cilgerran. The first one was Wildlife Identification, with ecologist Yusef Samari from [WWBIC](https://www.wwbic.org.uk/), the West Wales wildlife recording centre.

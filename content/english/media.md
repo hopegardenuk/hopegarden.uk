@@ -49,7 +49,7 @@ The Hope Garden is a community asset for the people of Cilgerran and the surroun
 ## 5. Graphics
 - Fonts
     - [Crimson Pro](https://fonts.google.com/specimen/Crimson+Pro?query=crimson+pro0)
-    - [Open Sans](https://fonts.google.com/specimen/Open+Sans?query=open+sans)
+    - [Nunito Sans](https://fonts.google.com/specimen/Nunito+Sans)
 - Emojis 🌻 🌳 
 - `7bb335` Green
 - `ffcc00` Yellow
