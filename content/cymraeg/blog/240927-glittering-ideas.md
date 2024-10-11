@@ -1,6 +1,6 @@
 ---
-title: Glittering ideas for the Hope Garden
-description: Pupils from Ysgol Cilgerran excelled again, this time in a garden design workshop for the Hope Garden
+title: Syniadau disglair ar gyfer yr Ardd Gobaith
+description: Roedd disgyblion o Ysgol Cilgerran yn wych eto, y tro hwn mewn gweithdy dylunio gardd ar gyfer yr Ardd Gobaith.
 date: 2024-09-20T10:26:17+01:00
 author: Jake Rayson 
 tags: 
