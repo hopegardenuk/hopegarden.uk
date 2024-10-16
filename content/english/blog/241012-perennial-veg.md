@@ -40,7 +40,7 @@ Past the orchard were some kales, a favourite being Taunton Deane. This lasts fo
 
 What was striking was the emphasis on wildlife throughout the tour and workshop. Stephanie said at the beginning:
 
-> I'm obsessed with predators, I plant of things for wasps
+> I'm obsessed with predators, I plant things for wasps
 
 [Common Figwort](https://plantatlas2020.org/atlas/2cd4p9h.ck1) is one of those plants, which [supports a whole host of invertebrates](https://waarneming.nl/species/7429/relations/). This is *exactly* what the Hope Garden is about, supporting wildlife and a balanced ecosystem in a productive space used by people. What is particularly lovely is that the Figwort is not a very showy plant at all. But when you know [which species it supports](https://waarneming.nl/species/7429/relations/), your outlook changes and you really start to appreciate its beauty and its place in the ecosystem. 
 
