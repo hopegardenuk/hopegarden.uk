@@ -27,4 +27,4 @@ It’s a brilliant project, equipping and training children and staff at the sch
 
 The cost of the equipment is about £300 and the half dozen workshops are costing about £700.
 
-We find out next March if we’re successful.
+We find out next March if we’re successful. In the meantime, I’m sharing the application details with other nature groups and initiatives, because [Welsh Water](https://www.dwrcymru.com/) have a [Citizen Science Support Programme](https://corporate.dwrcymru.com/en/community/environment/citizen-science-support-programme), with grants of up to £10,000. 
