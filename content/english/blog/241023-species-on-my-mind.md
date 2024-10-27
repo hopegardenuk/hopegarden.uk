@@ -1,6 +1,6 @@
 ---
 title: Species on my mind
-description: 
+description: Tools to help you design and plant your garden with specific species in mind
 date: 2024-10-26T11:33:24+01:00
 author: Jake Rayson 
 tags: 

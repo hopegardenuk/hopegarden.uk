@@ -1,6 +1,6 @@
 ---
 title: Mint challenge with Mintopia
-description: 
+description: A minty project ideally suited to schools and the Hope Garden
 date: 2024-10-26T11:31:53+01:00
 author: Jake Rayson 
 tags: 
