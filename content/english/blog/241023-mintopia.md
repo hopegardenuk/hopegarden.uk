@@ -27,6 +27,8 @@ The IntMintMint challenge is for schools. Each participating child receives a sp
 
 [Mint](https://en.wikipedia.org/wiki/Mentha) is a fascinating genus of plants of about a dozen or so species and hundreds of cultivars. They are easy to propagate and like rich, moist soils, which means they are ideal for growing in schools. They are also fragrant, familiar and floriferous, making them even more attractive to school children and pollinators.
 
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/w_1024/v1551293368/menthalongifolia-26419189537.jpg" alt="Hand holding rammed minty root structure from 9cm pot" caption="Mints are easy to propagate, here’s Horse Mint from wayback" >}}
+
 We have bought a whole range of [fruity mints](https://mintopia.bigcartel.com/product/connoisseur) for our work with Ysgol Cilgerran, and [tea mints](https://mintopia.bigcartel.com/product/beverage) for the Tea Bed in the Hope Garden, all from Si’s [Mintopia online shop](https://mintopia.bigcartel.com/) Here’s a full list: 
 
 ### Mint varieties
