@@ -1,6 +1,6 @@
 ---
-title: Nature ID hope project
-description: Together with Ysgol Cilgerran and West Wales Biodiversity Information Centre, we have made a grant enquiry for wildlife and nature identification equipment and training
+title: Prosiect gobaith ID natur
+description: Ar y cyd ag Ysgol Cilgerran a Chanolfan Gwybodaeth Bioamrywiaeth Gorllewin Cymru, rydym wedi holi am grant ar gyfer cyfarpar adnabod natur a hyfforddiant
 date: 2024-10-27T12:50:23Z
 author: Jake Rayson 
 tags: 
@@ -21,10 +21,6 @@ captions:
 draft: false
 ---
 
-Together with [West Wales Biodiversity Information Centre](https://www.wwbic.org.uk/), we’ve made a Expression of Interest for wildlife identification equipment and training for Ysgol Cilgerran from [Transition Bro Gwaun Community Climate Fund](https://transitionbrogwaun.org.uk/community-climate-fund/).
+Ar y cyd â [Chanolfan Gwybodaeth Bioamrywiaeth Gorllewin Cymru](https://www.wwbic.org.uk/), rydym wedi Mynegi Diddordeb mewn cael cyfarpar adnabod bywyd gwyllt a hyfforddiant ar gyfer Ysgol Cilgerran oddi wrth [Gronfa Hinsawdd Transition Bro Gwaun](https://transitionbrogwaun.org.uk/community-climate-fund/).
 
-It’s a brilliant project, equipping and training children and staff at the school to identify nature. They get to learn about plants, invertebrates, birds, mammals, fungi - what they eat and where they live. WWBIC get regular observations. The Hope Garden gets *used* on a regular basis, as an outdoor classroom. Which also means it gets *maintained*. 
-
-The cost of the equipment is about £300 and the half dozen workshops are costing about £700.
-
-We find out next March if we’re successful. In the meantime, I’m sharing the application details with other nature groups and initiatives, because [Welsh Water](https://www.dwrcymru.com/) have a [Citizen Science Support Programme](https://corporate.dwrcymru.com/en/community/environment/citizen-science-support-programme), with grants of up to £10,000. 
+Mae’n brosiect gwych sy’n darparu cyfarpar a hyfforddiant i blant a staff yn yr ysgol i allu adnabod natur. Maen nhw’n dysgu am blanhigion, creaduriaid di-asgwrn-cefn, adar, mamaliaid, ffyngau - beth maen nhw’n ei fwyya a ble maen nhw’n byw. Mae’r Ganolfan yn cael sylwadau rheolaidd a Gardd Gobaith yn cael ei defnyddio’n rheolaidd fel ystafell ddosbarth yn yr awyr agored. Sy’n golygu hefyd ei bod yn cael ei _chynnal._ Mae’r cyfarpar yn costio tua £300 a’r chwe gweithdy’n costio tua £700. Cawn wybod fis Mawrth nesaf a fyddwn wedi llwyddo. Yn y cyfamser, rwy’n rhannu manylion y cais gyda grwpiau a mentrau natur eraill, oherwydd mae gan [Dŵr Cymru Raglen Cefnogi Gwyddoniaeth y Bobl](https://www.dwrcymru.com/), gyda grantiau hyd at £10,000.
