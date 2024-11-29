@@ -9,7 +9,7 @@ tags:
   - Mintopia
   - MintChallenge
 categories: 
-  - News
+  - Newyddion
 images:
   - https://res.cloudinary.com/growdigital/image/upload/v1694126331/clifftop/mint-flower-hoverfly-230907.jpg
 alttext: 

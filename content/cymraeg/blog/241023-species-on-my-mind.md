@@ -8,7 +8,7 @@ tags:
   - species
   - GardenDesign
 categories: 
-  - Design
+  - Dylunio
 images:
   - https://res.cloudinary.com/hopegarden/image/upload/v1730032778/241027-aderyn-wwbic-screenshot.webp
 alttext: 

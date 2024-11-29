@@ -8,7 +8,7 @@ tags:
   - PerennialVeg
   - Workshops
 categories: 
-  - Workshops
+  - Gweithdai
 images:
   - https://res.cloudinary.com/hopegarden/image/upload/v1728814746/241012-jerusalem-artichoke-flower-steph-hafferty.jpg
 alttext: 
