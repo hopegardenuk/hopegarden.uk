@@ -25,6 +25,6 @@ The bad news is that we weren‘t successful in our grant application to [Transi
 
 The good news is that this application has been successful, and through talking to various people, the Hope Garden has managed to secure free grassland nature ID workshops from [Plantlife Cymru](https://www.plantlife.org.uk/about-us/plantlife-cymru/). We‘ve checked with Heritage Trust, who administer our grant, and they‘re supportive of us purchasing wildlife ID equipment for the school. 
 
-Next stop will be shopping at NHBS for the wildlife ID equipment, such as nets, lenses and inspection chambers.
+Next stop will be shopping at [NHBS](https://www.nhbs.com) for the wildlife ID equipment, such as nets, lenses and inspection chambers.
 
 Nadolig Llawen yn y wir!
