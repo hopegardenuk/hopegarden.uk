@@ -23,7 +23,7 @@ Fy mhrif waith arall yw bod yn Gynorthwyydd Bioamrywiaeth i Bartneriaeth Natur C
 
 Ar ôl y gweithdy ID bywyd gwyllt gyda’r dawnus Yusef Samari o Ganolfan Gwybodaeth Bioamrywiaeth Gorllewin Cymru ([WWBIC](https://www.wwbic.org.uk)), meddyliais y gallem ddefnyddio’r un syniadau ar gyfer Glaswelltir Ceredigion. Gallem greu partneriaeth rhwng perchnogion glaswelltir o fewn cyrraedd i’r ysgol, er mwyn cofnodi arsylwadau bywyd gwyllt yn rheolaidd.
 
-{{< figure src="https://res.cloudinary.com/hopegarden/image/upload/v1726511011/240913-yusef-ysgol-cilgerran-fleabane.jpg" alt="Plant ac oedolion yng nghwmni ecolegydd sy’n dangos ecoleg" caption”Gweithdy ID bywyd gwyllt Ysgol Cilgerran gyda Yusef yn ystod haf 2024” >}}
+{{< figure src="https://res.cloudinary.com/hopegarden/image/upload/v1726511011/240913-yusef-ysgol-cilgerran-fleabane.jpg" alt="Plant ac oedolion yng nghwmni ecolegydd sy’n dangos ecoleg" caption="Gweithdy ID bywyd gwyllt Ysgol Cilgerran gyda Yusef yn ystod haf 2024" >}}
 
 Mae’r cais hwn wedi golygu gweithio gyda rhai partneriaid rhyfeddol, gan gynnwys [Plantlife Cymru](https://www.plantlife.org.uk/about-us/plantlife-cymru/), [Ymddiriedolaeth Bywyd Gwyllt De a Gorllewin Cymru](https://www.welshwildlife.org), [The Buzz Club](https://www.thebuzzclub.uk) a [WWBIC](https://www.wwbic.org.uk). A chywais ddoe fod y cais wedi llwyddo, gan arwain at fwy fyth o syniadau ar gyfer prosiectau mwy cysylltiol a rhwydweithiol eto.
 
