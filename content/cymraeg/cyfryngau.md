@@ -2,7 +2,7 @@
 title: "Pecyn Cyfryngau Gardd Gobaith Cilgerran"
 description: "Pecyn Cyfryngau Gardd Gobaith Cilgerran"
 bg_image: "https://res.cloudinary.com/hopegarden/image/upload/v1719952740/title-poppy.webp"
-draft: false
+draft: true
 ---
 
 ## 1. Crynodeb
@@ -11,7 +11,7 @@ draft: false
 - **_Brawddeg_**: Gweithdy a man cyfarfod cymunedol croesawgar yng nghalon gardd goedwig bywyd gwyllt sy'n cysylltu pobl leol â natur a'i gilydd 💚 
 - **_Safle:_** Pen Y Foidr, Cilgerran, Sir Benfro [SA43 2TH]((https://w3w.co/present.purifier.canyons))
 - **_Gwefan_**: [hopegarden.uk](https://hopegarden.uk/)  
-### Disgrifiad byr  
+### Disgrifiad byr
 Ased cymunedol ar gyfer pobl Cilgerran a'r fro yw Gardd Gobaith. Ynddi, ceir ardal Cynulliad Cymunedol wedi'i gorchuddio i gynnal gweithdai a chyfarfodydd awyr agored. O'i hamgylch, ceir gardd a ddyluniwyd mewn ffordd ystyrlon, gyda chasgliad o lysiau lluosflwydd a llwyni bwytadwy, ynghyd â chyfoeth o flodau gwyllt cynhenid a ddewiswyd yn ofalus. Defnyddir planhigion cynhenid lle bo modd i roi bwyd i'r pryfed sydd wedi esblygu ochr yn ochr â nhw, ac mae cynefinoedd bywyd gwyllt ac arferion cynaliadwy yn rhan o seilwaith yr ardd.
 ## 2. Nodau
 1. Hyrwyddo planhigion cynhenid a chynefinoedd bywyd gwyllt ar gyfer gerddi
@@ -19,7 +19,7 @@ Ased cymunedol ar gyfer pobl Cilgerran a'r fro yw Gardd Gobaith. Ynddi, ceir ard
 3. Arddangos newidiadau syml i sicrhau bod gerddi yn fwy hygyrch i fywyd gwyllt ac i bobl
 4. Darparu pecyn cymorth trwyddedig y gall cymunedau ei ddefnyddio i greu Gerddi Gobaith
 5. Hyrwyddo Cynulliadau Cymunedol ar gyfer democratiaeth fwy uniongyrchol
-## 3. Addunedau 
+## 3. Addunedau
 - Defnyddio planhigion di-fawn yn unig
 - Cynnwys planhigion cynhenid, a'r rheini wedi'u tyfu'n lleol lle bynnag y bo modd
 - Tyfu planhigion bwytadwy ar gyfer y gymuned
@@ -29,7 +29,7 @@ Ased cymunedol ar gyfer pobl Cilgerran a'r fro yw Gardd Gobaith. Ynddi, ceir ard
 - Defnyddio eitemau plastig sydd ar gael eisoes (potiau ac ati) yn hytrach na phrynu rhai newydd
 - Creu gofod heb alcohol na hapchwarae i helpu unrhyw un sy'n gaeth i'r pethau hyn
 ## 4. Cyfryngau cymdeithasol
-- _Rhithffurf:_ ![Llun agos o lygad y dydd](https://res.cloudinary.com/hopegarden/image/upload/f_auto,h_40/v1720377562/190827-daisy-Gzen92.webp) [Daisy](https://res.cloudinary.com/hopegarden/image/upload/v1720377562/190827-daisy-Gzen92.webp) cydnabyddiaeth [Gzen92](https://commons.wikimedia.org/wiki/User:Gzen92) ar [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:P%C3%A2querette_(Bellis_perennis)_(2).jpg)
+- _Rhithffurf:_ ![Llun agos o lygad y dydd](https://res.cloudinary.com/hopegarden/image/upload/f_auto,h_40/v1720377562/190827-daisy-Gzen92.webp) [Daisy](https://res.cloudinary.com/hopegarden/image/upload/v1720377562/190827-daisy-Gzen92.webp) cydnabyddiaeth Gzen92 ar Wikimedia Commons
 - _Baner:_ ![Llun o'r awyr](https://res.cloudinary.com/hopegarden/image/upload/f_auto,w_40/v1720378407/240224-aerial-wide-169.webp) [Safle Cilgerran o'r awyr](https://res.cloudinary.com/hopegarden/image/upload/v1720378407/240224-aerial-wide-169.webp)
 - _Disgrifiad:_ #CynulliadCymunedol wrth galon #GarddGoedwig #BywydGwyllt, #PecynCymorth ar gyfer yr #ArgyfwngNatur a'r #ArgyfwngHinsawdd  💚 🌳 ✊
 - _Hashnodau:_ #CynulliadCymunedol #BywydGwyllt #GarddGoedwig #GarddioBywydGwyllt #garddio #ArgyfwngNatur #ArgyfwngHinsawdd
