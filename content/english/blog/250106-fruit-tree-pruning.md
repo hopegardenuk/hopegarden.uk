@@ -1,7 +1,7 @@
 ---
 title: Fruit tree pruning workshop
 description: Join Martin Hayes, orchardist to the stars 🤩, for a pruning workshop to remember in Cilgerran, north Pembrokeshire
-date: 2025-01-05T21:12:19Z
+date: 2025-01-04T21:12:19Z
 author: Jake Rayson 
 tags: 
   - HopeGarden
