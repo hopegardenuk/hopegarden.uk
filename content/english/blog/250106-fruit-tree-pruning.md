@@ -38,3 +38,17 @@ Martin really is an orchardist to the stars, he has worked with the Spencer fami
 
 {{< youtube vCo0yfk8x6Q }} 
 
+## Agenda
+
+- 10:00 - 10:05  
+Meet Hope Garden
+- 10:05 - 10:45  
+Prune fruit trees by Hope Garden
+- 10:45 - 11:30  
+Prune Fruit and Nut Community Garden trees
+- 11:30 - 12:20  
+Prune village park Parc Y Pwmp trees
+- 12:30 - 13:15  
+Lunch (soup) at Wildlife Centre cafe
+- 13:15 - 14:00  
+Pruning Wildlife Centre orchard
