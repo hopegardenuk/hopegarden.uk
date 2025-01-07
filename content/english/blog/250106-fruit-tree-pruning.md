@@ -27,7 +27,7 @@ Visit the [**Eventbrite workshop page**](https://www.eventbrite.co.uk/e/fruit-tr
 
 Please bring your own pruning tools (secateurs, pruning saw) if possible. And bring warm clothing, gardening gloves and waterproof footwear. There will be some tools available for those without their own. Please be prepared to help tidy up the fallen branches as well!
 
-{{< figure src="https://res.cloudinary.com/hopegarden/image/upload/v1736279332/250107-fruit-trees-fruit-nut.jpg" alt="Fruit trees in overgrown grass" caption="Fruit trees at Fruit & Nut community garden" >}}
+{{< figure src="https://res.cloudinary.com/hopegarden/image/upload/v1736279332/250107-fruit-trees-fruit-nut.jpg" alt="Fruit trees in overgrown grass" caption="Fruit trees at Fruit & Nut community garden, Cilgerran, north Pembrokeshire" >}}
 
 1. Meet at the [Hope Garden](https://maps.app.goo.gl/bXk5oNay4oK8Rjxm8) by Pen Y Foidr allotments 10am 
 2. It would be good if you could park in the [Cilgerran Lower Car Park](https://maps.app.goo.gl/wJeDZ8Rh2WKiBNUQ7) and then walk, as there isn't much parking at the allotments
