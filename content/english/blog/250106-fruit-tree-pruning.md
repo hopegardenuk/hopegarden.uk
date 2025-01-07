@@ -21,13 +21,13 @@ draft: false
 
 Martin Hayes has a *lifetime‘s* experience of planting and pruning fruit trees. In this **free** workshop running from 10am , he will show you the basics of how to prune and why, and also when to prune. There are four sites to visit, so there will be plenty of opportunity for you to practise what he preaches.
 
-Visit the [Eventbrite workshop page](https://www.eventbrite.co.uk/e/fruit-tree-pruning-workshop-tickets-1005838840047) for tickets.
+Visit the [**Eventbrite workshop page**](https://www.eventbrite.co.uk/e/fruit-tree-pruning-workshop-tickets-1005838840047) for tickets.
 
 {{< youtube iGRTmQHSa5A >}}
 
 Please bring your own pruning tools (secateurs, pruning saw) if possible. And bring warm clothing, gardening gloves and waterproof footwear. There will be some tools available for those without their own. Please be prepared to help tidy up the fallen branches as well!
 
-{< figure src="https://res.cloudinary.com/hopegarden/image/upload/v1736279332/250107-fruit-trees-fruit-nut.jpg" alt="Fruit trees in overgrown grass" caption="Fruit trees at Fruit & Nut community garden" >}
+{{< figure src="https://res.cloudinary.com/hopegarden/image/upload/v1736279332/250107-fruit-trees-fruit-nut.jpg" alt="Fruit trees in overgrown grass" caption="Fruit trees at Fruit & Nut community garden" >}}
 
 1. Meet at the [Hope Garden](https://maps.app.goo.gl/bXk5oNay4oK8Rjxm8) by Pen Y Foidr allotments 10am 
 2. It would be good if you could park in the [Cilgerran Lower Car Park](https://maps.app.goo.gl/wJeDZ8Rh2WKiBNUQ7) and then walk, as there isn't much parking at the allotments
