@@ -1,6 +1,6 @@
 ---
 title: Fruit tree pruning workshop
-description: Join Martin Hayes, orchardist to the stars, for a pruning workshop to remember in Cilgerran, north Pembrokeshire
+description: Join Martin Hayes, orchardist to the stars 🤩, for a pruning workshop to remember in Cilgerran, north Pembrokeshire
 date: 2025-01-04T21:12:19Z
 author: Jake Rayson 
 tags: 
@@ -37,9 +37,9 @@ Please bring your own pruning tools (secateurs, pruning saw) if possible. And br
 6. Free vegan & gluten free soup, bread, hot drink lunch at [Wildlife Centre](https://maps.app.goo.gl/yoSxma6m5x5cE8qe9). Lifts available
 7. Pruning the fruit trees at the [Welsh Wildlife Centre](https://maps.app.goo.gl/yoSxma6m5x5cE8qe9). 
 
-Martin really *is* an orchardist to the stars 🤩, he has worked with the Spencer family of Althorp, on their walled garden.
+Martin really is an orchardist to the stars, he has worked with the Spencer family of Althorp, on their walled garden.
 
-{{< youtube vCo0yfk8x6Q }} 
+{{< youtube vCo0yfk8x6Q >}} 
 
 ## Agenda
 
