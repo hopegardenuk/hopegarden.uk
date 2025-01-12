@@ -32,12 +32,12 @@ BlueGreenCymru are our partners in creating the canvas covered area. They have y
         - *7m diagonal 9.9m*
     - Segments 5m
 
-[![CAD screenshot](https://res.cloudinary.com/hopegarden/image/upload/w_600/v1736714420/250112-cad-canvas-no-measures.webp)](https://res.cloudinary.com/hopegarden/image/upload/v1736714420/250112-cad-canvas-no-measures.webp)
+[![CAD screenshot](https://res.cloudinary.com/hopegarden/image/upload/w_600/v1736714420/250112-cad-canvas-no-measures.webp)](https://res.cloudinary.com/hopegarden/image/upload/v1736714420/250112-cad-canvas-no-measures.webp)  
 _Click for hi-res_
 
-[![CAD screenshot](https://res.cloudinary.com/hopegarden/image/upload/w_600/v1736714420/250112-cad-canvas-inner-circle.webp)](https://res.cloudinary.com/hopegarden/image/upload/v1736714420/250112-cad-canvas-inner-circle.webp)
+[![CAD screenshot](https://res.cloudinary.com/hopegarden/image/upload/w_600/v1736714420/250112-cad-canvas-inner-circle.webp)](https://res.cloudinary.com/hopegarden/image/upload/v1736714420/250112-cad-canvas-inner-circle.webp)  
 _Click for hi-res_
 
-[![CAD screenshot](https://res.cloudinary.com/hopegarden/image/upload/w_600/v1736714788/250112-cad-canvas-squares.webp)](https://res.cloudinary.com/hopegarden/image/upload/v1736714788/250112-cad-canvas-squares.webp)
+[![CAD screenshot](https://res.cloudinary.com/hopegarden/image/upload/w_600/v1736714788/250112-cad-canvas-squares.webp)](https://res.cloudinary.com/hopegarden/image/upload/v1736714788/250112-cad-canvas-squares.webp)  
 _Click for hi-res_
 
