@@ -13,6 +13,8 @@ status : "Design"
 
 BlueGreenCymru are our partners in creating the canvas covered area. They have years of experience creating outdoor workshops space.
 
+CAD files for Hope Garden are here [github.com/hopegardenuk/hope](https://github.com/hopegardenuk/hope)
+
 - Poles
     - Telegraph poles 5m
     - Chestnut poles 2m
