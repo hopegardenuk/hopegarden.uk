@@ -15,6 +15,8 @@ BlueGreenCymru are our partners in creating the canvas covered area. They have y
 
 CAD files for Hope Garden are here [github.com/hopegardenuk/hope](https://github.com/hopegardenuk/hope)
 
+{< figure src="https://res.cloudinary.com/hopegarden/image/upload/v1736874679/250114-cad-canvas-shelter-screenshot.webp" alt="Screenshot of downloadable black and white PDF" caption="The canvas shelter PDF on the Hope Garden repository" >}
+
 ## Measurements
 
 - Poles
