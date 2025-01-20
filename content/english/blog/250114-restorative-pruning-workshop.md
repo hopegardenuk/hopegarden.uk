@@ -33,7 +33,7 @@ I have been on several workshops but I still took lots of notes, there is always
 
 The key points for me were:
 
-{< figure src="https://res.cloudinary.com/hopegarden/image/upload/v1736626429/250111-martin-pruning-fruitnut-mulch.webp" alt="People gathered around a young fruit tree" caption="Removing cardboard from the mulch around the base of a tree" >}
+{{< figure src="https://res.cloudinary.com/hopegarden/image/upload/v1736626429/250111-martin-pruning-fruitnut-mulch.webp" alt="People gathered around a young fruit tree" caption="Removing cardboard from the mulch around the base of a tree" >}}
 
 - It‘s *all* about redirecting the flow of sap to change the tree
 - Only dig a planting hole as big as the roots
@@ -58,5 +58,5 @@ We only managed to prune a few fruit trees on each site, so Martin has kindly ag
 
 We had lovely hot drink, spicey soup and fresh bread at the cafe. And then some more pruning and the most delicious cake baked by Jude and delivered by Callum. Thank you all for a really informative and engaging day.
 
-{{< figure src="https://res.cloudinary.com/hopegarden/image/upload/v1736626429/250111-martin-pruning-wildlife-centre-martin-cake.webp" alt="Man pointing at cake on the floor" caption="Tada! Cake! Thank you Jude and Callum!" >}}
+{{< figure src="https://res.cloudinary.com/hopegarden/image/upload/v1736626429/250111-martin-pruning-wildlife-centre-martin-cake.webp" alt="Man pointing at cake on the floor" caption="Tada! Martin likes cake! Thank you Jude and Callum." >}}
 
