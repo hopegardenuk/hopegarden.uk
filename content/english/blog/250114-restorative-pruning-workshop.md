@@ -60,3 +60,10 @@ We had lovely hot drink, spicey soup and fresh bread at the cafe. And then some 
 
 {{< figure src="https://res.cloudinary.com/hopegarden/image/upload/v1736626429/250111-martin-pruning-wildlife-centre-martin-cake.webp" alt="Man pointing at cake on the floor" caption="Tada! Martin likes cake! Thank you Jude and Callum." >}}
 
+## Bonus videos
+
+### Restorative pruning on horizontal apple tree
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gYvsZZkoB2s?si=TA0UUfNyJ5DhlMzz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Restorative pruning on near horizontal apple tree
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L4v6qRqzPS0?si=E5-DlINIjDiZMUI1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
