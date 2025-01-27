@@ -28,11 +28,6 @@ The Hope Garden is a community asset for the people of Cilgerran and the surroun
 - Create an accessible garden with wheelchair access, hearing loops, etc. 
 - Using only existing plastic items (pots, etc.) instead of buying new
 - Alcohol free, gambling free space, to help anyone with an addiction
-## 4. Social media
-- _Avatar:_ ![Daisy closeup](https://res.cloudinary.com/hopegarden/image/upload/f_auto,h_40/v1720377562/190827-daisy-Gzen92.webp) [Daisy](https://res.cloudinary.com/hopegarden/image/upload/v1720377562/190827-daisy-Gzen92.webp) credit [Gzen92](https://commons.wikimedia.org/wiki/User:Gzen92) on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:P%C3%A2querette_(Bellis_perennis)_(2).jpg)
-- _Banner:_ ![Aerial photo](https://res.cloudinary.com/hopegarden/image/upload/f_auto,w_40/v1720378407/240224-aerial-wide-169.webp) [Aerial of Cilgerran site](https://res.cloudinary.com/hopegarden/image/upload/v1720378407/240224-aerial-wide-169.webp)
-- _Description:_ #CommunityAssembly at the heart of a #wildlife #ForestGarden, a #toolkit for the #NatureEmergency & #ClimateEmergency  💚 🌳 ✊
-- _Hashtags:_ #CommunityAssembly #wildlife #ForestGarden #WildlifeGardening #gardening #NatureEmergency #ClimateEmergency
 ### Posts
 - Mastodon [climatejustice.social/@hopegarden](https://climatejustice.social/@hopegarden)
 - Twitter [twitter.com/hopegardenuk](https://twitter.com/hopegardenuk)
@@ -56,7 +51,6 @@ The Hope Garden is a community asset for the people of Cilgerran and the surroun
 - `4d4d4d` Grey 
 ##### Avatar
 [![Close-up of daisy](https://res.cloudinary.com/hopegarden/image/upload/w_240//v1720377562/190827-daisy-Gzen92.webp)](https://res.cloudinary.com/hopegarden/image/upload/v1720377562/190827-daisy-Gzen92.webp)
-*[Click for hi-res]([https://res.cloudinary.com/hopegarden/image/upload/v1720377562/190827-daisy-Gzen92.webp](https://res.cloudinary.com/hopegarden/image/upload/v1720377562/190827-daisy-Gzen92.webp)). Credit: Gzen92 Wikimedia Commons*
 ##### Banner
 [![Aerial photo of marshy site](https://res.cloudinary.com/hopegarden/image/upload/w_400/v1720378407/240224-aerial-wide-169.webp)](https://res.cloudinary.com/hopegarden/image/upload/v1720378407/240224-aerial-wide-169.webp)
 _[Click for hi-res](https://res.cloudinary.com/hopegarden/image/upload/v1720378407/240224-aerial-wide-169.webp)_
