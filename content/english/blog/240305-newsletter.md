@@ -2,20 +2,20 @@
 title: Hope Garden Newsletter — Tue 5th Mar 🤸🏽
 description: In this week’s newsletter, the importance of play, the joy of habitat and the ticking of the clock
 date: 2024-03-05T09:00:00+00:00
-author: Jake Rayson 
-tags: 
+author: Jake Rayson
+tags:
   - News
   - Newsletter
   - Biodiversity
   - Play
   - Issue5
-categories: 
+categories:
   - newsletter
-images: 
+images:
   - https://res.cloudinary.com/growdigital/image/upload/v1709499330/240301-willow-sculpture-hare-snow.jpg
-captions: 
+captions:
   - Willow sculpture of a hare by Michelle Cain at Rhosygilwen Mansion, Pembrokeshire
-alttext: 
+alttext:
   - Oversized willow sculpture of hare, with snow on its head
 draft: false
 ---
@@ -95,11 +95,12 @@ Bonus Rebecca McMackin quote, which I think is particularly relevant to the Comm
 
 {{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1709499330/240303-elf-cup.jpg" alt="Brilliant red fungi on a mossy log" caption="Scarlet Elf Cup (Sarcoscypha coccinea) on a local log." >}}
 
-{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1709499330/240303-pennywort.jpg" alt="Round fleshy leaves of plant growing out of slate crevice" caption="Navelwort (Umbilicus rupestris) growing well in the warm wet weather. Edible succulent leaves, glorious creamy flower spikes later in the year. Often found in local slate walls in a shadier spot." >}}
+![Round fleshy leaves of plant growing out of slate crevice](https://res.cloudinary.com/growdigital/image/upload/v1709499330/240303-pennywort.jpg)
+_Navelwort (Umbilicus rupestris) growing well in the warm wet weather. Edible succulent leaves, glorious creamy flower spikes later in the year. Often found in local slate walls in a shadier spot._
 
 ## 4. Hope
 
-> Once they won direct control of the land, free peasants were able to maintain a more reciprocal relationship with nature: they managed pastures and commons collectively, through democratic assemblies, with careful rules that regulated tillage, grazing and forest use. <br><br>_~ Jason Hickel, pp44 Less is More_
+> Once they won direct control of the land, free peasants were able to maintain a more reciprocal relationship with nature: they managed pastures and commons collectively, through democratic assemblies, with careful rules that regulated tillage, grazing and forest use.<br><br>_~ Jason Hickel, pp44 Less is More_
 
 I’ve started reading this book, as it’s been recommended by a few friends. It is a very accessible introduction as to why our economic systems work in the ecologically ruinous way that they do. And it’s hopeful, insofar as it is calling out for engagement and change. 
 
