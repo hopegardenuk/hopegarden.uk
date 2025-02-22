@@ -28,8 +28,7 @@ As it says in the footer on the website, the Hope Garden is
 
 And what we’re doing is to create that local place with low-cost materials, that local place being a canvas shelter with a storage unit for benches and to hang up coats. It‘s an *outdoor classroom*, a *workshop space*, a *social gathering out-of-the-rain* refuge for the allotmenteers. And all of these uses are focussed around learning about wildlife.
 
-{{< figure src="https://res.cloudinary.com/hopegarden/image/upload/v1726511010/240913-ysgol-cilgerran-yusef-intro.jpg
-" alt="School children gathered around ecologist" caption="Ysgol Cilgerran students gather around ecologist Yusef Samari at the Hope Gardne wildlife ID workshop" >}}
+{{< figure src="https://res.cloudinary.com/hopegarden/image/upload/v1726511010/240913-ysgol-cilgerran-yusef-intro.jpg" alt="School children gathered around ecologist" caption="Ysgol Cilgerran students gather around ecologist Yusef Samari at the Hope Gardne wildlife ID workshop" >}}
 
 The school is running workshops aligned with the [Grassland Nature ID project](https://glaswelltirceredigion.cymru/grassland-nature-id/), and will hopefully use the space on a regular basis. They also helped *design* the space too, with a design workshop last year, and they‘ll be running the [IntMintMint Challenge](https://hopegarden.uk/blog/241023-mintopia/) too with the hex beds.
 
@@ -47,8 +46,7 @@ Here‘s a screenshot of the PDF for the canvas shelter (it’s still a work in 
 
 And here‘s a screenshot of the CAD I’ve creatd for the storage unit made out of pallets, stakes and [Corroline roofing sheets](https://www.arielplastics.com/en-gb/products/bitumen-roofing-sheet/coroline-sheet-and-accessories/coroline-bitumen-roofing-sheet.aspx):
 
-{{< figure src="https://res.cloudinary.com/hopegarden/image/upload/v1739870961/250218-storage-unit-cad-pallets.jpg
-" alt="CAD plan of pallet storage unit" caption="Basic but functional" >}}
+{{< figure src="https://res.cloudinary.com/hopegarden/image/upload/v1739870961/250218-storage-unit-cad-pallets.jpg" alt="CAD plan of pallet storage unit" caption="Basic but functional" >}}
 
 I feel bad because originally the storage unit was going to be a beautiful round wood structure with a green roof made by the very talented woodworker [David Hunter](https://thecoppiceplot.com). But it was just too expensive, in time and materials, so I‘ve asked him to make something far more prosaic.
 
