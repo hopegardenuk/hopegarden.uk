@@ -40,18 +40,16 @@ I would like to run forest garden workshops later in the year, to bring some mon
 
 We‘re very lucky to have Phil Blackwood from [BlueGreenCymru](https://www.bluegreencymru.com) building the canvas shelter; they run numerous well-being outdoor workshops, so are ideally positioned to know what is required from the space. 
 
+The plan is to have plans under the [toolkit](https://hopegarden.uk/toolkit/) section, so that the low-cost canvas shelter and pallet storage unit can be easily built by other community groups.
 
+Here‘s a screenshot of the PDF for the canvas shelter (it’s still a work in progress!)
 
+{{< figure src="https://res.cloudinary.com/hopegarden/image/upload/v1740237607/250222-canvas-shelter-pdf-screenshot.webp" alt="Screenshot of downloadable black and white PDF" caption="The canvas shelter PDF on the Hope Garden repository" >}}
 
-e
-canvas shelter 
-storage unit
-outdoor classroom
+And here‘s a screenshot of the CAD I’ve creatd for the storage unit made out of pallets, stakes and [Corroline roofing sheets](https://www.arielplastics.com/en-gb/products/bitumen-roofing-sheet/coroline-sheet-and-accessories/coroline-bitumen-roofing-sheet.aspx):
 
-https://res.cloudinary.com/hopegarden/image/upload/v1726511009/240913-grasshopper-net.jpg
+{{< figure src="https://res.cloudinary.com/hopegarden/image/upload/v1739870961/250218-storage-unit-cad-pallets.jpg
+" alt="CAD plan of pallet storage unit" caption="Basic but functional" >}}
 
-
-https://res.cloudinary.com/hopegarden/image/upload/v1739870961/250218-storage-unit-cad-pallets.jpg
-
-https://res.cloudinary.com/hopegarden/image/upload/v1740228679/250124-storage-unit-roundwood-front-sketch-david-hunter.jpg
+I feel bad because originally the storage unit was going to be a beautiful round wood structure with a green roof made by the very talented woodworker [David Hunter](https://thecoppiceplot.com). But it was just too expensive, in time and materials, so I‘ve asked him to make something far more prosaic.
 
