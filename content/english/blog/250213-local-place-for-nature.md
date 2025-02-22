@@ -24,8 +24,7 @@ As it says in the footer on the website, the Hope Garden is
 
 > Funded by [Local Places for Nature](https://www.heritagefund.org.uk/funding/local-places-nature), delivered by [National Lottery Heritage Fund](https://www.heritagefund.org.uk/) in partnership with the [Welsh Government](https://www.gov.wales/local-places-nature-programme)
 
-{{< figure src="https://res.cloudinary.com/hopegarden/image/upload/v1740228408/250222-canvas-shelter-tyres-phil-blackwood.jpg
-" alt="Canvas tent shelter" caption="Outdoor well-being workshop run by BlueGreenCymru" >}}
+{{< figure src="https://res.cloudinary.com/hopegarden/image/upload/v1740228408/250222-canvas-shelter-tyres-phil-blackwood.jpg" alt="Canvas tent shelter" caption="Outdoor well-being workshop run by BlueGreenCymru" >}}
 
 And what we’re doing is to create that local place with low-cost materials, that local place being a canvas shelter with a storage unit for benches and to hang up coats. It‘s an *outdoor classroom*, a *workshop space*, a *social gathering out-of-the-rain* refuge for the allotmenteers. And all of these uses are focussed around learning about wildlife.
 
