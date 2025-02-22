@@ -17,7 +17,7 @@ alttext:
   - Garden landscaping in progress, raised beds and 2 prominent telegraph poles
 captions: 
   - Telegraph poles to hang a canvas shelter from
-draft: true
+draft: false
 ---
 
 As it says in the footer on the website, the Hope Garden is 

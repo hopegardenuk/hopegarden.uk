@@ -14,12 +14,12 @@ tags:
 categories: 
   - Musings
 images:
-  - 
+  - https://res.cloudinary.com/growdigital/image/upload/w_1200/v1562357887/meadowsweet-EF800A69.jpg
 alttext: 
-  - 
+  - White flowers, yellow flowers, purple grass flowers in the background
 captions: 
-  - 
-draft: true
+  - A diversity of productive flowers and native species and a hedge
+draft: false
 ---
 
 These are the three principles I like to apply when thinking about wildlife forest garden design and ecology.
