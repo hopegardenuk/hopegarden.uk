@@ -15,7 +15,7 @@ BlueGreenCymru are our partners in creating the canvas covered area. They have y
 
 CAD files for Hope Garden are here [github.com/hopegardenuk/hope](https://github.com/hopegardenuk/hope)
 
-{{< figure src="https://res.cloudinary.com/hopegarden/image/upload/v1736874679/250114-cad-canvas-shelter-screenshot.webp" alt="Screenshot of downloadable black and white PDF" caption="The canvas shelter PDF on the Hope Garden repository" >}}
+{{< figure src="https://res.cloudinary.com/hopegarden/image/upload/v1740237607/250222-canvas-shelter-pdf-screenshot.webp" alt="Screenshot of downloadable black and white PDF" caption="The canvas shelter PDF on the Hope Garden repository" >}}
 
 ## Measurements
 
@@ -38,12 +38,9 @@ CAD files for Hope Garden are here [github.com/hopegardenuk/hope](https://github
         - *7m diagonal 9.9m*
     - Segments 5m
 
-[![CAD screenshot](https://res.cloudinary.com/hopegarden/image/upload/w_600/v1736714420/250112-cad-canvas-no-measures.webp)](https://res.cloudinary.com/hopegarden/image/upload/v1736714420/250112-cad-canvas-no-measures.webp)  
+[![CAD screenshot](https://res.cloudinary.com/hopegarden/image/upload/v1740237142/250222-cad-canvas-no-measures.webp)](https://res.cloudinary.com/hopegarden/image/upload/v1740237142/250222-cad-canvas-no-measures.webp)  
 _Click for hi-res_
 
-[![CAD screenshot](https://res.cloudinary.com/hopegarden/image/upload/w_600/v1736714420/250112-cad-canvas-inner-circle.webp)](https://res.cloudinary.com/hopegarden/image/upload/v1736714420/250112-cad-canvas-inner-circle.webp)  
-_Click for hi-res_
-
-[![CAD screenshot](https://res.cloudinary.com/hopegarden/image/upload/w_600/v1736714788/250112-cad-canvas-squares.webp)](https://res.cloudinary.com/hopegarden/image/upload/v1736714788/250112-cad-canvas-squares.webp)  
+[![CAD screenshot](https://res.cloudinary.com/hopegarden/image/upload/v1740237143/250222-cad-canvas-squares.webp)](https://res.cloudinary.com/hopegarden/image/upload/v1740237143/250222-cad-canvas-squares.webp)  
 _Click for hi-res_
 

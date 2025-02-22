@@ -15,3 +15,11 @@ captions:
   - 
 draft: true
 ---
+
+
+3 principles
+
+1. Structural complexity
+2. Native species diversity
+3. Low impact productivity
+
