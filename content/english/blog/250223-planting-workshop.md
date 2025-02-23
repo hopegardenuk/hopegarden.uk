@@ -1,6 +1,6 @@
 ---
 title: Planting workshop
-description: 
+description: Very handy, and very wet, tips from the fruit tree planting workshop 
 date: 2025-02-23T14:58:45Z
 author: Jake Rayson 
 tags: 
@@ -58,3 +58,22 @@ The trees came with cardboard guards, but to be honest, these are starting come 
 
 I also hammered in some stakes about a foot away from the tree, as there will be a mini-tractor and mower coming down the track in August time, when the grass is tall and the trees will be hidden from view. A wooden stake will help focus the driver‘s attention!
 
+### Videos
+
+#### 1. Dig the smallest hole
+{{< youtube Y0lb-RcLH4E >}}
+
+#### 2. Point the taproot windward
+{{< youtube jwCzGeZwu2g >}}
+
+#### 3. Oi, Leeds, the smallest hole!
+{{< youtube GfQcec5lG-Q >}}
+
+#### 4. Why trees are trimmed
+{{< youtube BojO2jMohTk >}}
+
+#### 5. Protect from mowing
+{{< youtube TuGx0HZOs4c >}}
+
+#### 6. Tree guards
+{{< youtube SRoo7PiAEq0 >}}
