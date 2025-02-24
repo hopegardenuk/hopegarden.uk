@@ -22,11 +22,11 @@ draft: false
 
 The Hope Garden landscaping isn’t quite finished, so we‘re unable to plant it up yet. Luckily, [Pen Y Foidr allotments](https://ffynnon.org.uk/penyfoidr/) let us plant their Welsh varieties of apple, plum, damson and pear, along the northern hedge just to the rear of the Hope Garden.
 
-The weather was **appalling**, high winds and heavy, driving rain. Out of the original twelve people signed, only Nina could make it 💪. We would have postponed but the trees have been in a bag for over week and they needed planting out.
+The weather was **appalling**, high winds and heavy, driving rain. Out of the original twelve people who signed up, only Nina could make it 💪. We would have postponed but the trees have been in a bag for over week and they needed planting out.
 
 {{< figure src="https://res.cloudinary.com/hopegarden/image/upload/v1740324592/250223-weather-map-cilgerran-raining.webp" alt="Screenshot of rainy weather map" caption="Weather, very wet, very windy" >}}
 
-What we have done is a series of short videos, to capture the key points of planting fruit trees:
+What we have done is a series of short videos, to capture these **three key points** of planting fruit trees:
 
 1. Only dig a hole *just* big enough for the roots. No need to dig a big hole, nor a square hole, definitely don’t put compost on it.
 2. Point the main root to where the prevailing wind comes from. This stimulates growth in the root and anchors the whole tree.
@@ -66,14 +66,17 @@ I also hammered in some stakes about a foot away from the tree, as there will be
 #### 2. Point the taproot windward
 {{< youtube jwCzGeZwu2g >}}
 
-#### 3. Oi, Leeds, the smallest hole!
+#### 3. Oi, [Leeds](https://www.bbc.co.uk/news/articles/cj6z47eyw00o), the smallest hole!
 {{< youtube GfQcec5lG-Q >}}
 
 #### 4. Why trees are trimmed
 {{< youtube BojO2jMohTk >}}
 
-#### 5. Protect from mowing
+#### 5. When to stake
+{{< youtube AqxutfOdFrg >}}
+
+#### 6. Protect from mowing
 {{< youtube TuGx0HZOs4c >}}
 
-#### 6. Tree guards
+#### 7. Tree guards
 {{< youtube SRoo7PiAEq0 >}}
