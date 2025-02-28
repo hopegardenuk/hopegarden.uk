@@ -1,6 +1,6 @@
 ---
 title: A Local Place for Nature
-description: 
+description: The Hope Garden is a local place in Cilgerran for lots of nature
 date: 2025-02-18T08:08:20Z
 author: Jake Rayson 
 tags: 
@@ -22,7 +22,6 @@ draft: false
 
 As it says in the footer on the website, the Hope Garden is “Funded by [Local Places for Nature](https://www.heritagefund.org.uk/funding/local-places-nature), delivered by [National Lottery Heritage Fund](https://www.heritagefund.org.uk/) in partnership with the [Welsh Government](https://www.gov.wales/local-places-nature-programme)“
 
-
 And what we’re doing is to create that local place with low-cost materials, that local place being a canvas shelter with a storage unit for benches and to hang up coats. It‘s an *outdoor classroom*, a *workshop space*, a *social gathering out-of-the-rain* refuge for the allotmenteers. And all of these uses are focussed around learning about wildlife.
 
 {{< figure src="https://res.cloudinary.com/hopegarden/image/upload/v1740228408/250222-canvas-shelter-tyres-phil-blackwood.jpg" alt="Canvas tent shelter" caption="Outdoor well-being workshop run by BlueGreenCymru" >}}
@@ -35,8 +34,7 @@ The school is running workshops aligned with the [Grassland Nature ID project](h
 
 I would like to run forest garden workshops later in the year, to bring some money in to cover running costs of [Garden Wild Plants CIC](https://gardenwild.org.uk).
 
-
-#We‘re very lucky to have Phil Blackwood from [BlueGreenCymru](https://www.bluegreencymru.com) building the canvas shelter; they run numerous well-being outdoor workshops, so are ideally positioned to know what is required from the space. 
+We‘re very lucky to have Phil Blackwood from [BlueGreenCymru](https://www.bluegreencymru.com) building the canvas shelter; they run numerous well-being outdoor workshops, so are ideally positioned to know what is required from the space. 
 
 The plan is to have plans under the [toolkit](https://hopegarden.uk/toolkit/) section, so that the low-cost canvas shelter and pallet storage unit can be easily built by other community groups.
 

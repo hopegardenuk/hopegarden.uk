@@ -50,6 +50,6 @@ What this means is **use native plants where possible**, in bulk eg as ground co
 
 In the absence of large herbivores, diversity requires humans to make low impact interventions. Take the case of the wooded meadow, which has both structural complexity *and* low impact land management, and they are amongst the [most biodiverse landscapes in the world](https://grwd.cc/paper-when-culture-supports-biodiversity).
 
-{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1725903800/240828-wood-meadow.jpg" alt="Wooded meadow" caption="Estonian wood meadow, immensely diverse" >}}
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1725903800/240828-wood-meadow.jpg" alt="Wooded meadow" caption="Estonian wood meadow, immensely diverse & productive" >}}
 
 What this means is that *humans can be a force for good*, and balanced interventions can be beneficial.
