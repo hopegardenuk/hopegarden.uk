@@ -1,21 +1,21 @@
 ---
 title: Planting workshop
-description: Very handy, and very wet, tips from the fruit tree planting workshop 
+description: Very handy, and very wet, tips from the fruit tree planting workshop
 date: 2025-02-23T14:58:45Z
-author: Jake Rayson 
-tags: 
+author: Jake Rayson
+tags:
   - HopeGarden
   - Planting
   - ForestGarden
   - Orchard
   - Trees
-categories: 
+categories:
   - Workshops
 images:
   - https://res.cloudinary.com/hopegarden/image/upload/v1740324060/250223-martin-digging.jpg
-alttext: 
+alttext:
   - Man in wet waterproofs digging hole for tree
-captions: 
+captions:
   - Martin Hayes digging a tree hole (just big enough for the roots!) in the driving rain
 draft: false
 ---

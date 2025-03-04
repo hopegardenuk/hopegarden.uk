@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4e6f58f998839054",
+        "id": "542a4c7411d65e1f",
         "type": "tabs",
         "children": [
           {
-            "id": "6e01a25d671e1ce1",
+            "id": "e4b459ebb5df510e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/newsletter.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -38,8 +36,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +55,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +65,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/newsletter.md",
+                "file": "content/english/blog/250223-planting-workshop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +98,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 250223-planting-workshop"
             }
           },
           {
@@ -102,10 +109,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/newsletter.md",
+                "file": "content/english/blog/250223-planting-workshop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 250223-planting-workshop"
             }
           },
           {
@@ -115,8 +124,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/newsletter.md"
-              }
+                "file": "content/english/blog/250223-planting-workshop.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 250223-planting-workshop"
             }
           }
         ]
@@ -147,8 +165,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6e01a25d671e1ce1",
+  "active": "96c2f25b205d8b95",
   "lastOpenFiles": [
+    "README.md",
     "templates/newsletter.md",
     "content/english/blog/240712-newsletter.md",
     "templates/newsletter.html",
