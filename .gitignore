@@ -5,6 +5,8 @@ Thumbs.db
 .tmp
 .lock
 .sass-cache
+.trash
+.stfolder
 npm-debug.log
 node_modules
 builds
