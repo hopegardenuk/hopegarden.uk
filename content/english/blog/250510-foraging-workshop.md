@@ -1,7 +1,7 @@
 ---
-title: The value of connections
+title: 250510 Foraging Workshop
 description: 
-date: 2025-03-11T10:00:00Z
+date: 2025-05-11T12:57:44+01:00
 author: Jake Rayson 
 tags: 
   - HopeGarden
@@ -13,5 +13,5 @@ alttext:
   - 
 captions: 
   - 
-draft: false
+draft: true
 ---
