@@ -34,7 +34,7 @@ Rydyn ni felly wedi creu cyfres o fideos byr i grynhoi’r prif bwyntiau wrth bl
 Daw’r coed i gyd oddi wrth [Ian Sturrock](https://iansturrockandsons.co.uk/), ac maent i gyd yn fathau Cymreig diddorol iawn. Maent i gyd ar [wreiddgyff](https://www.natureworks.org.uk/rootstocks/) 4m o uchder a llydan (MM106 ar gyfer afalau, Colt ar gyfer ceirios, St Julien ar gyfer eirin, Quince A ar gyfer gellyg):
 
 1. Afal [’Gwell na mil’](https://iansturrockandsons.co.uk/product/seeknofurther/)
-2. Afal [’Marged Nicolas’](https://growninwales.co.uk/giw_grower/dolau-hirion-fruit-trees/
+2. Afal [’Marged Nicolas’](https://growninwales.co.uk/giw_grower/dolau-hirion-fruit-trees/)
 3. Afal [‘Morgan Sweet’](https://www.orangepippin.com/varieties/apples/morgan-sweet)
 4. Afal [‘Pig Aderyn’](https://pomiferous.com/applebyname/pig-aderyn-id-4936)
 5. Afal [‘Pig y Golomen’](https://pomiferous.com/applebyname/pig-y-golomen-id-8904_)
@@ -43,7 +43,7 @@ Daw’r coed i gyd oddi wrth [Ian Sturrock](https://iansturrockandsons.co.uk/), 
 8. Damson [’Abergwyngregyn’](https://iansturrockandsons.co.uk/product/aberdamsonc/)
 9. Gellygen [‘Brenhines yr Wyddfa’](https://iansturrockandsons.co.uk/product/snowdonqueen/)
 10. Gellygen [‘Penrhyn Castle’](https://iansturrockandsons.co.uk/product/penrhyncastlepear/)
-11. Eirinen [‘Denbigh’](https://walcotnursery.co.uk/product/denbigh/)<br>    
+11. Eirinen [‘Denbigh’](https://walcotnursery.co.uk/product/denbigh/)
 
 Mae yna 15 coeden i gyd, ac fe af nôl i dynnu lluniau o’r holl labeli a chreu rhestr [OpenStreetMap](https://www.openstreetmap.org/) a’r data arni. Fe wnaf labeli metel hefyd, a fydd yn para mor hir â’r goeden. Bydd y labeli plastig yn dod i ffwrdd ar ôl ychydig flynyddoedd, a bydd cortyn yn torri i mewn i’r rhisgl wrth i’r goeden dyfu.
 
