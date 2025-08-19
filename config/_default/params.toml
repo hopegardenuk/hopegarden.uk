@@ -52,24 +52,24 @@ map_longitude = "-4.633375693549827"
 
 ########################### social icon ############################
 [[social]]
-icon = "fab fa-instagram"
-link = "https://instagram.com/hopegardenfuture"
+icon = "fab fa-font-awesome"
+link = "https://pixelfed.social/hopegarden"
 
-[[social]]
-icon = "fab fa-facebook"
-link = "https://facebook.com/hopegardenuk"
+# [[social]]
+# icon = "fab fa-facebook"
+# link = "https://facebook.com/hopegardenuk"
 
-[[social]]
-icon = "fab fa-youtube"
-link = "https://youtube.com/@hopegardenuk"
+# [[social]]
+# icon = "fab fa-youtube"
+# link = "https://youtube.com/@hopegardenuk"
 
-[[social]]
-icon = "fab fa-tiktok"
-link = "https://tiktok.com/@hopegardenuk"
+# [[social]]
+# icon = "fab fa-tiktok"
+# link = "https://tiktok.com/@hopegardenuk"
 
-[[social]]
-icon = "fab fa-github"
-link = "https://github.com/hopegardenuk"
+# [[social]]
+# icon = "fab fa-github"
+# link = "https://github.com/hopegardenuk"
 
 # [[social]]
 # icon = "fab fa-mastodon"
