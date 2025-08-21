@@ -3,129 +3,89 @@
 # main menu
 
 [[main]]
-name = "Toolkit"
-url = "toolkit/"
+name = "Photos"
+url = "photos/"
 weight = 1
 
 [[main]]
-weight = 5
-name = "Pages"
+name = "Toolkit"
 hasChildren = true
-
-
-  [[main]]
-  parent = "Pages"
-  name = "Partners"
-  url = "partners/"
-  weight = 2
+url = "toolkit/"
+weight = 2
 
   [[main]]
-  parent = "Pages"
-  name = "About"
-  url = "about/"
-  weight = 3
-
-  [[main]]
-  parent = "Pages"
-  name = "Team"
-  url = "team/"
-  weight = 4
-
-  [[main]]
-  parent = "Pages"
-  name = "Contact"
-  url = "contact/"
-  weight = 6
-
-[[main]]
-name = "Admin"
-hasChildren = true
-weight = 5
-
-  [[main]]
-  parent = "Admin"
-  name = "Workshops"
-  url = "workshops/"
+  parent = "Toolkit"
+  name = "Canvas shelter"
+  url = "toolkit/canvas/"
   weight = 1
 
   [[main]]
-  parent = "Admin"
-  name = "Events calendar"
-  url = "events/"
+  parent = "Toolkit"
+  name = "Storage unit"
+  url = "toolkit/storage/"
   weight = 2
 
   [[main]]
-  parent = "Admin"
+  parent = "Toolkit"
+  name = "CAD"
+  url = "toolkit/cad/"
+  weight = 3
+
+  [[main]]
+  parent = "Toolkit"
+  name = "Gabion"
+  url = "toolkit/gabion/"
+  weight = 4
+
+  [[main]]
+  parent = "Toolkit"
+  name = "Mint hex beds"
+  url = "toolkit/hexbeds/"
+  weight = 5
+
+
+
+[[main]]
+name = "Ecology"
+hasChildren = true
+weight = 5
+
+  [[main]]
+  parent = "Ecology"
+  name = "Your Wild Patch"
+  url = "your-wild-patch/"
+  weight = 1
+
+  [[main]]
+  parent = "Ecology"
   name = "Plants spreadsheet"
   url = "plants/"
-  weight = 3
-
-  [[main]]
-  parent = "Admin"
-  name = "Species spreadsheet"
-  url = "species/"
-  weight = 4
-
-  [[main]]
-  parent = "Admin"
-  name = "Media Pack"
-  url = "media/"
-  weight = 5
-
-[[main]]
-name = "Grant"
-hasChildren = true
-weight = 6
-
-  [[main]]
-  parent = "Grant"
-  name = "Grant overview"
-  url = "grant/overview/"
-  weight = 1
-
-  [[main]]
-  parent = "Grant"
-  name = "Application"
-  url = "grant/application/"
   weight = 2
 
   [[main]]
-  parent = "Grant"
-  name = "Purposes"
-  url = "grant/purposes/"
+  parent = "Ecology"
+  name = "Species spreadsheet"
+  url = "species/"
   weight = 3
 
-  [[main]]
-  parent = "Grant"
-  name = "Maintenance"
-  url = "grant/maintenance/"
-  weight = 4
-
-  [[main]]
-  parent = "Grant"
-  name = "Performance"
-  url = "grant/performance/"
-  weight = 5
-
-  [[main]]
-  parent = "Grant"
-  name = "Project"
-  url = "grant/project/"
-  weight = 5
-
 # footer menu
+
 [[footer]]
-name = "Licensing"
-url = "licensing/"
+name = "About"
+url = "about/"
 weight = 1
 
 [[footer]]
-name = "Newsletter"
-url = "newsletter/"
+name = "Contact"
+url = "contact/"
 weight = 2
 
 [[footer]]
-name = "Blog"
-url = "blog/"
+name = "Archive"
+url = "archive/"
 weight = 3
 
+[[footer]]
+name = "Licensing"
+url = "licensing/"
+weight = 4
