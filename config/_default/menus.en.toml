@@ -3,52 +3,61 @@
 # main menu
 
 [[main]]
+name = "Events"
+url = "events/"
+weight = 1
+
+[[main]]
 name = "Photos"
 url = "photos/"
-weight = 1
+weight = 2
 
 [[main]]
 name = "Toolkit"
 hasChildren = true
 url = "toolkit/"
-weight = 2
+weight = 3
+
+  [[main]]
+  parent = "Toolkit"
+  name = "All toolkits"
+  url = "toolkit/"
+  weight = 1
 
   [[main]]
   parent = "Toolkit"
   name = "Canvas shelter"
   url = "toolkit/canvas/"
-  weight = 1
+  weight = 2
 
   [[main]]
   parent = "Toolkit"
   name = "Storage unit"
   url = "toolkit/storage/"
-  weight = 2
+  weight = 3
 
   [[main]]
   parent = "Toolkit"
   name = "CAD"
   url = "toolkit/cad/"
-  weight = 3
+  weight = 4
 
   [[main]]
   parent = "Toolkit"
   name = "Gabion"
   url = "toolkit/gabion/"
-  weight = 4
+  weight = 5
 
   [[main]]
   parent = "Toolkit"
   name = "Mint hex beds"
   url = "toolkit/hexbeds/"
-  weight = 5
-
-
+  weight = 6
 
 [[main]]
 name = "Ecology"
 hasChildren = true
-weight = 5
+weight = 4
 
   [[main]]
   parent = "Ecology"
@@ -67,6 +76,12 @@ weight = 5
   name = "Species spreadsheet"
   url = "species/"
   weight = 3
+
+  [[main]]
+  parent = "Ecology"
+  name = "Native ground cover"
+  url = "ground-cover/"
+  weight = 4
 
 # footer menu
 
